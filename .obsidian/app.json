@@ -4,5 +4,8 @@
   "showIndentGuide": false,
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "showUnsupportedFiles": false,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "./attachments"
 }
