@@ -1,0 +1,4 @@
+/* 调整 Obsidian 编辑模式的行间距 */
+.markdown-source-view .CodeMirror-lines {
+    line-height: 1.8; /* 修改为你想要的行间距值 */
+}

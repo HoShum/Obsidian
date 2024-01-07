@@ -1,6 +1,9 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Things",
-  "baseFontSize": 16
+  "cssTheme": "GitHub Theme",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "custom"
+  ]
 }
