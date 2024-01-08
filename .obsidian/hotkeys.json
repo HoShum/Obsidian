@@ -14,5 +14,14 @@
       ],
       "key": "O"
     }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
   ]
 }
