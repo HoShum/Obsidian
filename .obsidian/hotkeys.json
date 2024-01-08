@@ -23,5 +23,13 @@
       ],
       "key": "ArrowLeft"
     }
+  ],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }
