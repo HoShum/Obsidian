@@ -14,9 +14,6 @@ interface Node {
 	Node next();
 }
 
-abstarct class SingleNode
-
-
 enum ComponentType {
 	Normal
 	Switch
