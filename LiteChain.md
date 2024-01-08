@@ -14,9 +14,11 @@ interface Node {
 	Node next();
 }
 
+
 enum ComponentType {
 	Normal
 	Switch
 	Loop
 }
 ```
+
