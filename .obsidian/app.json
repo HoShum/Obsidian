@@ -7,5 +7,6 @@
   "propertiesInDocument": "visible",
   "showUnsupportedFiles": false,
   "newFileLocation": "root",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "useTab": true
 }

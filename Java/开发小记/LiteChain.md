@@ -46,5 +46,3 @@ enum ComponentType {
 	Loop
 }
 ```
-
-	
