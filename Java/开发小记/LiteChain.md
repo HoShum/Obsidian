@@ -8,12 +8,36 @@ interface Component {
 	Object proceed(ChainContext context);
 }
 
+Component --> ComponentType : Use
+
+Class ChainContext {
+	T get(Class<T> type);
+	<T> void put(T cache);
+}
+
+Component --> ChainContext : Use
+
 interface Node {
 	void setComponent(Component component);
 	Component getComponent();
 	Node next();
 }
 
+class SingleNode 
+class SwitchNode
+class LoopNode
+
+Node <|-- SingleNode
+Node <|-- SwitchNode
+Node <|-- LoopNode
+
+Node o-- Component
+
+Class Chain {
+	List<Node> nodes;
+}
+
+Chain *-- Node
 
 enum ComponentType {
 	Normal
