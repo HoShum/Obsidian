@@ -1,7 +1,7 @@
 ## 结构设计
 
 ### 1、UML图
-```plantuml
+```plantuml-svg
 interface Component {
 	String getId();
 	ComponentType getType();

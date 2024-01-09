@@ -1,6 +1,6 @@
 {
   "server_url": "https://www.plantuml.com/plantuml",
-  "header": "!theme _none_",
+  "header": "!theme vibrant",
   "debounce": 3,
   "localJar": "",
   "javaPath": "java",
