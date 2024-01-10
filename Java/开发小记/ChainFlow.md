@@ -36,13 +36,36 @@ Node o-- Component
 
 Class Chain {
 	List<Node> nodes;
+	ChainContext context;
 }
 
 Chain *-- Node
+Chain --> ChainContext : Contains
 
 enum ComponentType {
-	Normal
-	Switch
-	Loop
+	NORMAL
+	SWITCH
+	LOOP
 }
+
+interface ChainBuilder {
+	Chain build();
+}
+
+ChainBuilder --> Chain : Build
+
+interface Parser {
+	
+}
+
+abstract class ChainELBuilder {
+	begin(Component component);
+	when(Component component);
+	else(Component component);
+	end();
+}
+
+ChainBuilder --> ChainELBuilder : Use
+
+
 ```
