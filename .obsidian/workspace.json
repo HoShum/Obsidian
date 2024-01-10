@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "000e1d5ee2fd8d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/MySQL/Undo日志.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#MySQL/Redo日志",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/MySQL/Redo日志.md",
+                "file": "DataBase/MySQL/Undo日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/MySQL/Redo日志.md",
+                "file": "DataBase/MySQL/Undo日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/MySQL/Redo日志.md"
+                "file": "DataBase/MySQL/Undo日志.md"
               }
             }
           }
@@ -149,10 +163,11 @@
       "remotely-secure:Remotely Sync": false
     }
   },
-  "active": "5ba0d606bb9c8072",
+  "active": "000e1d5ee2fd8d14",
   "lastOpenFiles": [
-    "DataBase/MySQL/BufferPool.md",
     "DataBase/MySQL/Redo日志.md",
+    "DataBase/MySQL/Undo日志.md",
+    "DataBase/MySQL/BufferPool.md",
     "DataBase/MySQL",
     "Java/开发小记/ChainFlow.md",
     "DataBase",

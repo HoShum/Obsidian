@@ -1,4 +1,4 @@
-#MySQL/Redo日志
+#MySQL/log/Redo日志
 ## 什么是redo日志
 首先要明白，如果我们在MySQL中修改了某个表的中的数据，并非立即将这些要更新的数据写入到数据库，而是将修改写入到Buffer Pool中，再刷新回磁盘
 > 具体可看[[BufferPool]]
