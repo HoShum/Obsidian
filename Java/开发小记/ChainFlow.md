@@ -58,14 +58,13 @@ interface Parser {
 	
 }
 
-abstract class ChainELBuilder {
+abstract class ChainELBuilder implements Parser {
 	begin(Component component);
 	when(Component component);
 	else(Component component);
 	end();
 }
 
-ChainBuilder --> ChainELBuilder : Use
 
 
 ```
