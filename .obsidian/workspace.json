@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "21b918696827e53b",
+        "id": "2e5827ce0a5317fc",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba0d606bb9c8072",
+            "id": "93d8d5e8a8ed01f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/MySQL/Redo日志.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "000e1d5ee2fd8d14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/MySQL/Undo日志.md",
-                "mode": "source",
+                "file": "Personal/2023年终复盘.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/MySQL/Undo日志.md",
+                "file": "Personal/2023年终复盘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/MySQL/Undo日志.md",
+                "file": "Personal/2023年终复盘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/MySQL/Undo日志.md"
+                "file": "Personal/2023年终复盘.md"
               }
             }
           }
@@ -163,13 +149,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "000e1d5ee2fd8d14",
+  "active": "93d8d5e8a8ed01f6",
   "lastOpenFiles": [
+    "DataBase/MySQL/BufferPool.md",
     "DataBase/MySQL/Redo日志.md",
     "DataBase/MySQL/Undo日志.md",
-    "DataBase/MySQL/BufferPool.md",
-    "DataBase/MySQL",
     "Java/开发小记/ChainFlow.md",
+    "Personal/2023年终复盘.md",
+    "Personal",
+    "DataBase/MySQL",
     "DataBase",
     "Untitled 1.md",
     "Java/读书笔记",

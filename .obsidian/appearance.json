@@ -2,9 +2,11 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Things",
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "enabledCssSnippets": [
     "custom"
   ],
-  "translucency": false
+  "translucency": false,
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "霞鹜文楷"
 }
