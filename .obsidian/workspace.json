@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e5827ce0a5317fc",
+        "id": "1f3b6a550e9c1a82",
         "type": "tabs",
         "children": [
           {
-            "id": "93d8d5e8a8ed01f6",
+            "id": "7fabdcd40a8c7365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/2023年终复盘.md",
-                "mode": "preview",
+                "file": "Personal/2023年终总结.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/2023年终复盘.md",
+                "file": "Personal/2023年终总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/2023年终复盘.md",
+                "file": "Personal/2023年终总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/2023年终复盘.md"
+                "file": "Personal/2023年终总结.md"
               }
             }
           }
@@ -138,24 +138,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "93d8d5e8a8ed01f6",
+  "active": "7fabdcd40a8c7365",
   "lastOpenFiles": [
-    "DataBase/MySQL/BufferPool.md",
     "DataBase/MySQL/Redo日志.md",
+    "Personal/2023年终总结.md",
+    "write.md",
+    "DataBase/MySQL/BufferPool.md",
     "DataBase/MySQL/Undo日志.md",
     "Java/开发小记/ChainFlow.md",
-    "Personal/2023年终复盘.md",
     "Personal",
     "DataBase/MySQL",
     "DataBase",

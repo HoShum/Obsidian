@@ -8,5 +8,6 @@
   "showUnsupportedFiles": false,
   "newFileLocation": "root",
   "attachmentFolderPath": "./attachments",
-  "useTab": true
+  "useTab": true,
+  "spellcheck": false
 }
