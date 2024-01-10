@@ -1,0 +1,14 @@
+{
+  "showPlaceholder": true,
+  "cmdsSorting": [
+    "insert-note-callout",
+    "insert-tag",
+    "insert-embed",
+    "insert-todo",
+    "insert-code",
+    "insert-divide",
+    "insert-info-callout",
+    "insert-tip-callout",
+    "insert-example-callout"
+  ]
+}

@@ -49,14 +49,17 @@ enum ComponentType {
 }
 
 interface ChainBuilder {
-	Chain build();
+	Chain build(List<Component> components);
+	Chain build(InputStream stream);
 }
 
 ChainBuilder --> Chain : Build
 
 interface Parser {
-	
+	List<Component> parse();
 }
+
+interface XmlParser extends Parser
 
 abstract class ChainELBuilder implements Parser {
 	begin(Component component);
