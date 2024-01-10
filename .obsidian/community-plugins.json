@@ -5,10 +5,10 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-emoji-toolbar",
   "obsidian-image-auto-upload-plugin",
-  "remotely-secure",
   "obsidian-style-settings",
   "dynamic-line-height-cjk",
   "obsidian-excalidraw-plugin",
   "typing-assistant",
-  "vim-im-select"
+  "vim-im-select",
+  "remotely-save"
 ]
