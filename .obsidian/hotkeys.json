@@ -41,5 +41,13 @@
     }
   ],
   "editor:open-search-replace": [],
-  "editor:toggle-checklist-status": []
+  "editor:toggle-checklist-status": [],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "E"
+    }
+  ]
 }
