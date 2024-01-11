@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/MySQL/Undo日志.md",
-                "mode": "source",
+                "file": "DataBase/MySQL/Redo日志.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/MySQL/Undo日志.md",
+                "file": "DataBase/MySQL/Redo日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/MySQL/Undo日志.md",
+                "file": "DataBase/MySQL/Redo日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/MySQL/Undo日志.md"
+                "file": "DataBase/MySQL/Redo日志.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "custom-sort:Toggle custom sorting": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
@@ -151,13 +152,13 @@
   },
   "active": "fb6d01182be03e8a",
   "lastOpenFiles": [
+    "Java/开发小记/ChainFlow.md",
+    "DataBase/MySQL/BufferPool.md",
+    "DataBase/MySQL/Redo日志.md",
     "DataBase/MySQL/Undo日志.md",
     "Personal/2023年终总结.md",
     "Personal",
-    "DataBase/MySQL/Redo日志.md",
-    "DataBase/MySQL/BufferPool.md",
     "DataBase/MySQL",
-    "Java/开发小记/ChainFlow.md",
     "DataBase",
     "Untitled 1.md",
     "Java/读书笔记",
