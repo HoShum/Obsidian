@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/2023年终总结.md",
+                "file": "DataBase/MySQL/Undo日志.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/2023年终总结.md",
+                "file": "DataBase/MySQL/Undo日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/2023年终总结.md",
+                "file": "DataBase/MySQL/Undo日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/2023年终总结.md"
+                "file": "DataBase/MySQL/Undo日志.md"
               }
             }
           }
@@ -151,10 +151,10 @@
   },
   "active": "7fabdcd40a8c7365",
   "lastOpenFiles": [
-    "DataBase/MySQL/Redo日志.md",
-    "Personal/2023年终总结.md",
-    "write.md",
     "DataBase/MySQL/BufferPool.md",
+    "Personal/2023年终总结.md",
+    "DataBase/MySQL/Redo日志.md",
+    "write.md",
     "DataBase/MySQL/Undo日志.md",
     "Java/开发小记/ChainFlow.md",
     "Personal",
