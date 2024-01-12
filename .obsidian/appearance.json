@@ -1,5 +1,5 @@
 {
-  "accentColor": "",
+  "accentColor": "#bd4ce6",
   "theme": "obsidian",
   "cssTheme": "Things",
   "baseFontSize": 17,
@@ -7,7 +7,7 @@
     "custom"
   ],
   "translucency": false,
-  "monospaceFontFamily": "",
-  "textFontFamily": "霞鹜文楷",
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "LXGW WenKai",
   "nativeMenus": true
 }

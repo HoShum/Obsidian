@@ -5,7 +5,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-emoji-toolbar",
   "obsidian-image-auto-upload-plugin",
-  "obsidian-style-settings",
   "dynamic-line-height-cjk",
   "obsidian-excalidraw-plugin",
   "typing-assistant",
@@ -16,5 +15,6 @@
   "obsidian-pandoc",
   "obsidian-enhancing-mindmap",
   "excalidraw-cn",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "code-styler"
 ]
