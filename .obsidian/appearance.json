@@ -4,7 +4,8 @@
   "cssTheme": "Things",
   "baseFontSize": 17,
   "enabledCssSnippets": [
-    "custom"
+    "custom",
+    "custom-codeblock"
   ],
   "translucency": false,
   "monospaceFontFamily": "JetBrains Mono",
