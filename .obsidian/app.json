@@ -9,5 +9,6 @@
   "newFileLocation": "root",
   "attachmentFolderPath": "./attachments",
   "useTab": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "rightToLeft": false
 }
