@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/MySQL/Redo日志.md",
+                "file": "Java/框架/MyBatis/01基础篇.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/MySQL/Redo日志.md",
+                "file": "Java/框架/MyBatis/01基础篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/MySQL/Redo日志.md",
+                "file": "Java/框架/MyBatis/01基础篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/MySQL/Redo日志.md"
+                "file": "Java/框架/MyBatis/01基础篇.md"
               }
             }
           }
@@ -153,8 +153,15 @@
   },
   "active": "acdc33093bd95baa",
   "lastOpenFiles": [
-    "DataBase/MySQL/BufferPool.md",
+    "Java/框架/MyBatis/02配置文件加载与解析.md",
+    "Java/框架/MyBatis/01基础篇.md",
+    "Java/框架/MyBatis/04解析Mapper接口.md",
+    "Java/框架/MyBatis/05缓存设计与原理.md",
+    "Java/框架/MyBatis/03解析Mappr文件.md",
     "DataBase/MySQL/Redo日志.md",
+    "Java/框架/MyBatis",
+    "Java/框架",
+    "DataBase/MySQL/BufferPool.md",
     "DataBase/MySQL/Undo日志.md",
     "Personal/2023年终总结.md",
     "Personal/2023年终总结.docx",
