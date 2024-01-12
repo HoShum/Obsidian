@@ -1,5 +1,5 @@
 {
-  "accentColor": "#bd4ce6",
+  "accentColor": "#be0ad6",
   "theme": "obsidian",
   "cssTheme": "Things",
   "baseFontSize": 17,
@@ -7,7 +7,7 @@
     "custom",
     "custom-codeblock"
   ],
-  "translucency": false,
+  "translucency": true,
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "LXGW WenKai",
   "nativeMenus": true
