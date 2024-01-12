@@ -1,12 +1,13 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Things",
+  "cssTheme": "Dracula for Obsidian",
   "baseFontSize": 17,
   "enabledCssSnippets": [
     "custom"
   ],
   "translucency": false,
-  "monospaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "霞鹜文楷"
+  "monospaceFontFamily": "JetBrains Mono,Andale Mono",
+  "textFontFamily": "霞鹜文楷",
+  "nativeMenus": true
 }

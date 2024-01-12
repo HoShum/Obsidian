@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "083fa893a0941523",
+        "id": "70fbcd662acc2318",
         "type": "tabs",
         "children": [
           {
-            "id": "acdc33093bd95baa",
+            "id": "d46db96ee9f571e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/框架/MyBatis/01基础篇.md",
+                "file": "Java/框架/MyBatis/03解析Mappr文件.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/框架/MyBatis/01基础篇.md",
+                "file": "Java/框架/MyBatis/03解析Mappr文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/框架/MyBatis/01基础篇.md",
+                "file": "Java/框架/MyBatis/03解析Mappr文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/框架/MyBatis/01基础篇.md"
+                "file": "Java/框架/MyBatis/03解析Mappr文件.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 411.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,18 +151,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "acdc33093bd95baa",
+  "active": "d46db96ee9f571e9",
   "lastOpenFiles": [
-    "Java/框架/MyBatis/02配置文件加载与解析.md",
     "Java/框架/MyBatis/01基础篇.md",
-    "Java/框架/MyBatis/04解析Mapper接口.md",
-    "Java/框架/MyBatis/05缓存设计与原理.md",
-    "Java/框架/MyBatis/03解析Mappr文件.md",
+    "Java/框架/MyBatis/02配置文件加载与解析.md",
+    "DataBase/MySQL/Undo日志.md",
     "DataBase/MySQL/Redo日志.md",
+    "DataBase/MySQL/BufferPool.md",
+    "Java/框架/MyBatis/05缓存设计与原理.md",
+    "Java/框架/MyBatis/04解析Mapper接口.md",
+    "Java/框架/MyBatis/03解析Mappr文件.md",
     "Java/框架/MyBatis",
     "Java/框架",
-    "DataBase/MySQL/BufferPool.md",
-    "DataBase/MySQL/Undo日志.md",
     "Personal/2023年终总结.md",
     "Personal/2023年终总结.docx",
     "Java/开发小记/ChainFlow.md",
