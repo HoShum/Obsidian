@@ -1,9 +1,9 @@
 {
   "userAdmonitions": {},
   "syntaxHighlight": false,
-  "copyButton": false,
+  "copyButton": true,
   "version": "10.1.1",
-  "autoCollapse": false,
+  "autoCollapse": true,
   "defaultCollapseType": "open",
   "injectColor": true,
   "parseTitles": true,
@@ -12,8 +12,8 @@
   "open": {
     "admonitions": true,
     "icons": true,
-    "other": false,
-    "advanced": false
+    "other": true,
+    "advanced": true
   },
   "icons": [],
   "useFontAwesome": true,
