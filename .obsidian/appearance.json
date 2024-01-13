@@ -7,7 +7,7 @@
     "custom",
     "custom-codeblock"
   ],
-  "translucency": true,
+  "translucency": false,
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "LXGW WenKai",
   "nativeMenus": true
