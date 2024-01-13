@@ -270,7 +270,7 @@
     "settings": {
       "codeblock": {
         "lineNumbers": true,
-        "unwrapLines": false,
+        "unwrapLines": true,
         "wrapLinesActive": false,
         "curvature": 4
       },
@@ -282,7 +282,7 @@
         "title": {
           "textFont": "",
           "textBold": false,
-          "textItalic": false
+          "textItalic": true
         },
         "languageTag": {
           "display": "none",
@@ -295,21 +295,21 @@
           "displayColour": true
         },
         "fontSize": 14,
-        "foldPlaceholder": "fold"
+        "foldPlaceholder": ""
       },
       "highlights": {
         "activeCodeblockLine": false,
         "activeEditorLine": false
       },
       "inline": {
-        "syntaxHighlight": true,
-        "style": true,
+        "syntaxHighlight": false,
+        "style": false,
         "fontWeight": 4,
-        "curvature": 6,
+        "curvature": 5,
         "paddingVertical": 5,
         "paddingHorizontal": 5,
         "marginHorizontal": 0,
-        "titleFontWeight": 8
+        "titleFontWeight": 5
       },
       "advanced": {
         "gradientHighlights": false,
@@ -386,10 +386,10 @@
           "alternativeHighlights": {}
         },
         "inline": {
-          "backgroundColour": "--code-background",
+          "backgroundColour": "#CE0928",
           "textColour": "--code-normal",
           "activeTextColour": "--code-normal",
-          "titleTextColour": "--code-comment"
+          "titleTextColour": "#D51130"
         },
         "advanced": {
           "buttonColour": "--text-muted",

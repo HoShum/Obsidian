@@ -4,7 +4,6 @@
   "obsidian-git",
   "obsidian-emoji-toolbar",
   "obsidian-image-auto-upload-plugin",
-  "dynamic-line-height-cjk",
   "obsidian-excalidraw-plugin",
   "typing-assistant",
   "remotely-save",
@@ -17,5 +16,6 @@
   "code-styler",
   "obsidian-enhancing-export",
   "obsidian42-brat",
-  "obsidian-bartender"
+  "obsidian-bartender",
+  "dynamic-line-height-cjk"
 ]
