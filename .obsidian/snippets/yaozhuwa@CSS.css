@@ -3,9 +3,22 @@
 name: yaozhuwa@css
 id: yaozhuwa@css
 settings:
-    -   id: outline-tweak
+    -   
+        id: blank-line-tweak
+        title: Live Preview 空白行优化V2.0
+        description: 见 https://forum-zh.obsidian.md/t/topic/12515
+        type: class-toggle
+        default: true
+    -   
+        id: outline-tweak
         title: 大纲美化
         description: 见 https://forum-zh.obsidian.md/t/topic/11219
+        type: class-toggle
+        default: true
+    -   
+        id: seamless-embed
+        title: 内嵌文档自然显示
+        description: 语法：![[嵌入的文档|seamless]]，来自 AnuPpuccin 主题
         type: class-toggle
         default: true
     -
@@ -23,6 +36,24 @@ settings:
         description.zh:  csslass 声明 code-line-number 可对单篇note生效，来自 blue-topaz 主题
         type: class-toggle
         default: true
+    - 
+        id: context-tweak
+        title: 排版优化
+        type: heading
+        level: 1
+        collapsed: true
+    -
+        id: increase-paragraph-gap
+        title: 段落间距增大
+        description: 来自 yaozhuwa
+        type: class-toggle
+        default: true
+    -
+        id: increase-headings-gap
+        title: 标题与正文间距增大
+        description: 来自 yaozhuwa
+        type: class-toggle
+        default: true
     -
         id: center-image
         title: 图片居中显示
@@ -35,6 +66,25 @@ settings:
         description: 来自 blue-topaz 主题
         type: class-toggle
         default: true
+    - 
+        id: table-tweak
+        title: 表格优化
+        type: heading
+        level: 2
+        collapsed: false
+    -
+        id: full-width-table
+        title: 全宽表格
+        description: 来自 blue-topaz 主题
+        type: class-toggle
+        default: true
+    -
+        id: table-line-number
+        title: 表格行号显示
+        description: 来自 minimal 主题
+        type: class-toggle
+        default: true
+
 */
 
 /* 美化的大纲 */
@@ -317,9 +367,11 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
 .center-image .print :is(.markdown-preview-view,.markdown-rendered) img:not([class*="emoji"]) {
   display: block;
 }
+
 .center-image .view-content img:not([class*="emoji"]) {
   cursor: zoom-in;
   display: block;
@@ -327,16 +379,106 @@ body {
   margin-right: auto !important;
 }
 
-.center-image .internal-embed.image-embed.is-loaded img:not([class*="emoji"]) {
-/*  max-width: var(--image-max-width);*/
-  margin: 3px auto;
-  display: block;
+
+/* 预览模式空白行优化 https://forum-zh.obsidian.md/t/topic/12515 */
+.blank-line-tweak .is-live-preview [class="hr cm-line"] {
+    line-height: 0.6em;
 }
 
-.center-image .markdown-source-view.mod-cm6 img:not([class*="emoji"]) {
-  display: block;
-  margin: auto !important;
-  cursor: help;
+.blank-line-tweak .is-live-preview [class="cm-active cm-line"] {
+    transition: 0.5s line-height;
+}
+
+.blank-line-tweak .is-live-preview :is([class=cm-line]:has(+ :is(.hr))), .blank-line-tweak  .is-live-preview :is(.HyperMD-quote, .cm-callout, .HyperMD-list-line) + [class="cm-line"] {
+    padding-top: 0em !important;
+    padding-bottom: 0em !important;
+    line-height: 0.5;
+    transition: 0.5s line-height,0.5s background-color;
+    border-radius: var(--radius-s);
+}
+
+.blank-line-tweak .is-live-preview :is([class=cm-line]:has(+ :is(.hr))):hover, .blank-line-tweak .is-live-preview :is(.HyperMD-quote, .cm-callout, .HyperMD-list-line) + [class="cm-line"]:hover {
+    background-color: hsla(var(--color-accent-hsl), 0.4);
+}
+
+.full-width-table :is(.markdown-preview-section,.markdown-rendered) table:not(.dataview.table-view-table) {
+        width: 100%;/*表格占页面的宽度*/
+        border-collapse: collapse;
+        overflow: auto;
+        margin: 5px auto;
+}
+
+/* 表格优化，From minimal theme */
+.table-line-number table:not(.calendar) {
+  counter-reset: section
+}
+
+.table-line-number table:not(.calendar)>thead>tr>th:first-child::before {
+  content: " ";
+  padding-right: .5em;
+  display: inline-block;
+  min-width: 2em
+}
+
+.table-line-number table:not(.calendar)>tbody>tr>td:first-child::before {
+  counter-increment: section;
+  content: counter(section) " ";
+  text-align: center;
+  padding-right: .5em;
+  display: inline-block;
+  min-width: 2em;
+/*  color: var(#6c6e70);*/
+  font-variant-numeric: tabular-nums
+}
+
+/*段落间距优化*/
+.increase-paragraph-gap div.cm-line {
+    padding-top: 0.3em !important;
+    padding-bottom: 0.3em !important;
 }
 
 
+.increase-paragraph-gap div.HyperMD-list-line.cm-line{
+    padding-top: 0.1em !important;
+    padding-bottom: 0.1em !important;
+}
+
+.increase-paragraph-gap div.HyperMD-codeblock.cm-line, div.hr{
+    padding-top: 0em !important;
+    padding-bottom: 0em !important;
+}
+
+.increase-paragraph-gap p>br {
+    content: '';
+    margin-top: 0.5em;
+    display: block;
+}
+
+/* 标题间距优化 */ 
+.increase-headings-gap div.HyperMD-header.cm-line{
+    padding-top: 0.5em !important;
+    padding-bottom: 0.5em !important;
+}
+
+/* 内嵌文档自然显示，来自 AnuPpuccin 主题 */
+.seamless-embed .internal-embed[alt*=seamless].markdown-embed {
+  --embed-padding: 0;
+  border-width: 0px;
+}
+.seamless-embed .internal-embed[alt*=seamless].markdown-embed > .markdown-embed-title {
+  width: fit-content;
+  position: absolute;
+  left: unset;
+  right: 33px;
+  top: 5px;
+  opacity: 0;
+  transition: opacity 0.1s;
+}
+.seamless-embed .internal-embed[alt*=seamless].markdown-embed > .markdown-embed-link {
+  opacity: 0;
+  transition: opacity 0.1s;
+}
+.seamless-embed .internal-embed[alt*=seamless].markdown-embed:hover > .markdown-embed-title, .internal-embed[alt*=seamless].markdown-embed:hover > .markdown-embed-link {
+  opacity: 1;
+  transition: opacity 0.1s;
+}

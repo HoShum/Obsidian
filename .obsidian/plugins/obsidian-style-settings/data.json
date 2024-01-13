@@ -50,6 +50,9 @@
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-atom-light",
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-atom-dark",
-  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
+  "yaozhuwa@css@@code-line-number": false,
+  "yaozhuwa@css@@clutter-free-headings": false,
+  "yaozhuwa@css@@center-image": true,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-atom-dark"
 }
