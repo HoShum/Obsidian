@@ -5,8 +5,15 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIcons": [
+      "SiFramework7",
+      "SiMysql",
+      "BoBxsHappyBeaming",
+      "🧑",
+      "BoBxlJava",
+      "BoBxData"
+    ],
+    "recentlyUsedIconsSize": 10,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -19,5 +26,13 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
-  }
+  },
+  "DataBase": {
+    "iconName": "BoBxData",
+    "inheritanceIcon": "BoBxData"
+  },
+  "Java": "BoBxlJava",
+  "Personal": "BoBxsHappyBeaming",
+  "DataBase/MySQL": "SiMysql",
+  "Java/框架": "SiFramework7"
 }
