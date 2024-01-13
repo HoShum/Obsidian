@@ -55,18 +55,11 @@
   "yaozhuwa@css@@clutter-free-headings": false,
   "yaozhuwa@css@@center-image": true,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-atom-dark",
-  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-custom",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-dracula",
   "Blue-Topaz-Codebox-Highlight@@code-line-number": false,
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-avocado-topaz",
   "blue-topaz-theme@@bt-colorful-titlebar": false,
   "floating-toc-styles@@enable-bar-icon": false,
   "floating-toc-styles@@toggle-floating-toc-header-color": false,
-  "anuppuccin-theme-settings@@anp-callout-toggle": true,
-  "anuppuccin-theme-settings@@anp-editor-font-toggle": true,
-  "anuppuccin-theme-settings@@anp-disable-borders": true,
-  "anuppuccin-theme-settings@@anp-rainbow-folder-border-opacity": 1,
-  "anuppuccin-theme-settings@@anp-simple-rainbow-icon-folder-toggle": true,
-  "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-toggle": true,
-  "anuppuccin-theme-settings@@anp-th-highlight": true,
-  "anuppuccin-theme-settings@@anp-translucent-left": true
+  "Blue-Topaz-Codebox-Highlight@@font-weight-inline-code": "thin"
 }

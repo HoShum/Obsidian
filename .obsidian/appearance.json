@@ -1,15 +1,14 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "",
-  "baseFontSize": 16,
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 15,
   "enabledCssSnippets": [
     "custom",
     "extended-colorschemes",
     "表格优化",
     "yaozhuwa@CSS",
-    "AnuExtendTheme",
-    "custom-rainbow-colors"
+    "AnuExtendTheme"
   ],
   "translucency": false,
   "monospaceFontFamily": "JetBrains Mono",
