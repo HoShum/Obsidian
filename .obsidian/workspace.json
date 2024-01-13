@@ -147,15 +147,16 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "custom-sort:Toggle custom sorting": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "acdc33093bd95baa",
   "lastOpenFiles": [
+    "Java/框架/MyBatis/工具集.md",
+    "Java/框架/MyBatis/日志整合.md",
     "Java/框架/MyBatis/日志整合.html",
     "Java/框架/MyBatis/插件.md",
-    "Java/框架/MyBatis/日志整合.md",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
     "Java/框架/MyBatis/04解析Mapper接口.md",
     "Java/框架/MyBatis/03解析Mappr文件.md",
