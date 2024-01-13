@@ -2,13 +2,13 @@
   "accentColor": "#be0ad6",
   "theme": "obsidian",
   "cssTheme": "Things",
-  "baseFontSize": 17,
+  "baseFontSize": 16,
   "enabledCssSnippets": [
     "custom",
     "custom-codeblock"
   ],
   "translucency": false,
   "monospaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "LXGW WenKai",
+  "textFontFamily": "",
   "nativeMenus": true
 }
