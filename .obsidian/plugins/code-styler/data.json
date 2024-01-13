@@ -270,7 +270,7 @@
     "settings": {
       "codeblock": {
         "lineNumbers": true,
-        "unwrapLines": true,
+        "unwrapLines": false,
         "wrapLinesActive": false,
         "curvature": 4
       },
@@ -295,7 +295,7 @@
           "displayColour": true
         },
         "fontSize": 14,
-        "foldPlaceholder": ""
+        "foldPlaceholder": "fold"
       },
       "highlights": {
         "activeCodeblockLine": false,

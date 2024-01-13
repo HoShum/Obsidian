@@ -1,7 +1,18 @@
 {
   "statusBarOrder": [],
   "ribbonBarOrder": [],
-  "fileExplorerOrder": {},
+  "fileExplorerOrder": {
+    "Java/框架/MyBatis": [
+      "Java/框架/MyBatis/01基础篇.md",
+      "Java/框架/MyBatis/02配置文件加载与解析.md",
+      "Java/框架/MyBatis/03解析Mappr文件.md",
+      "Java/框架/MyBatis/04解析Mapper接口.md",
+      "Java/框架/MyBatis/05缓存设计与原理.md",
+      "Java/框架/MyBatis/插件.md",
+      "Java/框架/MyBatis/日志整合.md",
+      "Java/框架/MyBatis/工具集.md"
+    ]
+  },
   "actionBarOrder": {},
   "autoHide": false,
   "autoHideDelay": 2000,

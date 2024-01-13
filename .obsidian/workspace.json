@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/框架/MyBatis/日志整合.md",
-                "mode": "preview",
+                "file": "Java/框架/MyBatis/工具集.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "custom"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/框架/MyBatis/日志整合.md",
+                "file": "Java/框架/MyBatis/工具集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/框架/MyBatis/日志整合.md",
+                "file": "Java/框架/MyBatis/工具集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/框架/MyBatis/日志整合.md"
+                "file": "Java/框架/MyBatis/工具集.md"
               }
             }
           }
@@ -153,8 +153,8 @@
   },
   "active": "acdc33093bd95baa",
   "lastOpenFiles": [
-    "Java/框架/MyBatis/工具集.md",
     "Java/框架/MyBatis/日志整合.md",
+    "Java/框架/MyBatis/工具集.md",
     "Java/框架/MyBatis/日志整合.html",
     "Java/框架/MyBatis/插件.md",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
