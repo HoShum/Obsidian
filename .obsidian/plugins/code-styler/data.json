@@ -302,14 +302,14 @@
         "activeEditorLine": false
       },
       "inline": {
-        "syntaxHighlight": false,
-        "style": false,
+        "syntaxHighlight": true,
+        "style": true,
         "fontWeight": 4,
-        "curvature": 5,
+        "curvature": 6,
         "paddingVertical": 5,
         "paddingHorizontal": 5,
         "marginHorizontal": 0,
-        "titleFontWeight": 5
+        "titleFontWeight": 8
       },
       "advanced": {
         "gradientHighlights": false,
@@ -386,10 +386,10 @@
           "alternativeHighlights": {}
         },
         "inline": {
-          "backgroundColour": "#CE0928",
+          "backgroundColour": "--code-background",
           "textColour": "--code-normal",
           "activeTextColour": "--code-normal",
-          "titleTextColour": "#D51130"
+          "titleTextColour": "--code-comment"
         },
         "advanced": {
           "buttonColour": "--text-muted",
