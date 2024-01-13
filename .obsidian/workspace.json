@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Java/框架/MyBatis/工具集.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -138,15 +138,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
       "excalidraw-cn:Create New Excalidraw File": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "switcher:打开快速切换": true,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": true,
-      "workspaces:管理工作区布局": false,
       "remotely-save:Remotely Save": true,
       "obsidian42-brat:BRAT": true
     }
