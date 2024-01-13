@@ -54,5 +54,9 @@
   "yaozhuwa@css@@code-line-number": false,
   "yaozhuwa@css@@clutter-free-headings": false,
   "yaozhuwa@css@@center-image": true,
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-atom-dark"
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-atom-dark",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-custom",
+  "Blue-Topaz-Codebox-Highlight@@code-line-number": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@bt-colorful-titlebar": false
 }
