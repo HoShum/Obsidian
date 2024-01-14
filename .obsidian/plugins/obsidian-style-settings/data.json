@@ -71,5 +71,8 @@
   "anuppuccin-theme-settings@@anp-file-label-align": "0",
   "anuppuccin-theme-settings@@anp-colorful-frame": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": true,
-  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": true
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": true,
+  "yaozhuwa@css@@increase-paragraph-gap": false,
+  "yaozhuwa@css@@increase-headings-gap": false,
+  "yaozhuwa@css@@seamless-embed": false
 }
