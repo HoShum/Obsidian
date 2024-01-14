@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🙎‍♂️",
       "SiFramework7",
       "SiMysql",
       "BoBxsHappyBeaming",
@@ -32,7 +33,7 @@
     "inheritanceIcon": "BoBxData"
   },
   "Java": "BoBxlJava",
-  "Personal": "BoBxsHappyBeaming",
+  "Personal": "🙎‍♂️",
   "DataBase/MySQL": "SiMysql",
   "Java/框架": "SiFramework7"
 }
