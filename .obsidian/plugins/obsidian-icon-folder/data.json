@@ -6,13 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🖥",
+      "📚",
+      "🧐",
+      "SiRetool",
+      "🧰",
+      "IbLightBulb",
       "🙎‍♂️",
       "SiFramework7",
       "SiMysql",
-      "BoBxsHappyBeaming",
-      "🧑",
-      "BoBxlJava",
-      "BoBxData"
+      "BoBxsHappyBeaming"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -35,5 +38,9 @@
   "Java": "BoBxlJava",
   "Personal": "🙎‍♂️",
   "DataBase/MySQL": "SiMysql",
-  "Java/框架": "SiFramework7"
+  "Java/框架": "SiFramework7",
+  "Ideas": "IbLightBulb",
+  "Tools": "🧰",
+  "Books": "📚",
+  "CS Base": "🖥"
 }

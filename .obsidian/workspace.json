@@ -159,8 +159,13 @@
       "obsidian42-brat:BRAT": true
     }
   },
-  "active": "acdc33093bd95baa",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
+    "C & Cpp",
+    "CS Base",
+    "Books",
+    "Tools",
+    "Ideas",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
     "Java/开发小记/ChainFlow.md",
     "DataBase/MySQL/BufferPool.md",
@@ -180,11 +185,7 @@
     "Personal/2023年终总结.docx",
     "Personal",
     "DataBase/MySQL",
-    "DataBase",
     "Untitled 1.md",
-    "Java/读书笔记",
-    "Java/开发小记",
-    "Demo.md",
-    "Java"
+    "Demo.md"
   ]
 }
