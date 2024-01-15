@@ -21,5 +21,6 @@
   "obsidian-table-generator",
   "editing-toolbar",
   "code-styler",
-  "calendar"
+  "calendar",
+  "cm-editor-syntax-highlight-obsidian"
 ]

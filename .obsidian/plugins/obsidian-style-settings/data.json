@@ -74,5 +74,6 @@
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": true,
   "yaozhuwa@css@@increase-paragraph-gap": false,
   "yaozhuwa@css@@increase-headings-gap": false,
-  "yaozhuwa@css@@seamless-embed": false
+  "yaozhuwa@css@@seamless-embed": false,
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-preview": "none"
 }
