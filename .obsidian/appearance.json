@@ -10,7 +10,7 @@
     "yaozhuwa@CSS",
     "AnuExtendTheme"
   ],
-  "translucency": false,
+  "translucency": true,
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "",
   "nativeMenus": true
