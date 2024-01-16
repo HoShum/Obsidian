@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "💡",
       "SiTodoist",
       "🖥",
       "📚",
@@ -14,8 +15,7 @@
       "🧰",
       "IbLightBulb",
       "🙎‍♂️",
-      "SiFramework7",
-      "SiMysql"
+      "SiFramework7"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -39,7 +39,7 @@
   "Personal": "🙎‍♂️",
   "DataBase/MySQL": "SiMysql",
   "Java/框架": "SiFramework7",
-  "Ideas": "IbLightBulb",
+  "Ideas": "💡",
   "Tools": "🧰",
   "Books": "📚",
   "CS Base": "🖥",

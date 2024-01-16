@@ -1,6 +1,6 @@
 {
-  "todoPageName": "todo\nTODO\n待办",
-  "showChecked": false,
+  "todoPageName": "todo",
+  "showChecked": true,
   "showAllTodos": true,
   "autoRefresh": true,
   "subGroups": false,
@@ -12,6 +12,6 @@
   "lookAndFeel": "classic",
   "_collapsedSections": [],
   "_hiddenTags": [
-    "todo"
+    "待办"
   ]
 }
