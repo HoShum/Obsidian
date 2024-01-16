@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "cssTheme": "AnuPpuccin",
   "baseFontSize": 16,
   "enabledCssSnippets": [
@@ -10,7 +10,7 @@
     "yaozhuwa@CSS",
     "AnuExtendTheme"
   ],
-  "translucency": true,
+  "translucency": false,
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "",
   "nativeMenus": true
