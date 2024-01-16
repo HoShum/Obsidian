@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiTodoist",
       "🖥",
       "📚",
       "🧐",
@@ -14,8 +15,7 @@
       "IbLightBulb",
       "🙎‍♂️",
       "SiFramework7",
-      "SiMysql",
-      "BoBxsHappyBeaming"
+      "SiMysql"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -42,5 +42,6 @@
   "Ideas": "IbLightBulb",
   "Tools": "🧰",
   "Books": "📚",
-  "CS Base": "🖥"
+  "CS Base": "🖥",
+  "TODO": "SiTodoist"
 }

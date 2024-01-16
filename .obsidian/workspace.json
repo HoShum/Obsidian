@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/框架/MyBatis/03解析Mappr文件.md",
-                "mode": "preview",
+                "file": "Java/框架/MyBatis/工具集.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/框架/MyBatis/03解析Mappr文件.md",
+                "file": "Java/框架/MyBatis/工具集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/框架/MyBatis/03解析Mappr文件.md",
+                "file": "Java/框架/MyBatis/工具集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/框架/MyBatis/03解析Mappr文件.md"
+                "file": "Java/框架/MyBatis/工具集.md"
               }
             }
           }
@@ -179,15 +179,18 @@
       "obsidian42-brat:BRAT": true
     }
   },
-  "active": "e2b42a74803c48bd",
+  "active": "d7a11f84d905d8d0",
   "lastOpenFiles": [
+    "TODO/📆TODO.md",
+    "Java/框架/MyBatis/工具集.md",
+    "Personal/2023年终总结.md",
+    "TODO",
+    "Java/框架/MyBatis/03解析Mappr文件.md",
     "Java/框架/MyBatis/01基础篇.md",
     "Java/框架/MyBatis/日志整合.md",
     "Java/框架/MyBatis/插件.md",
     "Java/框架/MyBatis/缓存机制.md",
-    "Java/框架/MyBatis/工具集.md",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
-    "Java/框架/MyBatis/03解析Mappr文件.md",
     "Java/框架/MyBatis/04解析Mapper接口.md",
     "Java/开发小记/ChainFlow.md",
     "C & Cpp",
@@ -201,9 +204,7 @@
     "Java/框架/MyBatis/日志整合.html",
     "Java/框架/MyBatis",
     "Java/框架",
-    "Personal/2023年终总结.md",
     "Personal/2023年终总结.docx",
-    "Personal",
     "Untitled 1.md",
     "Demo.md"
   ]

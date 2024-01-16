@@ -1,7 +1,7 @@
 {
-  "todoPageName": "todo",
+  "todoPageName": "todo\nTODO\n待办",
   "showChecked": false,
-  "showAllTodos": false,
+  "showAllTodos": true,
   "autoRefresh": true,
   "subGroups": false,
   "groupBy": "page",
