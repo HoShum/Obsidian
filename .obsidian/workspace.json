@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "37a111bd8ceb9491",
+        "id": "1cb0c9c323427f9a",
         "type": "tabs",
         "children": [
           {
-            "id": "d7a11f84d905d8d0",
+            "id": "f685ecc6e7098695",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/框架/MyBatis/02配置文件加载与解析.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/框架/MyBatis/02配置文件加载与解析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/框架/MyBatis/02配置文件加载与解析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/框架/MyBatis/02配置文件加载与解析.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -180,8 +172,9 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "d7a11f84d905d8d0",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-18 16.26.52.excalidraw.md",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
     "Excalidraw/Drawing 2024-01-18 15.23.19.excalidraw.md",
     "Java/框架/MyBatis/工具集.md",
