@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/框架/MyBatis/01基础篇.md",
+                "file": "Java/框架/MyBatis/插件.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/框架/MyBatis/01基础篇.md",
+                "file": "Java/框架/MyBatis/插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/框架/MyBatis/01基础篇.md",
+                "file": "Java/框架/MyBatis/插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/框架/MyBatis/01基础篇.md"
+                "file": "Java/框架/MyBatis/插件.md"
               }
             }
           }
@@ -182,10 +182,10 @@
   },
   "active": "d7a11f84d905d8d0",
   "lastOpenFiles": [
-    "sync.md",
-    "Java/框架/MyBatis/01基础篇.md",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
+    "Java/框架/MyBatis/01基础篇.md",
     "Java/框架/MyBatis/工具集.md",
+    "重载.md",
     "TODO/📆TODO.md",
     "Java/开发小记/ChainFlow.md",
     "Tools/Git.md",
