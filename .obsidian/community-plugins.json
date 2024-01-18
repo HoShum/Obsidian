@@ -22,5 +22,6 @@
   "calendar",
   "obsidian-checklist-plugin",
   "obsidian-style-settings",
-  "local-backup"
+  "local-backup",
+  "webpage-html-export"
 ]
