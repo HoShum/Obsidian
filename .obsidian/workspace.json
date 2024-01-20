@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Java/框架/MyBatis/工具集.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -183,12 +183,12 @@
   },
   "active": "a2289afc3b727536",
   "lastOpenFiles": [
-    "DataBase/MySQL/BufferPool.md",
-    "DataBase/MySQL/Undo日志.md",
-    "DataBase/MySQL/Redo日志.md",
     "Java/框架/MyBatis/日志整合.md",
-    "Java/框架/MyBatis/缓存机制.md",
+    "DataBase/MySQL/BufferPool.md",
+    "DataBase/MySQL/Redo日志.md",
+    "DataBase/MySQL/Undo日志.md",
     "Java/框架/MyBatis/工具集.md",
+    "Java/框架/MyBatis/缓存机制.md",
     "Java/框架/MyBatis/插件.md",
     "Java/框架/MyBatis/04解析Mapper接口.md",
     "Java/框架/MyBatis/03解析Mappr文件.md",
