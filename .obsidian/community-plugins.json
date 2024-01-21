@@ -26,5 +26,6 @@
   "webpage-html-export",
   "obsidian-image-toolkit",
   "table-editor-obsidian",
-  "notion-like-tables"
+  "notion-like-tables",
+  "minio-uploader"
 ]

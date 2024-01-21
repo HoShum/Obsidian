@@ -5,7 +5,7 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "propertiesInDocument": "visible",
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "newFileLocation": "root",
   "attachmentFolderPath": "./attachments",
   "useTab": true,
