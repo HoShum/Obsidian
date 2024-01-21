@@ -3,7 +3,7 @@
   "showLineNumber": false,
   "showIndentGuide": false,
   "readableLineLength": true,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "propertiesInDocument": "visible",
   "showUnsupportedFiles": false,
   "newFileLocation": "root",

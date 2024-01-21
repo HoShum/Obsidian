@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Deploy/Linux/文件与目录.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -198,8 +198,10 @@
   },
   "active": "57392e624f7ee0f8",
   "lastOpenFiles": [
-    "Deploy/Linux/attachments/Untitled.loom",
+    "Java/框架/MyBatis/日志整合.md",
+    "Java/框架/MyBatis/01基础篇.md",
     "Deploy/Linux/文件与目录.md",
+    "Deploy/Linux/attachments/Untitled.loom",
     "Deploy/Linux/attachments",
     "Deploy/Docker/Docker基础.md",
     "Deploy/Linux",
@@ -210,13 +212,11 @@
     "Java/框架/MyBatis/工具集.md",
     "Deploy/Docker",
     "Deploy",
-    "Java/框架/MyBatis/日志整合.md",
     "Java/框架/MyBatis/缓存机制.md",
     "Java/框架/MyBatis/插件.md",
     "Java/框架/MyBatis/04解析Mapper接口.md",
     "Java/框架/MyBatis/03解析Mappr文件.md",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
-    "Java/框架/MyBatis/01基础篇.md",
     "Excalidraw/Drawing 2024-01-18 16.26.52.excalidraw.md",
     "Excalidraw/Drawing 2024-01-18 15.23.19.excalidraw.md",
     "Excalidraw",
