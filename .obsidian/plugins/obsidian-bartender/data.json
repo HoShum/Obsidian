@@ -14,6 +14,7 @@
     ],
     "/": [
       "CS Base",
+      "C",
       "Java",
       "DataBase",
       "Ideas",
@@ -21,7 +22,8 @@
       "Tools",
       "Personal",
       "Books",
-      "TODO"
+      "TODO",
+      "Memo"
     ]
   },
   "actionBarOrder": {},

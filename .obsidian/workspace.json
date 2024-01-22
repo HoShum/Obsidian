@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "de449726dc2989ae",
+        "id": "c13a333efdd8d56c",
         "type": "tabs",
         "children": [
           {
-            "id": "96ea279416ee1540",
+            "id": "a2289afc3b727536",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md",
+                "file": "Deploy/Linux/文件与目录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57392e624f7ee0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deploy/Linux/文件与目录.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md",
+                "file": "Deploy/Linux/文件与目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md",
+                "file": "Deploy/Linux/文件与目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md"
+                "file": "Deploy/Linux/文件与目录.md"
               }
             }
           }
@@ -166,7 +179,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "notion-like-tables:Create loom": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -175,48 +187,50 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "local-backup:Run local backup": false,
       "excalidraw-cn:Create New Excalidraw File": false,
-      "obsidian-memos:Memos": false,
       "remotely-save:Remotely Save": true,
-      "obsidian42-brat:BRAT": true
+      "obsidian42-brat:BRAT": true,
+      "local-backup:Run local backup": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create loom": false
     }
   },
-  "active": "96ea279416ee1540",
+  "active": "57392e624f7ee0f8",
   "lastOpenFiles": [
-    "Memo/2024-01-22.md",
-    "Deploy/Linux/Vim教程.md",
-    "Tools/MinIO使用教程.md",
-    "Java/框架/MyBatis/工具集.md",
-    "Memo",
-    "Deploy/Docker/Docker基础.md",
+    "重载.md",
     "Deploy/Linux/文件与目录.md",
-    "Deploy/Docker",
-    "Deploy/Linux",
-    "Deploy",
-    "Java/框架/MyBatis/日志整合.md",
+    "C",
+    "Deploy/Docker/Docker基础.md",
     "DataBase/MySQL/BufferPool.md",
-    "DataBase/MySQL/Redo日志.md",
+    "Deploy/Linux/Vim教程.md",
+    "Memo/2024-01-22.md",
+    "Tools/MinIO使用教程.md",
+    "Java/框架/MyBatis/日志整合.md",
+    "Java/框架/MyBatis/01基础篇.md",
+    "Deploy/Linux/attachments/Untitled.loom",
+    "Deploy/Linux/attachments",
+    "Deploy/Linux",
+    "Memo",
     "DataBase/MySQL/Undo日志.md",
+    "DataBase/MySQL/Redo日志.md",
+    "Java/框架/MyBatis/工具集.md",
+    "Deploy/Docker",
+    "Deploy",
     "Java/框架/MyBatis/缓存机制.md",
     "Java/框架/MyBatis/插件.md",
     "Java/框架/MyBatis/04解析Mapper接口.md",
     "Java/框架/MyBatis/03解析Mappr文件.md",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
-    "Java/框架/MyBatis/01基础篇.md",
     "Excalidraw/Drawing 2024-01-18 16.26.52.excalidraw.md",
     "Excalidraw/Drawing 2024-01-18 15.23.19.excalidraw.md",
     "Excalidraw",
-    "重载.md",
     "TODO/📆TODO.md",
     "Java/开发小记/ChainFlow.md",
     "Tools/Git.md",
     "Books",
     "Tools",
-    "Ideas",
-    "CS Base",
     "Personal/2023年终总结.md",
-    "TODO",
     "Untitled 1.md",
     "Demo.md"
   ]
