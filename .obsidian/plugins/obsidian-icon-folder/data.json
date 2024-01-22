@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🌈",
       "SiLinux",
       "📝",
       "🏠",
@@ -14,8 +15,7 @@
       "📅",
       "SiProtools",
       "💡",
-      "SiTodoist",
-      "🖥"
+      "SiTodoist"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -47,5 +47,6 @@
   "Deploy": "🏠",
   "Deploy/Docker": "SiDocker",
   "Memo": "📝",
-  "Deploy/Linux": "SiLinux"
+  "Deploy/Linux": "SiLinux",
+  "Excalidraw": "🌈"
 }

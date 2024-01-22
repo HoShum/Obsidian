@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "691216c3b251e859",
+        "id": "de449726dc2989ae",
         "type": "tabs",
         "children": [
           {
-            "id": "b53789e218563967",
+            "id": "e08ef785e03840ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tools/MinIO使用教程.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tools/MinIO使用教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tools/MinIO使用教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tools/MinIO使用教程.md"
+              }
             }
           }
         ],
@@ -167,14 +175,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "excalidraw-cn:Create New Excalidraw File": false,
-      "remotely-save:Remotely Save": true,
-      "obsidian42-brat:BRAT": true,
       "local-backup:Run local backup": false,
-      "obsidian-memos:Memos": false
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "obsidian-memos:Memos": false,
+      "remotely-save:Remotely Save": true,
+      "obsidian42-brat:BRAT": true
     }
   },
-  "active": "b53789e218563967",
+  "active": "e08ef785e03840ca",
   "lastOpenFiles": [
     "Memo/2024-01-22.md",
     "Java/框架/MyBatis/工具集.md",
