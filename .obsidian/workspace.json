@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e08ef785e03840ca",
+            "id": "96ea279416ee1540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/MinIO使用教程.md",
+                "file": "Deploy/Linux/Vim教程.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/MinIO使用教程.md",
+                "file": "Deploy/Linux/Vim教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/MinIO使用教程.md",
+                "file": "Deploy/Linux/Vim教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/MinIO使用教程.md"
+                "file": "Deploy/Linux/Vim教程.md"
               }
             }
           }
@@ -182,12 +182,13 @@
       "obsidian42-brat:BRAT": true
     }
   },
-  "active": "e08ef785e03840ca",
+  "active": "96ea279416ee1540",
   "lastOpenFiles": [
     "Memo/2024-01-22.md",
+    "Deploy/Linux/Vim教程.md",
+    "Tools/MinIO使用教程.md",
     "Java/框架/MyBatis/工具集.md",
     "Memo",
-    "Tools/MinIO使用教程.md",
     "Deploy/Docker/Docker基础.md",
     "Deploy/Linux/文件与目录.md",
     "Deploy/Docker",
