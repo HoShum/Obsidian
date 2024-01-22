@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSpring",
       "SiC",
       "SiCmake",
       "SiLinux",
@@ -14,8 +15,7 @@
       "SiDocker",
       "🪵",
       "📅",
-      "SiProtools",
-      "💡"
+      "SiProtools"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -38,7 +38,6 @@
   "Java": "BoBxlJava",
   "Personal": "🙎‍♂️",
   "DataBase/MySQL": "SiMysql",
-  "Java/框架": "SiFramework7",
   "Ideas": "💡",
   "Tools": "🧰",
   "Books": "📚",
