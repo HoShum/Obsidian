@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/C程序设计语言-读书笔记.md",
-                "mode": "source",
+                "file": "CS Base/ASM/8086/实验篇.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/C程序设计语言-读书笔记.md",
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/C程序设计语言-读书笔记.md",
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/C程序设计语言-读书笔记.md"
+                "file": "CS Base/ASM/8086/实验篇.md"
               }
             }
           }
@@ -197,8 +197,12 @@
   },
   "active": "57392e624f7ee0f8",
   "lastOpenFiles": [
-    "未命名看板.md",
     "C/C程序设计语言-读书笔记.md",
+    "CS Base/ASM/8086/实验篇.md",
+    "CS Base/ASM/8086",
+    "CS Base/ASM/8086汇编jk.md",
+    "CS Base/ASM",
+    "未命名看板.md",
     "Kanban/未命名看板.md",
     "Kanban",
     "Deploy/Linux/文件与目录.md",
@@ -227,11 +231,7 @@
     "Java/框架/MyBatis/02配置文件加载与解析.md",
     "Excalidraw/Drawing 2024-01-18 16.26.52.excalidraw.md",
     "Excalidraw/Drawing 2024-01-18 15.23.19.excalidraw.md",
-    "Excalidraw",
     "TODO/📆TODO.md",
-    "Java/开发小记/ChainFlow.md",
-    "Tools/Git.md",
-    "Books",
-    "Personal/2023年终总结.md"
+    "Java/开发小记/ChainFlow.md"
   ]
 }
