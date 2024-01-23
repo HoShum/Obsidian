@@ -193,8 +193,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "57392e624f7ee0f8",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
+    "Books/操作系统导论.pdf",
+    "Books/汇编语言.pdf",
     "_debug_remotely_save/sync_plans_hist_exported_on_1706027382850.md",
     "Kanban/任务看板.md",
     "_debug_remotely_save",
@@ -221,7 +223,6 @@
     "DataBase/MySQL/Undo日志.md",
     "DataBase/MySQL/Redo日志.md",
     "Java/框架/MyBatis/工具集.md",
-    "Deploy/Docker",
     "Java/框架/MyBatis/缓存机制.md",
     "Java/框架/MyBatis/插件.md",
     "Java/框架/MyBatis/04解析Mapper接口.md",
