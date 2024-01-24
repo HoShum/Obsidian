@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/开发小记/ChainFlow.md",
-                "mode": "source",
+                "file": "CS Base/ASM/8086/实验篇.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/开发小记/ChainFlow.md",
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/开发小记/ChainFlow.md",
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/开发小记/ChainFlow.md"
+                "file": "CS Base/ASM/8086/实验篇.md"
               }
             }
           }
@@ -184,11 +184,16 @@
   },
   "active": "665f9c48f1954221",
   "lastOpenFiles": [
+    "Deploy/Docker/Docker基础.md",
+    "Deploy/Linux/文件与目录.md",
+    "Deploy/Linux/Vim教程.md",
+    "Java/开发小记/ChainFlow.md",
+    "Books/鸟哥的Linux私房菜第四版.pdf",
+    "Books/鸟哥的Linux私房菜-基础学习篇(第四版)书签PDF版.pdf",
     "Books/操作系统导论.pdf",
     "Books/汇编语言.pdf",
     "Kanban/任务看板.md",
     "重载.md",
-    "Deploy/Linux/文件与目录.md",
     "C/C程序设计语言-读书笔记.md",
     "CS Base/ASM/8086/实验篇.md",
     "CS Base/ASM/8086",
@@ -197,21 +202,16 @@
     "Kanban/未命名看板.md",
     "Kanban",
     "C",
-    "Deploy/Docker/Docker基础.md",
     "DataBase/MySQL/BufferPool.md",
-    "Deploy/Linux/Vim教程.md",
     "Memo/2024-01-22.md",
     "Tools/MinIO使用教程.md",
     "Java/框架/MyBatis/日志整合.md",
     "Java/框架/MyBatis/01基础篇.md",
     "Deploy/Linux/attachments/Untitled.loom",
     "Deploy/Linux/attachments",
-    "Deploy/Linux",
-    "Memo",
     "DataBase/MySQL/Undo日志.md",
     "DataBase/MySQL/Redo日志.md",
     "Java/框架/MyBatis/工具集.md",
-    "Deploy/Docker",
     "Java/框架/MyBatis/缓存机制.md",
     "Java/框架/MyBatis/插件.md",
     "Java/框架/MyBatis/04解析Mapper接口.md",
