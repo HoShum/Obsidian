@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c13a333efdd8d56c",
+        "id": "db9afcc00ca21765",
         "type": "tabs",
         "children": [
           {
-            "id": "a2289afc3b727536",
+            "id": "665f9c48f1954221",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deploy/Linux/文件与目录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57392e624f7ee0f8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/任务看板.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/任务看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/任务看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kanban/任务看板.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -193,21 +174,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "665f9c48f1954221",
   "lastOpenFiles": [
     "Books/操作系统导论.pdf",
     "Books/汇编语言.pdf",
-    "_debug_remotely_save/sync_plans_hist_exported_on_1706027382850.md",
     "Kanban/任务看板.md",
-    "_debug_remotely_save",
-    "CS Base/ASM/8086/实验篇.md",
-    "Kanban",
-    "C/C程序设计语言-读书笔记.md",
-    "CS Base/ASM/8086",
-    "CS Base/ASM/8086汇编jk.md",
-    "CS Base/ASM",
-    "Deploy/Linux/文件与目录.md",
     "重载.md",
+    "Deploy/Linux/文件与目录.md",
+    "C/C程序设计语言-读书笔记.md",
+    "CS Base/ASM/8086/实验篇.md",
+    "CS Base/ASM/8086",
+    "CS Base/ASM",
+    "未命名看板.md",
+    "Kanban/未命名看板.md",
+    "Kanban",
     "C",
     "Deploy/Docker/Docker基础.md",
     "DataBase/MySQL/BufferPool.md",
@@ -223,12 +203,14 @@
     "DataBase/MySQL/Undo日志.md",
     "DataBase/MySQL/Redo日志.md",
     "Java/框架/MyBatis/工具集.md",
+    "Deploy/Docker",
     "Java/框架/MyBatis/缓存机制.md",
     "Java/框架/MyBatis/插件.md",
     "Java/框架/MyBatis/04解析Mapper接口.md",
     "Java/框架/MyBatis/03解析Mappr文件.md",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
     "Excalidraw/Drawing 2024-01-18 16.26.52.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-18 15.23.19.excalidraw.md"
+    "Excalidraw/Drawing 2024-01-18 15.23.19.excalidraw.md",
+    "TODO/📆TODO.md"
   ]
 }
