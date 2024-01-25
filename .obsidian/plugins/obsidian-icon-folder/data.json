@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🛒",
       "🖼",
       "📋",
       "SiSpring",
@@ -14,8 +15,7 @@
       "SiLinux",
       "📝",
       "🏠",
-      "SiDocker",
-      "🪵"
+      "SiDocker"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -49,5 +49,6 @@
   "Deploy/Linux": "SiLinux",
   "C": "SiC",
   "Kanban": "📋",
-  "Excalidraw": "🖼"
+  "Excalidraw": "🖼",
+  "Business": "🛒"
 }
