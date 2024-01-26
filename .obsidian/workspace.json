@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e8f58e04f43ed7bb",
+        "id": "db9afcc00ca21765",
         "type": "tabs",
         "children": [
           {
-            "id": "e36c1a40ead8811b",
+            "id": "665f9c48f1954221",
             "type": "leaf",
             "state": {
-              "type": "excalidraw_cn",
+              "type": "markdown",
               "state": {
-                "file": "Business/告警业务/流程图.ex"
+                "file": "CS Base/ASM/8086/实验篇.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/告警业务/流程图.ex",
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/告警业务/流程图.ex",
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/告警业务/流程图.ex"
+                "file": "CS Base/ASM/8086/实验篇.md"
               }
             }
           }
@@ -164,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -179,22 +182,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e36c1a40ead8811b",
+  "active": "665f9c48f1954221",
   "lastOpenFiles": [
-    "excalidraw 24-01-26 12.02.57.ex",
     "Business/告警业务/流程图.ex",
-    "Business/告警业务/excalidraw 24-01-25 11.53.56.ex",
-    "Business/告警业务/流程图.excalidraw.md",
-    "Business/告警业务/流程图.excalidraw",
-    "Business/告警业务/process.md",
-    "Business/告警业务/未命名思维导图.md",
-    "Business/告警业务/未命名思维导图 2.md",
-    "Business/告警业务/未命名思维导图 1.md",
-    "Personal/2023年终总结.md",
-    "Business/告警业务/未命名.md",
     "Business/告警业务",
     "Business",
-    "CS Base/ASM/8086/实验篇.md",
     "Books/鸟哥的Linux私房菜第四版.pdf",
     "Deploy/Docker/Docker基础.md",
     "Deploy/Linux/文件与目录.md",
@@ -206,15 +198,27 @@
     "Kanban/任务看板.md",
     "重载.md",
     "C/C程序设计语言-读书笔记.md",
+    "CS Base/ASM/8086/实验篇.md",
     "CS Base/ASM/8086",
+    "CS Base/ASM",
     "未命名看板.md",
     "Kanban/未命名看板.md",
+    "Kanban",
+    "C",
     "DataBase/MySQL/BufferPool.md",
     "Memo/2024-01-22.md",
     "Tools/MinIO使用教程.md",
     "Java/框架/MyBatis/日志整合.md",
     "Java/框架/MyBatis/01基础篇.md",
     "DataBase/MySQL/Undo日志.md",
-    "DataBase/MySQL/Redo日志.md"
+    "DataBase/MySQL/Redo日志.md",
+    "Java/框架/MyBatis/工具集.md",
+    "Java/框架/MyBatis/缓存机制.md",
+    "Java/框架/MyBatis/插件.md",
+    "Java/框架/MyBatis/04解析Mapper接口.md",
+    "Java/框架/MyBatis/03解析Mappr文件.md",
+    "Java/框架/MyBatis/02配置文件加载与解析.md",
+    "Excalidraw/Drawing 2024-01-18 16.26.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-18 15.23.19.excalidraw.md"
   ]
 }
