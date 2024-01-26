@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f68356f528ad62c6",
+        "id": "e5bd23eefbeae83d",
         "type": "tabs",
         "children": [
           {
-            "id": "6edde89940504eb3",
+            "id": "0e5580d3b34d873d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS Base/ASM/8086/实验篇.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excalidraw 24-01-26 12.31.28.ex"
+                "file": "CS Base/ASM/8086/实验篇.md"
               }
             }
           }
@@ -175,18 +181,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "0e5580d3b34d873d",
   "lastOpenFiles": [
+    "Java/框架/MyBatis/工具集.md",
+    "Java/开发小记/ChainFlow.md",
+    "CS Base/ASM/8086/实验篇.md",
     "excalidraw 24-01-26 12.31.28.ex",
     "Business/告警业务/流程图.ex",
-    "CS Base/ASM/8086/实验篇.md",
     "Business/告警业务",
     "Business",
     "Books/鸟哥的Linux私房菜第四版.pdf",
     "Deploy/Docker/Docker基础.md",
     "Deploy/Linux/文件与目录.md",
     "Deploy/Linux/Vim教程.md",
-    "Java/开发小记/ChainFlow.md",
     "Books/鸟哥的Linux私房菜-基础学习篇(第四版)书签PDF版.pdf",
     "Books/操作系统导论.pdf",
     "Books/汇编语言.pdf",
@@ -197,7 +204,6 @@
     "CS Base/ASM",
     "未命名看板.md",
     "Kanban/未命名看板.md",
-    "Kanban",
     "DataBase/MySQL/BufferPool.md",
     "Memo/2024-01-22.md",
     "Tools/MinIO使用教程.md",
@@ -205,7 +211,6 @@
     "Java/框架/MyBatis/01基础篇.md",
     "DataBase/MySQL/Undo日志.md",
     "DataBase/MySQL/Redo日志.md",
-    "Java/框架/MyBatis/工具集.md",
     "Java/框架/MyBatis/缓存机制.md",
     "Java/框架/MyBatis/插件.md",
     "Java/框架/MyBatis/04解析Mapper接口.md",
