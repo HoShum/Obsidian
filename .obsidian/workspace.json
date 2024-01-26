@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "db9afcc00ca21765",
+        "id": "b1e736a27dd4a3a0",
         "type": "tabs",
         "children": [
           {
-            "id": "665f9c48f1954221",
+            "id": "dd2c7ca54ce1513e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw_cn",
-              "state": {
-                "file": "Business/告警业务/流程图.ex"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/告警业务/流程图.ex",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/告警业务/流程图.ex",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Business/告警业务/流程图.ex"
-              }
+              "state": {}
             }
           }
         ],
@@ -164,7 +158,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -180,10 +173,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "665f9c48f1954221",
+  "active": "dd2c7ca54ce1513e",
   "lastOpenFiles": [
-    "CS Base/ASM/8086/实验篇.md",
     "Business/告警业务/流程图.ex",
+    "CS Base/ASM/8086/实验篇.md",
     "Business/告警业务",
     "Business",
     "Books/鸟哥的Linux私房菜第四版.pdf",
