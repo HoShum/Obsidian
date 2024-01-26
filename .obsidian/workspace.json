@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1e736a27dd4a3a0",
+        "id": "f68356f528ad62c6",
         "type": "tabs",
         "children": [
           {
-            "id": "dd2c7ca54ce1513e",
+            "id": "6edde89940504eb3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -132,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "excalidraw 24-01-26 12.31.28.ex"
+              }
             }
           }
         ],
@@ -173,8 +175,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "dd2c7ca54ce1513e",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
+    "excalidraw 24-01-26 12.31.28.ex",
     "Business/告警业务/流程图.ex",
     "CS Base/ASM/8086/实验篇.md",
     "Business/告警业务",
