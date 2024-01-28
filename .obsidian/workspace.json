@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/工具集.md",
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,6 +154,14 @@
                 "file": "Tools/工具集.md"
               }
             }
+          },
+          {
+            "id": "d165829a013e43ff",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -191,17 +198,18 @@
       "obsidian42-brat:BRAT": true,
       "local-backup:Run local backup": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-memos:Memos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "a19fa251eb6e5168",
+  "active": "0e5580d3b34d873d",
   "lastOpenFiles": [
+    "Tools/MinIO使用教程.md",
     "Tools/attachments/Untitled.loom",
     "Tools/工具集.md",
-    "Tools/MinIO使用教程.md",
-    "Tools/attachments",
+    "未命名.canvas",
     "CS Base/ASM/8086/实验篇.md",
+    "Tools/attachments/Untitled 1.loom",
+    "Tools/attachments",
     "Java/框架/MyBatis/工具集.md",
     "Java/开发小记/ChainFlow.md",
     "excalidraw 24-01-26 12.31.28.ex",
@@ -214,7 +222,6 @@
     "Deploy/Linux/Vim教程.md",
     "Books/鸟哥的Linux私房菜-基础学习篇(第四版)书签PDF版.pdf",
     "Books/操作系统导论.pdf",
-    "Books/汇编语言.pdf",
     "Kanban/任务看板.md",
     "重载.md",
     "C/C程序设计语言-读书笔记.md",
