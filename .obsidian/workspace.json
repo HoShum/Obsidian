@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md",
+                "file": "Tools/工具集.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a19fa251eb6e5168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/工具集.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md",
+                "file": "Tools/工具集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md",
+                "file": "Tools/工具集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md"
+                "file": "Tools/工具集.md"
               }
             }
           }
@@ -178,14 +191,19 @@
       "obsidian42-brat:BRAT": true,
       "local-backup:Run local backup": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e5580d3b34d873d",
+  "active": "a19fa251eb6e5168",
   "lastOpenFiles": [
+    "Tools/attachments/Untitled.loom",
+    "Tools/工具集.md",
+    "Tools/MinIO使用教程.md",
+    "Tools/attachments",
+    "CS Base/ASM/8086/实验篇.md",
     "Java/框架/MyBatis/工具集.md",
     "Java/开发小记/ChainFlow.md",
-    "CS Base/ASM/8086/实验篇.md",
     "excalidraw 24-01-26 12.31.28.ex",
     "Business/告警业务/流程图.ex",
     "Business/告警业务",
@@ -200,13 +218,10 @@
     "Kanban/任务看板.md",
     "重载.md",
     "C/C程序设计语言-读书笔记.md",
-    "CS Base/ASM/8086",
-    "CS Base/ASM",
     "未命名看板.md",
     "Kanban/未命名看板.md",
     "DataBase/MySQL/BufferPool.md",
     "Memo/2024-01-22.md",
-    "Tools/MinIO使用教程.md",
     "Java/框架/MyBatis/日志整合.md",
     "Java/框架/MyBatis/01基础篇.md",
     "DataBase/MySQL/Undo日志.md",
@@ -216,7 +231,6 @@
     "Java/框架/MyBatis/04解析Mapper接口.md",
     "Java/框架/MyBatis/03解析Mappr文件.md",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
-    "Excalidraw/Drawing 2024-01-18 16.26.52.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-18 15.23.19.excalidraw.md"
+    "Excalidraw/Drawing 2024-01-18 16.26.52.excalidraw.md"
   ]
 }

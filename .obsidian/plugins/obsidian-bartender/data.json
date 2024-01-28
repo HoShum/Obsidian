@@ -24,6 +24,11 @@
       "Books",
       "TODO",
       "Memo"
+    ],
+    "Tools": [
+      "Tools/工具集.md",
+      "Tools/MinIO使用教程.md",
+      "Tools/attachments"
     ]
   },
   "actionBarOrder": {},

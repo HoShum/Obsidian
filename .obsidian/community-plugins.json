@@ -15,7 +15,6 @@
   "obsidian42-brat",
   "obsidian-bartender",
   "mysnippets-plugin",
-  "obsidian-table-generator",
   "code-styler",
   "calendar",
   "obsidian-checklist-plugin",
@@ -26,5 +25,6 @@
   "obsidian-image-toolkit",
   "minio-uploader",
   "obsidian-kanban",
-  "obsidian-markmind"
+  "obsidian-markmind",
+  "table-editor-obsidian"
 ]
