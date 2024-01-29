@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md",
+                "file": "Deploy/Linux/文件与目录.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md",
+                "file": "Deploy/Linux/文件与目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md",
+                "file": "Deploy/Linux/文件与目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,11 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md"
+                "file": "Deploy/Linux/文件与目录.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "bc078cd69cd213ba",
@@ -182,6 +183,7 @@
   },
   "active": "f63f0c5af1a887e8",
   "lastOpenFiles": [
+    "CS Base/ASM/8086/实验篇.md",
     "Books/鸟哥的Linux私房菜/思维导图.md",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版-annotate.md",
@@ -191,7 +193,6 @@
     "Books/鸟哥的Linux私房菜",
     "Business/告警业务/流程图.ex",
     "Business/告警业务/process.excalidraw",
-    "CS Base/ASM/8086/实验篇.md",
     "Tools/工具集.md",
     "Tools/attachments/Untitled.loom",
     "Tools/attachments",
