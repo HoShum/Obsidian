@@ -25,5 +25,6 @@
   "obsidian-image-toolkit",
   "minio-uploader",
   "obsidian-kanban",
-  "obsidian-markmind"
+  "obsidian-markmind",
+  "obsidian-auto-link-title"
 ]
