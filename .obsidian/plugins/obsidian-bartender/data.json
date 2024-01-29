@@ -29,6 +29,11 @@
       "Tools/工具集.md",
       "Tools/MinIO使用教程.md",
       "Tools/attachments"
+    ],
+    "Books": [
+      "Books/操作系统导论.pdf",
+      "Books/汇编语言.pdf",
+      "Books/鸟哥的Linux私房菜"
     ]
   },
   "actionBarOrder": {},

@@ -8,7 +8,7 @@
   "protocol": "jump-to-pdf",
   "registerPdfEvent": true,
   "viewerTheme": 1,
-  "mindmapmode": "basic",
+  "mindmapmode": "rich",
   "parseMindMap": true,
   "annotateTop": 0,
   "annotateBottom": 0,
@@ -19,5 +19,7 @@
   "onlyUseObsidianFolder": false,
   "autoCreateNodeWhenAnnotate": true,
   "useMarkdownSaveAnnotation": "md",
-  "pdfjsPath": "ceba556fc9905dcd840d28589d524b9/D:/MyWorkSpace/Obsidian/.obsidian/pdfjs"
+  "pdfjsPath": "ceba556fc9905dcd840d28589d524b9/D:/MyWorkSpace/Obsidian/.obsidian/pdfjs",
+  "removeSpace": true,
+  "useAnimate": true
 }

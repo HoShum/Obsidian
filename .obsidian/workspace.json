@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "71259f1a73d45900",
+        "id": "f54b79524042af10",
         "type": "tabs",
         "children": [
           {
-            "id": "93ed5af29b2e1717",
+            "id": "6b4f5a0578f41d4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mindmapview",
+              "state": {
+                "file": "Books/鸟哥的Linux私房菜/思维导图.md"
+              }
             }
           }
         ]
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/鸟哥的Linux私房菜/思维导图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Books/鸟哥的Linux私房菜/思维导图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Books/鸟哥的Linux私房菜/思维导图.md"
+              }
             }
           }
         ],
@@ -154,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268
+    "width": 268,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,12 +180,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "93ed5af29b2e1717",
+  "active": "6b4f5a0578f41d4a",
   "lastOpenFiles": [
+    "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
+    "Books/鸟哥的Linux私房菜/思维导图.md",
+    "未命名思维导图.md",
+    "Books/鸟哥的Linux私房菜",
     "Business/告警业务/流程图.ex",
     "Business/告警业务/process.excalidraw",
     "CS Base/ASM/8086/实验篇.md",
-    "Books/鸟哥的Linux私房菜第四版.pdf",
     "Tools/工具集.md",
     "Tools/attachments/Untitled.loom",
     "Tools/attachments",
@@ -191,8 +201,6 @@
     "Deploy/Linux/文件与目录.md",
     "Deploy/Linux/Vim教程.md",
     "Books/鸟哥的Linux私房菜-基础学习篇(第四版)书签PDF版.pdf",
-    "Books/操作系统导论.pdf",
-    "Books/汇编语言.pdf",
     "Kanban/任务看板.md",
     "重载.md",
     "C/C程序设计语言-读书笔记.md",
@@ -207,9 +215,6 @@
     "DataBase/MySQL/Redo日志.md",
     "Java/框架/MyBatis/缓存机制.md",
     "Java/框架/MyBatis/插件.md",
-    "Java/框架/MyBatis/04解析Mapper接口.md",
-    "Java/框架/MyBatis/03解析Mappr文件.md",
-    "Java/框架/MyBatis/02配置文件加载与解析.md",
-    "Excalidraw/Drawing 2024-01-18 16.26.52.excalidraw.md"
+    "Java/框架/MyBatis/04解析Mapper接口.md"
   ]
 }
