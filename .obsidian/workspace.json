@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "951817d940c954db",
+        "id": "7ede38a31bfb33ff",
         "type": "tabs",
         "children": [
           {
-            "id": "516d7a0ccc7a6e1c",
+            "id": "e36d83be690510da",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "pdf",
               "state": {
-                "file": "Books/鸟哥的Linux私房菜/思维导图.md"
+                "file": "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf"
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/鸟哥的Linux私房菜/思维导图.md",
+                "file": "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/鸟哥的Linux私房菜/思维导图.md",
+                "file": "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/鸟哥的Linux私房菜/思维导图.md"
+                "file": "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf"
               }
             }
           }
@@ -180,11 +180,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "e36d83be690510da",
   "lastOpenFiles": [
+    "Books/鸟哥的Linux私房菜/思维导图.md",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
-    "Books/鸟哥的Linux私房菜/思维导图.md",
-    "Books/鸟哥的Linux私房菜/思维导图.md",
+    "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版-annotate.md",
+    "Books/鸟哥的Linux私房菜/未命名思维导图.md",
     "Books/鸟哥的Linux私房菜/pdf.md",
     "未命名思维导图.md",
     "Books/鸟哥的Linux私房菜",
@@ -214,8 +215,6 @@
     "Java/框架/MyBatis/日志整合.md",
     "Java/框架/MyBatis/01基础篇.md",
     "DataBase/MySQL/Undo日志.md",
-    "DataBase/MySQL/Redo日志.md",
-    "Java/框架/MyBatis/缓存机制.md",
-    "Java/框架/MyBatis/插件.md"
+    "DataBase/MySQL/Redo日志.md"
   ]
 }
