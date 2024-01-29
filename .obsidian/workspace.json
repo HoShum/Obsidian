@@ -11,8 +11,12 @@
             "id": "f63f0c5af1a887e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS Base/ASM/8086/实验篇.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,11 +138,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS Base/ASM/8086/实验篇.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "bc078cd69cd213ba",
@@ -154,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268,
-    "collapsed": true
+    "width": 268
   },
   "left-ribbon": {
     "hiddenItems": {

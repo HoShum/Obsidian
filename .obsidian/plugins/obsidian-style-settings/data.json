@@ -76,5 +76,6 @@
   "yaozhuwa@css@@increase-headings-gap": true,
   "yaozhuwa@css@@seamless-embed": false,
   "yaozhuwa@css@@outline-tweak": false,
-  "chime-theme@@theme-settings": "theme-notion"
+  "chime-theme@@theme-settings": "theme-notion",
+  "yaozhuwa@css@@table-line-number": false
 }

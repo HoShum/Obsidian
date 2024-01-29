@@ -5,9 +5,9 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "custom",
-    "extended-colorschemes",
     "表格优化",
     "AnuExtendTheme",
+    "extended-colorschemes",
     "yaozhuwa@CSS"
   ],
   "translucency": false,
