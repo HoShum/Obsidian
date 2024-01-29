@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7ede38a31bfb33ff",
+        "id": "df022766bfed7b20",
         "type": "tabs",
         "children": [
           {
-            "id": "e36d83be690510da",
+            "id": "41ddf13cf1963082",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -180,7 +174,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e36d83be690510da",
+  "active": "41ddf13cf1963082",
   "lastOpenFiles": [
     "Books/鸟哥的Linux私房菜/思维导图.md",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
