@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f54b79524042af10",
+        "id": "951817d940c954db",
         "type": "tabs",
         "children": [
           {
-            "id": "6b4f5a0578f41d4a",
+            "id": "516d7a0ccc7a6e1c",
             "type": "leaf",
             "state": {
               "type": "mindmapview",
@@ -180,10 +180,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6b4f5a0578f41d4a",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Books/鸟哥的Linux私房菜/思维导图.md",
+    "Books/鸟哥的Linux私房菜/思维导图.md",
+    "Books/鸟哥的Linux私房菜/pdf.md",
     "未命名思维导图.md",
     "Books/鸟哥的Linux私房菜",
     "Business/告警业务/流程图.ex",
@@ -214,7 +216,6 @@
     "DataBase/MySQL/Undo日志.md",
     "DataBase/MySQL/Redo日志.md",
     "Java/框架/MyBatis/缓存机制.md",
-    "Java/框架/MyBatis/插件.md",
-    "Java/框架/MyBatis/04解析Mapper接口.md"
+    "Java/框架/MyBatis/插件.md"
   ]
 }
