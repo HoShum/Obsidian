@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Java/框架/Spring/IOC/IOC与Spring.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.50260543823242,
-    "collapsed": true
+    "width": 268.5026054382324
   },
   "right": {
     "id": "dec21afec6639e20",
@@ -147,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "49599aeb71147784",
+  "active": "f63f0c5af1a887e8",
   "lastOpenFiles": [
     "Java/框架/MyBatis/缓存机制.md",
     "Java/框架/Spring/IOC/IOC与Spring.md",
