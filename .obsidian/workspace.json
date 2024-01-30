@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb18606939a4448",
+        "id": "6883c7dad07243ef",
         "type": "tabs",
         "children": [
           {
-            "id": "f63f0c5af1a887e8",
+            "id": "b479249b5c5e17b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deploy/Linux/文件与目录.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy/Linux/文件与目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy/Linux/文件与目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Deploy/Linux/文件与目录.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -181,8 +173,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f63f0c5af1a887e8",
+  "active": "b479249b5c5e17b9",
   "lastOpenFiles": [
+    "Business/告警业务/流程图.ex",
+    "excalidraw 24-01-30 09.43.31.ex",
+    "Deploy/Linux/文件与目录.md",
     "CS Base/组成原理/二进制减法.md",
     "CS Base/组成原理",
     "CS Base/ASM/8086/实验篇.md",
@@ -193,7 +188,6 @@
     "Books/鸟哥的Linux私房菜/pdf.md",
     "未命名思维导图.md",
     "Books/鸟哥的Linux私房菜",
-    "Business/告警业务/流程图.ex",
     "Business/告警业务/process.excalidraw",
     "Tools/工具集.md",
     "Tools/attachments/Untitled.loom",
@@ -204,7 +198,6 @@
     "Business/告警业务",
     "Business",
     "Deploy/Docker/Docker基础.md",
-    "Deploy/Linux/文件与目录.md",
     "Deploy/Linux/Vim教程.md",
     "Kanban/任务看板.md",
     "重载.md",
