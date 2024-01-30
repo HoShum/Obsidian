@@ -83,5 +83,10 @@
   "Components@@outline-enhanced": false,
   "Plugin@@DB-table-full-width-off": false,
   "Plugin@@colorful-checkbox": false,
-  "anuppuccin-theme-settings@@anp-autohide-titlebar": true
+  "anuppuccin-theme-settings@@anp-autohide-titlebar": true,
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Editor@@codeblock-style-select": "codeblock-style-customize",
+  "Editor@@line-hover-indicator": false,
+  "anuppuccin-theme-settings@@anp-code-bg-color@@light": "#000000"
 }
