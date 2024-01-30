@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6883c7dad07243ef",
+        "id": "c7728e316441a37c",
         "type": "tabs",
         "children": [
           {
-            "id": "b479249b5c5e17b9",
+            "id": "b1bdfd180a65b024",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,33 +170,37 @@
       "obsidian42-brat:BRAT": true,
       "local-backup:Run local backup": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b479249b5c5e17b9",
+  "active": "b1bdfd180a65b024",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-30 10.27.06.excalidraw.md",
+    "Excalidraw/fonts/智勇手书体(增加英文版).ttf",
     "Business/告警业务/流程图.ex",
+    "Excalidraw/Drawing 2024-01-30 10.20.18.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-30 10.15.19.excalidraw.md",
+    "Excalidraw/fonts/Muyao-Softbrush-2.ttf",
+    "Excalidraw/fonts/大宝桃桃体.ttf",
+    "Excalidraw/fonts/方正龙爪繁体.ttf",
+    "Excalidraw/Drawing 2024-01-30 10.04.00.excalidraw.md",
+    "Excalidraw/fonts/HanYiJiaShuJian-1.ttf",
+    "Excalidraw/fonts",
+    "Excalidraw/新建文件夹",
     "excalidraw 24-01-30 09.43.31.ex",
     "Deploy/Linux/文件与目录.md",
     "CS Base/组成原理/二进制减法.md",
     "CS Base/组成原理",
     "CS Base/ASM/8086/实验篇.md",
     "Books/鸟哥的Linux私房菜/思维导图.md",
-    "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版-annotate.md",
     "Books/鸟哥的Linux私房菜/未命名思维导图.md",
     "Books/鸟哥的Linux私房菜/pdf.md",
     "未命名思维导图.md",
-    "Books/鸟哥的Linux私房菜",
-    "Business/告警业务/process.excalidraw",
     "Tools/工具集.md",
-    "Tools/attachments/Untitled.loom",
-    "Tools/attachments",
     "Java/框架/MyBatis/工具集.md",
     "Java/开发小记/ChainFlow.md",
-    "excalidraw 24-01-26 12.31.28.ex",
-    "Business/告警业务",
-    "Business",
     "Deploy/Docker/Docker基础.md",
     "Deploy/Linux/Vim教程.md",
     "Kanban/任务看板.md",
@@ -207,9 +211,6 @@
     "DataBase/MySQL/BufferPool.md",
     "Memo/2024-01-22.md",
     "Tools/MinIO使用教程.md",
-    "Java/框架/MyBatis/日志整合.md",
-    "Java/框架/MyBatis/01基础篇.md",
-    "DataBase/MySQL/Undo日志.md",
-    "DataBase/MySQL/Redo日志.md"
+    "Java/框架/MyBatis/日志整合.md"
   ]
 }
