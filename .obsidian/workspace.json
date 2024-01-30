@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c7728e316441a37c",
+        "id": "bb68329504468b3d",
         "type": "tabs",
         "children": [
           {
-            "id": "b1bdfd180a65b024",
+            "id": "fdc49eea8ffd73e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md",
-                "mode": "preview",
+                "file": "Java/框架/Spring/IOC/IOC与Spring.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -68,14 +68,14 @@
         ]
       },
       {
-        "id": "e109624ca7a56fbc",
+        "id": "cb4b51a868abaadf",
         "type": "tabs",
         "children": [
           {
-            "id": "1d232416b0183689",
+            "id": "1b8c7b90e2da24ff",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "todo",
               "state": {}
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md",
+                "file": "Java/框架/Spring/IOC/IOC与Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md",
+                "file": "Java/框架/Spring/IOC/IOC与Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,26 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md"
+                "file": "Java/框架/Spring/IOC/IOC与Spring.md"
               }
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "bc078cd69cd213ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b8c7b90e2da24ff",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +168,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b1bdfd180a65b024",
+  "active": "fdc49eea8ffd73e3",
   "lastOpenFiles": [
+    "Java/框架/Spring/IOC/未命名思维导图.md",
+    "Java/框架/Spring/IOC/IOC与Spring.md",
+    "Java/框架/Spring/IOC/整体思维导图.md",
+    "未命名.canvas",
+    "Java/框架/Spring/IOC/Index.md",
+    "Deploy/Linux/Vim教程.md",
+    "Java/框架/Spring/IOC",
+    "Java/框架/Spring",
     "CS Base/ASM/8086/实验篇.md",
     "Excalidraw/Drawing 2024-01-30 10.27.06.excalidraw.md",
     "Excalidraw/fonts/智勇手书体(增加英文版).ttf",
@@ -197,10 +191,8 @@
     "Excalidraw/fonts/HanYiJiaShuJian-1.ttf",
     "Excalidraw/fonts",
     "Excalidraw/新建文件夹",
-    "excalidraw 24-01-30 09.43.31.ex",
     "Deploy/Linux/文件与目录.md",
     "CS Base/组成原理/二进制减法.md",
-    "CS Base/组成原理",
     "Books/鸟哥的Linux私房菜/思维导图.md",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版-annotate.md",
     "Books/鸟哥的Linux私房菜/未命名思维导图.md",
@@ -210,15 +202,10 @@
     "Java/框架/MyBatis/工具集.md",
     "Java/开发小记/ChainFlow.md",
     "Deploy/Docker/Docker基础.md",
-    "Deploy/Linux/Vim教程.md",
     "Kanban/任务看板.md",
     "重载.md",
     "C/C程序设计语言-读书笔记.md",
     "未命名看板.md",
-    "Kanban/未命名看板.md",
-    "DataBase/MySQL/BufferPool.md",
-    "Memo/2024-01-22.md",
-    "Tools/MinIO使用教程.md",
-    "Java/框架/MyBatis/日志整合.md"
+    "Kanban/未命名看板.md"
   ]
 }
