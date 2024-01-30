@@ -20,5 +20,5 @@
   },
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "smartIndentList": false
+  "smartIndentList": true
 }

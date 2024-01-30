@@ -27,7 +27,7 @@
   "workspace:close": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "W"
     }
