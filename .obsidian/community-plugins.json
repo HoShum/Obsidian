@@ -26,5 +26,6 @@
   "minio-uploader",
   "obsidian-kanban",
   "obsidian-markmind",
-  "obsidian-auto-link-title"
+  "obsidian-auto-link-title",
+  "obsidian-excalidraw-plugin"
 ]
