@@ -8,7 +8,7 @@
   "showUnsupportedFiles": true,
   "newFileLocation": "root",
   "attachmentFolderPath": "./attachments",
-  "useTab": true,
+  "useTab": false,
   "spellcheck": false,
   "rightToLeft": false,
   "pdfExportSettings": {
