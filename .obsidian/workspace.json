@@ -66,24 +66,11 @@
             }
           }
         ]
-      },
-      {
-        "id": "0d9c408a97228854",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b8c7b90e2da24ff",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 255.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "dec21afec6639e20",
@@ -150,9 +137,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "49599aeb71147784",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -176,10 +171,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f63f0c5af1a887e8",
+  "active": "49599aeb71147784",
   "lastOpenFiles": [
-    "Deploy/Linux/Vim教程.md",
+    "Java/框架/MyBatis/缓存机制.md",
     "Java/框架/Spring/IOC/IOC与Spring.md",
+    "Java/框架/MyBatis/日志整合.md",
+    "Deploy/Linux/Vim教程.md",
     "CS Base/ASM/8086/实验篇.md",
     "Java/框架/Spring/IOC/Index.md",
     "Java/框架/Spring/IOC",
@@ -211,8 +208,6 @@
     "DataBase/MySQL/BufferPool.md",
     "Memo/2024-01-22.md",
     "Tools/MinIO使用教程.md",
-    "Java/框架/MyBatis/日志整合.md",
-    "Java/框架/MyBatis/01基础篇.md",
-    "DataBase/MySQL/Undo日志.md"
+    "Java/框架/MyBatis/01基础篇.md"
   ]
 }

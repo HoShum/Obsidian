@@ -81,5 +81,7 @@
   "Appearance-light@@theme-light-style-select": "theme-light-background-default",
   "Appearance-light@@accent-color-override-light": false,
   "Components@@outline-enhanced": false,
-  "Editor@@codeblock-style-select": "codeblock-style-one-dark"
+  "Plugin@@DB-table-full-width-off": false,
+  "Plugin@@colorful-checkbox": false,
+  "anuppuccin-theme-settings@@anp-autohide-titlebar": true
 }
