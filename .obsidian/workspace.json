@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb68329504468b3d",
+        "id": "5cb18606939a4448",
         "type": "tabs",
         "children": [
           {
-            "id": "fdc49eea8ffd73e3",
+            "id": "f63f0c5af1a887e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "id": "cb4b51a868abaadf",
+        "id": "0d9c408a97228854",
         "type": "tabs",
         "children": [
           {
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -172,40 +173,32 @@
       "obsidian42-brat:BRAT": true,
       "local-backup:Run local backup": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "fdc49eea8ffd73e3",
+  "active": "f63f0c5af1a887e8",
   "lastOpenFiles": [
-    "Java/框架/Spring/IOC/未命名思维导图.md",
-    "Java/框架/Spring/IOC/IOC与Spring.md",
-    "Java/框架/Spring/IOC/整体思维导图.md",
-    "未命名.canvas",
-    "Java/框架/Spring/IOC/Index.md",
     "Deploy/Linux/Vim教程.md",
+    "Java/框架/Spring/IOC/IOC与Spring.md",
+    "CS Base/ASM/8086/实验篇.md",
+    "Java/框架/Spring/IOC/Index.md",
     "Java/框架/Spring/IOC",
     "Java/框架/Spring",
-    "CS Base/ASM/8086/实验篇.md",
-    "Excalidraw/Drawing 2024-01-30 10.27.06.excalidraw.md",
     "Excalidraw/fonts/智勇手书体(增加英文版).ttf",
-    "Business/告警业务/流程图.ex",
-    "Excalidraw/Drawing 2024-01-30 10.20.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-30 10.15.19.excalidraw.md",
     "Excalidraw/fonts/Muyao-Softbrush-2.ttf",
-    "Excalidraw/fonts/大宝桃桃体.ttf",
-    "Excalidraw/fonts/方正龙爪繁体.ttf",
-    "Excalidraw/Drawing 2024-01-30 10.04.00.excalidraw.md",
-    "Excalidraw/fonts/HanYiJiaShuJian-1.ttf",
     "Excalidraw/fonts",
-    "Excalidraw/新建文件夹",
-    "Deploy/Linux/文件与目录.md",
+    "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
+    "Books/鸟哥的Linux私房菜",
     "CS Base/组成原理/二进制减法.md",
+    "Business/告警业务/流程图.ex",
+    "Deploy/Linux/文件与目录.md",
+    "CS Base/组成原理",
     "Books/鸟哥的Linux私房菜/思维导图.md",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版-annotate.md",
     "Books/鸟哥的Linux私房菜/未命名思维导图.md",
     "Books/鸟哥的Linux私房菜/pdf.md",
     "未命名思维导图.md",
+    "Business/告警业务/process.excalidraw",
     "Tools/工具集.md",
     "Java/框架/MyBatis/工具集.md",
     "Java/开发小记/ChainFlow.md",
@@ -214,6 +207,12 @@
     "重载.md",
     "C/C程序设计语言-读书笔记.md",
     "未命名看板.md",
-    "Kanban/未命名看板.md"
+    "Kanban/未命名看板.md",
+    "DataBase/MySQL/BufferPool.md",
+    "Memo/2024-01-22.md",
+    "Tools/MinIO使用教程.md",
+    "Java/框架/MyBatis/日志整合.md",
+    "Java/框架/MyBatis/01基础篇.md",
+    "DataBase/MySQL/Undo日志.md"
   ]
 }

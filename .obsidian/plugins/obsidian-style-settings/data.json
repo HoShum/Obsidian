@@ -77,5 +77,9 @@
   "yaozhuwa@css@@seamless-embed": false,
   "yaozhuwa@css@@outline-tweak": false,
   "chime-theme@@theme-settings": "theme-notion",
-  "yaozhuwa@css@@table-line-number": false
+  "yaozhuwa@css@@table-line-number": false,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
+  "Appearance-light@@accent-color-override-light": false,
+  "Components@@outline-enhanced": false,
+  "Editor@@codeblock-style-select": "codeblock-style-one-dark"
 }
