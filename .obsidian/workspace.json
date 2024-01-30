@@ -11,8 +11,12 @@
             "id": "b1bdfd180a65b024",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Deploy/Linux/Vim教程.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deploy/Linux/Vim教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deploy/Linux/Vim教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deploy/Linux/Vim教程.md"
+              }
             }
           }
         ],
@@ -176,6 +184,7 @@
   },
   "active": "b1bdfd180a65b024",
   "lastOpenFiles": [
+    "CS Base/ASM/8086/实验篇.md",
     "Excalidraw/Drawing 2024-01-30 10.27.06.excalidraw.md",
     "Excalidraw/fonts/智勇手书体(增加英文版).ttf",
     "Business/告警业务/流程图.ex",
@@ -192,7 +201,6 @@
     "Deploy/Linux/文件与目录.md",
     "CS Base/组成原理/二进制减法.md",
     "CS Base/组成原理",
-    "CS Base/ASM/8086/实验篇.md",
     "Books/鸟哥的Linux私房菜/思维导图.md",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版-annotate.md",
     "Books/鸟哥的Linux私房菜/未命名思维导图.md",
