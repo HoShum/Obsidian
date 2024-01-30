@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md",
-                "mode": "preview",
+                "file": "Deploy/Linux/文件与目录.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -68,14 +68,14 @@
         ]
       },
       {
-        "id": "0d9c408a97228854",
+        "id": "e109624ca7a56fbc",
         "type": "tabs",
         "children": [
           {
-            "id": "1b8c7b90e2da24ff",
+            "id": "1d232416b0183689",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "calendar",
               "state": {}
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md",
+                "file": "Deploy/Linux/文件与目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md",
+                "file": "Deploy/Linux/文件与目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,12 +139,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md"
+                "file": "Deploy/Linux/文件与目录.md"
               }
             }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "bc078cd69cd213ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b8c7b90e2da24ff",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,18 +183,17 @@
   },
   "active": "f63f0c5af1a887e8",
   "lastOpenFiles": [
-    "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
-    "Books/鸟哥的Linux私房菜",
     "CS Base/组成原理/二进制减法.md",
-    "Business/告警业务/流程图.ex",
-    "CS Base/ASM/8086/实验篇.md",
-    "Deploy/Linux/文件与目录.md",
     "CS Base/组成原理",
+    "CS Base/ASM/8086/实验篇.md",
     "Books/鸟哥的Linux私房菜/思维导图.md",
+    "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版-annotate.md",
     "Books/鸟哥的Linux私房菜/未命名思维导图.md",
     "Books/鸟哥的Linux私房菜/pdf.md",
     "未命名思维导图.md",
+    "Books/鸟哥的Linux私房菜",
+    "Business/告警业务/流程图.ex",
     "Business/告警业务/process.excalidraw",
     "Tools/工具集.md",
     "Tools/attachments/Untitled.loom",
@@ -191,6 +204,7 @@
     "Business/告警业务",
     "Business",
     "Deploy/Docker/Docker基础.md",
+    "Deploy/Linux/文件与目录.md",
     "Deploy/Linux/Vim教程.md",
     "Kanban/任务看板.md",
     "重载.md",
