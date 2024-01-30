@@ -272,7 +272,7 @@
         "lineNumbers": true,
         "unwrapLines": true,
         "wrapLinesActive": false,
-        "curvature": 10
+        "curvature": 4
       },
       "gutter": {
         "highlight": true,
@@ -303,7 +303,7 @@
       },
       "inline": {
         "syntaxHighlight": true,
-        "style": true,
+        "style": false,
         "fontWeight": 4,
         "curvature": 6,
         "paddingVertical": 5,
@@ -315,7 +315,7 @@
         "gradientHighlights": false,
         "gradientHighlightsColourStop": "70%",
         "languageBorderColour": false,
-        "languageBorderWidth": 0,
+        "languageBorderWidth": 5,
         "iconSize": 28
       }
     },

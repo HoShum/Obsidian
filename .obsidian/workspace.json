@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "CS Base/ASM/8086/实验篇.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -179,8 +179,8 @@
   "active": "f63f0c5af1a887e8",
   "lastOpenFiles": [
     "Java/框架/Spring/IOC/IOC与Spring.md",
-    "Java/框架/MyBatis/缓存机制.md",
     "CS Base/ASM/8086/实验篇.md",
+    "Java/框架/MyBatis/缓存机制.md",
     "Java/框架/MyBatis/日志整合.md",
     "Deploy/Linux/Vim教程.md",
     "Java/框架/Spring/IOC/Index.md",
