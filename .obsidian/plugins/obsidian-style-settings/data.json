@@ -88,5 +88,7 @@
   "Appearance-dark@@card-layout-open-dark": true,
   "Editor@@codeblock-style-select": "codeblock-style-customize",
   "Editor@@line-hover-indicator": false,
-  "anuppuccin-theme-settings@@anp-code-bg-color@@light": "#000000"
+  "anuppuccin-theme-settings@@anp-hide-status-bar": false,
+  "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
+  "anuppuccin-theme-settings@@anp-toggle-metadata": false
 }
