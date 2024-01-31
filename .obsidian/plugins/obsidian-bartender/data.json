@@ -17,13 +17,17 @@
       "C",
       "Java",
       "DataBase",
+      "Design",
       "Ideas",
       "Deploy",
       "Tools",
       "Personal",
       "Books",
       "TODO",
-      "Memo"
+      "Memo",
+      "Business",
+      "Excalidraw",
+      "Kanban"
     ],
     "Tools": [
       "Tools/工具集.md",
