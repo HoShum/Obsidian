@@ -10,7 +10,7 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
   "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
-  "things-style@@default-font-color": true,
+  "things-style@@default-font-color": false,
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-teal",
   "anuppuccin-theme-settings@@anp-colorful-frame-opacity": 1,
   "anuppuccin-theme-settings@@anp-colorful-frame-color@@dark": "#43BFBA",
@@ -90,5 +90,7 @@
   "Editor@@line-hover-indicator": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
-  "anuppuccin-theme-settings@@anp-toggle-metadata": false
+  "anuppuccin-theme-settings@@anp-toggle-metadata": false,
+  "things-style@@code-normal": "#FF0000",
+  "things-style@@strong-color": "#5F00D7"
 }

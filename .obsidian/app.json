@@ -20,5 +20,6 @@
   },
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "smartIndentList": true
+  "smartIndentList": true,
+  "defaultViewMode": "preview"
 }
