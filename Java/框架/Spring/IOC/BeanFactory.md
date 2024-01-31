@@ -1,4 +1,4 @@
-#Java #Spring #IOC
+#Java #Spring/IOC 
 ## 什么是BeanFactory
 BeanFactory是一个接口，而借助Idea，可以发现它并没有父接口，可以这么说，SpringFramework的源头就是BeanFactory，Spring中的所有容器都是实现了该接口！
 这是它的UML图：
@@ -14,3 +14,4 @@ title:总结
 其实总结来说，BeanFactory提供了最基本的管理Bean的能力，但具体的功能还要看它的子接口和实现类
 ```
 ## 子接口
+[[类关系思维导图]]

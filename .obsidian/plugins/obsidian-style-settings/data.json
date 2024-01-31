@@ -92,5 +92,6 @@
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
   "anuppuccin-theme-settings@@anp-toggle-metadata": false,
   "things-style@@code-normal": "#FF0000",
-  "things-style@@strong-color": "#5F00D7"
+  "things-style@@strong-color": "#D00A8B",
+  "things-style@@quote-color": "#091C74"
 }
