@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25c1fdd3d5b451a4",
+        "id": "1162cf7c55c04580",
         "type": "tabs",
         "children": [
           {
-            "id": "6b6718dbc13a26b8",
+            "id": "fa68dbcbf6a01503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/设计模式/观察者模式.md",
-                "mode": "source",
+                "file": "Java/框架/Spring/IOC/事件机制.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/设计模式/观察者模式.md",
+                "file": "Java/框架/Spring/IOC/事件机制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design/设计模式/观察者模式.md",
+                "file": "Java/框架/Spring/IOC/事件机制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/设计模式/观察者模式.md"
+                "file": "Java/框架/Spring/IOC/事件机制.md"
               }
             }
           },
@@ -176,15 +176,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "fa68dbcbf6a01503",
   "lastOpenFiles": [
     "Java/框架/Spring/IOC/基础功能.md",
+    "Java/框架/Spring/IOC/Index.md",
+    "Java/框架/MyBatis/03解析Mappr文件.md",
+    "Java/框架/MyBatis/02配置文件加载与解析.md",
+    "Design/设计模式/观察者模式.md",
+    "Java/框架/Spring/IOC/IOC与Spring.md",
+    "Java/框架/Spring/IOC/BeanFactory.md",
     "Java/框架/Spring/IOC/事件机制.md",
     "Java/框架/Spring/IOC/assests/类关系思维导图.md",
     "Java/框架/Spring/IOC/assests",
-    "Java/框架/Spring/IOC/BeanFactory.md",
-    "Design/设计模式/观察者模式.md",
-    "Java/框架/Spring/IOC/IOC与Spring.md",
     "Design/设计模式",
     "Design",
     "TODO/📆TODO.md",
@@ -192,7 +195,6 @@
     "CS Base/ASM/8086/实验篇.md",
     "Java/框架/MyBatis/缓存机制.md",
     "Deploy/Linux/Vim教程.md",
-    "Java/框架/Spring/IOC/Index.md",
     "Java/框架/Spring/IOC",
     "Java/框架/Spring",
     "Excalidraw/fonts/智勇手书体(增加英文版).ttf",
@@ -211,8 +213,6 @@
     "Java/框架/MyBatis/工具集.md",
     "Java/开发小记/ChainFlow.md",
     "Deploy/Docker/Docker基础.md",
-    "Kanban/任务看板.md",
-    "重载.md",
-    "C/C程序设计语言-读书笔记.md"
+    "Kanban/任务看板.md"
   ]
 }
