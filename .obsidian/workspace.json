@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/框架/Spring/IOC/事件机制.md",
+                "file": "Excalidraw/ModbusRTU.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/框架/Spring/IOC/事件机制.md",
+                "file": "Excalidraw/ModbusRTU.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/框架/Spring/IOC/事件机制.md"
+                "file": "Excalidraw/ModbusRTU.excalidraw.md"
               }
             }
           },
@@ -176,8 +176,50 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fa68dbcbf6a01503",
+  "floating": {
+    "id": "8c99ad7ecd85024a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "63122cafca5457fc",
+        "type": "window",
+        "children": [
+          {
+            "id": "5937c373b69569b7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "61b28aec1c7cbfe5",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/ModbusRTU.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 512,
+        "y": 152,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "61b28aec1c7cbfe5",
   "lastOpenFiles": [
+    "Excalidraw/attachments/Pasted Image 20240202094338_932.png",
+    "Excalidraw/attachments",
+    "Excalidraw/Drawing 2024-02-02 09.40.57.excalidraw.md",
+    "Excalidraw/ModbusRTU.excalidraw.md",
+    "Java/框架/Spring/IOC/事件机制.md",
+    "Excalidraw/Drawing 2024-02-02 09.40.34.excalidraw.md",
+    "Business/物联网通讯协议",
     "Java/框架/Spring/IOC/基础功能.md",
     "Java/框架/Spring/IOC/Index.md",
     "Java/框架/MyBatis/03解析Mappr文件.md",
@@ -185,7 +227,6 @@
     "Design/设计模式/观察者模式.md",
     "Java/框架/Spring/IOC/IOC与Spring.md",
     "Java/框架/Spring/IOC/BeanFactory.md",
-    "Java/框架/Spring/IOC/事件机制.md",
     "Java/框架/Spring/IOC/assests/类关系思维导图.md",
     "Java/框架/Spring/IOC/assests",
     "Design/设计模式",
@@ -200,8 +241,6 @@
     "Excalidraw/fonts/智勇手书体(增加英文版).ttf",
     "Excalidraw/fonts/Muyao-Softbrush-2.ttf",
     "Excalidraw/fonts",
-    "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
-    "Books/鸟哥的Linux私房菜",
     "CS Base/组成原理/二进制减法.md",
     "Deploy/Linux/文件与目录.md",
     "Books/鸟哥的Linux私房菜/思维导图.md",
@@ -209,10 +248,6 @@
     "Books/鸟哥的Linux私房菜/未命名思维导图.md",
     "Books/鸟哥的Linux私房菜/pdf.md",
     "未命名思维导图.md",
-    "Tools/工具集.md",
-    "Java/框架/MyBatis/工具集.md",
-    "Java/开发小记/ChainFlow.md",
-    "Deploy/Docker/Docker基础.md",
-    "Kanban/任务看板.md"
+    "Tools/工具集.md"
   ]
 }
