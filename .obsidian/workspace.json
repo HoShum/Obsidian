@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ebda286e2b33e79c",
+        "id": "8425d147f0f0ab75",
         "type": "tabs",
         "children": [
           {
-            "id": "b42974d7ff079e93",
+            "id": "2add5fb58a0e4976",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/框架/Spring/IOC/BeanFactory.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -95,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/ModbusRTU.excalidraw.md",
+                "file": "Java/框架/Spring/IOC/BeanFactory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/ModbusRTU.excalidraw.md",
+                "file": "Java/框架/Spring/IOC/BeanFactory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/ModbusRTU.excalidraw.md"
+                "file": "Java/框架/Spring/IOC/BeanFactory.md"
               }
             }
           },
@@ -172,42 +176,42 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "2add5fb58a0e4976",
   "lastOpenFiles": [
+    "Excalidraw/libs/system-design.excalidrawlib",
+    "Excalidraw/libs/synths-and-fx.excalidrawlib",
+    "Excalidraw/libs/raspberrypi3.excalidrawlib",
+    "Excalidraw/libs/post-it.excalidrawlib",
+    "Excalidraw/libs/hexagonal-architecture.excalidrawlib",
     "Excalidraw/libs/drwnio.excalidrawlib",
+    "Excalidraw/libs/decision-flow-control.excalidrawlib",
+    "Excalidraw/libs/computers.excalidrawlib",
+    "Excalidraw/libs/basic-system-design.excalidrawlib",
     "Excalidraw/libs/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
-    "Excalidraw/fonts/AiNiChuanYueRenHai-2.ttf",
-    "Excalidraw/ModbusRTU.excalidraw.png",
+    "Excalidraw/libs/Logic-Gates.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240202112201_936.png",
     "Excalidraw/attachments/Pasted Image 20240202112001_944.png",
     "Excalidraw/attachments/Pasted Image 20240202111442_300.png",
-    "Excalidraw/ModbusRTU.excalidraw.md",
-    "Excalidraw/libs/basic-system-design.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240202104240_755.png",
-    "Java/框架/Spring/IOC/事件机制.md",
-    "Excalidraw/libs/computers.excalidrawlib",
-    "Excalidraw/libs/post-it.excalidrawlib",
-    "Excalidraw/libs/raspberrypi3.excalidrawlib",
-    "Excalidraw/libs/decision-flow-control.excalidrawlib",
-    "Excalidraw/libs/hexagonal-architecture.excalidrawlib",
-    "Excalidraw/libs/Logic-Gates.excalidrawlib",
-    "Excalidraw/libs/system-design.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240202100334_932.png",
     "Excalidraw/attachments/Pasted Image 20240202094338_932.png",
-    "Excalidraw/Drawing 2024-02-02 09.40.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-02 09.40.34.excalidraw.md",
+    "Excalidraw/ModbusRTU.excalidraw.md",
+    "Java/框架/Spring/IOC/assests/类关系思维导图.md",
+    "Java/框架/Spring/IOC/BeanFactory.md",
     "Java/框架/Spring/IOC/基础功能.md",
+    "Java/框架/Spring/IOC/事件机制.md",
+    "Java/框架/Spring/IOC/IOC与Spring.md",
+    "Java/框架/MyBatis/01基础篇.md",
     "Java/框架/Spring/IOC/Index.md",
+    "Java/框架/MyBatis/04解析Mapper接口.md",
+    "Java/框架/MyBatis/缓存机制.md",
     "Java/框架/MyBatis/03解析Mappr文件.md",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
+    "C/C程序设计语言-读书笔记.md",
+    "CS Base/ASM/8086/实验篇.md",
     "Design/设计模式/观察者模式.md",
-    "Java/框架/Spring/IOC/IOC与Spring.md",
-    "Java/框架/Spring/IOC/BeanFactory.md",
-    "Java/框架/Spring/IOC/assests/类关系思维导图.md",
     "TODO/📆TODO.md",
     "Java/框架/MyBatis/日志整合.md",
-    "CS Base/ASM/8086/实验篇.md",
-    "Java/框架/MyBatis/缓存机制.md",
     "Deploy/Linux/Vim教程.md",
     "CS Base/组成原理/二进制减法.md",
     "Deploy/Linux/文件与目录.md",
@@ -215,7 +219,6 @@
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版-annotate.md",
     "Books/鸟哥的Linux私房菜/未命名思维导图.md",
     "Books/鸟哥的Linux私房菜/pdf.md",
-    "未命名思维导图.md",
-    "Tools/工具集.md"
+    "未命名思维导图.md"
   ]
 }

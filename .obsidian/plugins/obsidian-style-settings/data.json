@@ -90,5 +90,6 @@
   "Editor@@line-hover-indicator": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
-  "anuppuccin-theme-settings@@anp-toggle-metadata": false
+  "anuppuccin-theme-settings@@anp-toggle-metadata": false,
+  "things-style@@strong-color": "#FB00CD"
 }
