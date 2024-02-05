@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc21ad7a324669b",
+        "id": "8425d147f0f0ab75",
         "type": "tabs",
         "children": [
           {
-            "id": "eb79d33926a987f2",
+            "id": "2add5fb58a0e4976",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/框架/Spring/IOC/BeanFactory.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/框架/Spring/IOC/BeanFactory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/框架/Spring/IOC/BeanFactory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/框架/Spring/IOC/BeanFactory.md"
+              }
             }
           },
           {
@@ -168,17 +176,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "eb79d33926a987f2",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
     "Excalidraw/曼顿HTTP.excalidraw.md",
-    "Excalidraw/ModbusRTU.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-05 15.03.40.excalidraw.svg",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
     "Excalidraw/attachments/Pasted Image 20240205150445_122.png",
     "Excalidraw/attachments/Pasted Image 20240205150359_118.png",
-    "Excalidraw/Drawing 2024-02-05 15.03.30.excalidraw.md",
-    "Java/框架/Spring/IOC/BeanFactory.md",
     "Business/物联网通讯协议",
     "Excalidraw/libs/system-design.excalidrawlib",
     "Excalidraw/libs/synths-and-fx.excalidrawlib",
@@ -194,7 +198,10 @@
     "Excalidraw/attachments/Pasted Image 20240202111442_300.png",
     "Excalidraw/attachments/Pasted Image 20240202104240_755.png",
     "Excalidraw/attachments/Pasted Image 20240202100334_932.png",
+    "Excalidraw/attachments/Pasted Image 20240202094338_932.png",
+    "Excalidraw/ModbusRTU.excalidraw.md",
     "Java/框架/Spring/IOC/assests/类关系思维导图.md",
+    "Java/框架/Spring/IOC/BeanFactory.md",
     "Java/框架/Spring/IOC/基础功能.md",
     "Java/框架/Spring/IOC/事件机制.md",
     "Java/框架/Spring/IOC/IOC与Spring.md",
@@ -214,6 +221,8 @@
     "Deploy/Linux/文件与目录.md",
     "Books/鸟哥的Linux私房菜/思维导图.md",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版-annotate.md",
-    "Books/鸟哥的Linux私房菜/未命名思维导图.md"
+    "Books/鸟哥的Linux私房菜/未命名思维导图.md",
+    "Books/鸟哥的Linux私房菜/pdf.md",
+    "未命名思维导图.md"
   ]
 }
