@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/框架/Spring/IOC/BeanFactory.md",
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/框架/Spring/IOC/BeanFactory.md",
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/框架/Spring/IOC/BeanFactory.md",
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/框架/Spring/IOC/BeanFactory.md"
+                "file": "CS Base/ASM/8086/实验篇.md"
               }
             }
           },
@@ -176,8 +176,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "2add5fb58a0e4976",
   "lastOpenFiles": [
+    "Java/框架/Spring/IOC/BeanFactory.md",
     "Excalidraw/曼顿HTTP.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
@@ -201,7 +202,6 @@
     "Excalidraw/attachments/Pasted Image 20240202094338_932.png",
     "Excalidraw/ModbusRTU.excalidraw.md",
     "Java/框架/Spring/IOC/assests/类关系思维导图.md",
-    "Java/框架/Spring/IOC/BeanFactory.md",
     "Java/框架/Spring/IOC/基础功能.md",
     "Java/框架/Spring/IOC/事件机制.md",
     "Java/框架/Spring/IOC/IOC与Spring.md",
