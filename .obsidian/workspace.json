@@ -178,6 +178,9 @@
   },
   "active": "2add5fb58a0e4976",
   "lastOpenFiles": [
+    "CS Base/组成原理/位运算.md",
+    "CS Base/组成原理/二进制减法.md",
+    "CS Base/ASM/8086/实验篇.md",
     "Java/框架/Spring/IOC/BeanFactory.md",
     "Excalidraw/曼顿HTTP.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
@@ -212,17 +215,14 @@
     "Java/框架/MyBatis/03解析Mappr文件.md",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
     "C/C程序设计语言-读书笔记.md",
-    "CS Base/ASM/8086/实验篇.md",
     "Design/设计模式/观察者模式.md",
     "TODO/📆TODO.md",
     "Java/框架/MyBatis/日志整合.md",
     "Deploy/Linux/Vim教程.md",
-    "CS Base/组成原理/二进制减法.md",
     "Deploy/Linux/文件与目录.md",
     "Books/鸟哥的Linux私房菜/思维导图.md",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版-annotate.md",
     "Books/鸟哥的Linux私房菜/未命名思维导图.md",
-    "Books/鸟哥的Linux私房菜/pdf.md",
-    "未命名思维导图.md"
+    "Books/鸟哥的Linux私房菜/pdf.md"
   ]
 }
