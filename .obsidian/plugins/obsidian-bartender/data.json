@@ -41,12 +41,12 @@
     ],
     "Java/框架/Spring/IOC": [
       "Java/框架/Spring/IOC/Index.md",
+      "Java/框架/Spring/IOC/IOC与Spring.md",
       "Java/框架/Spring/IOC/基础功能.md",
       "Java/框架/Spring/IOC/事件机制.md",
       "Java/框架/Spring/IOC/BeanFactory.md",
-      "Java/框架/Spring/IOC/IOC与Spring.md",
-      "Java/框架/Spring/IOC/assests",
-      "Java/框架/Spring/IOC/Class关系思维导图.md"
+      "Java/框架/Spring/IOC/生命周期.md",
+      "Java/框架/Spring/IOC/assests"
     ],
     "Java/框架": [
       "Java/框架/MyBatis",
