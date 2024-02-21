@@ -172,8 +172,8 @@
       "obsidian42-brat:BRAT": true,
       "local-backup:Run local backup": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "56e69b5d6c93f43d",
