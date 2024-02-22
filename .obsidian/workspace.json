@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fa4d6cc5f1291abc",
+        "id": "80c8915cabb1e9ce",
         "type": "tabs",
         "children": [
           {
-            "id": "011ae0641c7bd4a0",
+            "id": "7ce50597ef15292a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ModbusRTU.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/ModbusRTU.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/ModbusRTU.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/ModbusRTU.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,43 +168,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "floating": {
-    "id": "363e7713f7dbf944",
-    "type": "floating",
-    "children": [
-      {
-        "id": "30adeeeabc14b5c0",
-        "type": "window",
-        "children": [
-          {
-            "id": "40ae47dc82e95758",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0a0c94bded83c2d9",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/ModbusRTU.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 512,
-        "y": 152,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0a0c94bded83c2d9",
+  "active": "7ce50597ef15292a",
   "lastOpenFiles": [
+    "Excalidraw/ModbusRTU.excalidraw.md",
     "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
     "Java/框架/Spring/IOC/生命周期.md",
     "Java/框架/Spring/IOC/IOC与Spring.md",
@@ -243,7 +203,6 @@
     "Excalidraw/attachments/Pasted Image 20240202104240_755.png",
     "Excalidraw/attachments/Pasted Image 20240202100334_932.png",
     "Excalidraw/attachments/Pasted Image 20240202094338_932.png",
-    "Excalidraw/ModbusRTU.excalidraw.md",
     "Java/框架/MyBatis/01基础篇.md",
     "Java/框架/MyBatis/04解析Mapper接口.md",
     "Java/框架/MyBatis/缓存机制.md",
