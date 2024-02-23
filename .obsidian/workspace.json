@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80c8915cabb1e9ce",
+        "id": "a17942b417496f60",
         "type": "tabs",
         "children": [
           {
-            "id": "7ce50597ef15292a",
+            "id": "2135ce6606f088a8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,7 +168,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7ce50597ef15292a",
+  "active": "2135ce6606f088a8",
   "lastOpenFiles": [
     "Excalidraw/ModbusRTU.excalidraw.md",
     "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
