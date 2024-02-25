@@ -94,5 +94,6 @@
   "things-style@@strong-color": "#AE0000",
   "things-style@@code-normal": "#000000",
   "things-style@@code-color-d": "#AC09E9",
-  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker"
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "things-style@@fancy-code": false
 }

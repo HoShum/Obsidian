@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a963cfb03c0e9ac2",
+        "id": "680198f355125bb5",
         "type": "tabs",
         "children": [
           {
-            "id": "10fa68ab3dc33afc",
+            "id": "c07f57c8eb7bf4f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/框架/MyBatis/03解析Mappr文件.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/框架/MyBatis/03解析Mappr文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/框架/MyBatis/03解析Mappr文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/框架/MyBatis/03解析Mappr文件.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,20 +168,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "10fa68ab3dc33afc",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
-    "Java/框架/MyBatis/插件.md",
-    "Java/框架/MyBatis/缓存机制.md",
-    "Java/框架/MyBatis/02配置文件加载与解析.md",
-    "Java/框架/Spring/IOC/生命周期.md",
-    "Java/框架/Spring/IOC/BeanFactory.md",
-    "Java/框架/Spring/IOC/事件机制.md",
-    "Java/框架/Spring/IOC/基础功能.md",
-    "Java/框架/Spring/IOC/IOC与Spring.md",
     "Java/开发小记/ChainFlow.md",
     "Java/框架/MyBatis/03解析Mappr文件.md",
-    "Java/框架/MyBatis/01基础篇.md",
+    "Java/框架/MyBatis/02配置文件加载与解析.md",
+    "Java/框架/Spring/IOC/IOC与Spring.md",
+    "Java/框架/Spring/IOC/基础功能.md",
+    "Java/框架/Spring/IOC/事件机制.md",
+    "Java/框架/Spring/IOC/生命周期.md",
+    "Java/框架/Spring/IOC/BeanFactory.md",
     "Java/框架/Spring/IOC/Index.md",
+    "Java/框架/MyBatis/插件.md",
+    "Java/框架/MyBatis/缓存机制.md",
+    "Java/框架/MyBatis/01基础篇.md",
     "uindo.md",
     "DataBase/MySQL/BufferPool.md",
     "CS Base/ASM/8086/实验篇.md",
