@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "680198f355125bb5",
+        "id": "703df6400ecc447d",
         "type": "tabs",
         "children": [
           {
-            "id": "c07f57c8eb7bf4f2",
+            "id": "966dd4c0bc00068e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tools/MinIO使用教程.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tools/MinIO使用教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tools/MinIO使用教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tools/MinIO使用教程.md"
+              }
             }
           },
           {
@@ -168,8 +176,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "966dd4c0bc00068e",
   "lastOpenFiles": [
+    "Tools/工具集.md",
+    "Personal/2023年终总结.md",
     "Java/开发小记/ChainFlow.md",
     "Java/框架/MyBatis/03解析Mappr文件.md",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
@@ -189,7 +199,6 @@
     "CS Base/组成原理/二进制减法.md",
     "Deploy/Docker/Docker基础.md",
     "Tools/MinIO使用教程.md",
-    "Tools/工具集.md",
     "Java/框架/Spring/IOC/assests/类关系思维导图.md",
     "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
     "Excalidraw/libs/ttrpg-clocks.excalidrawlib",
@@ -214,7 +223,6 @@
     "Excalidraw/attachments/Pasted Image 20240202100334_932.png",
     "Excalidraw/attachments/Pasted Image 20240202094338_932.png",
     "Excalidraw/ModbusRTU.excalidraw.md",
-    "Java/框架/MyBatis/04解析Mapper接口.md",
-    "C/C程序设计语言-读书笔记.md"
+    "Java/框架/MyBatis/04解析Mapper接口.md"
   ]
 }
