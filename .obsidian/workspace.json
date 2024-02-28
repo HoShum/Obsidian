@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "703df6400ecc447d",
+        "id": "8068adb409eece0d",
         "type": "tabs",
         "children": [
           {
-            "id": "966dd4c0bc00068e",
+            "id": "be72d518485fb77a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/MinIO使用教程.md",
-                "mode": "preview",
+                "file": "CS Base/ASM/8086/实验篇.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/MinIO使用教程.md",
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/MinIO使用教程.md",
+                "file": "CS Base/ASM/8086/实验篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/MinIO使用教程.md"
+                "file": "CS Base/ASM/8086/实验篇.md"
               }
             }
           },
@@ -176,13 +176,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "966dd4c0bc00068e",
+  "active": "be72d518485fb77a",
   "lastOpenFiles": [
-    "Tools/工具集.md",
-    "Personal/2023年终总结.md",
+    "DataBase/MySQL/Redo日志.md",
+    "CS Base/组成原理/二进制减法.md",
+    "CS Base/组成原理/位运算.md",
+    "C程序设计语言-读书笔记.md",
     "Java/开发小记/ChainFlow.md",
-    "Java/框架/MyBatis/03解析Mappr文件.md",
+    "Java/框架/MyBatis/01基础篇.md",
     "Java/框架/MyBatis/02配置文件加载与解析.md",
+    "Java/框架/MyBatis/03解析Mappr文件.md",
+    "DataBase/MySQL/BufferPool.md",
+    "Design/设计模式/观察者模式.md",
+    "Tools/工具集.md",
+    "Tools/MinIO使用教程.md",
+    "Personal/2023年终总结.md",
     "Java/框架/Spring/IOC/IOC与Spring.md",
     "Java/框架/Spring/IOC/基础功能.md",
     "Java/框架/Spring/IOC/事件机制.md",
@@ -191,18 +199,12 @@
     "Java/框架/Spring/IOC/Index.md",
     "Java/框架/MyBatis/插件.md",
     "Java/框架/MyBatis/缓存机制.md",
-    "Java/框架/MyBatis/01基础篇.md",
     "uindo.md",
-    "DataBase/MySQL/BufferPool.md",
     "CS Base/ASM/8086/实验篇.md",
-    "CS Base/组成原理/位运算.md",
-    "CS Base/组成原理/二进制减法.md",
     "Deploy/Docker/Docker基础.md",
-    "Tools/MinIO使用教程.md",
     "Java/框架/Spring/IOC/assests/类关系思维导图.md",
     "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
     "Excalidraw/libs/ttrpg-clocks.excalidrawlib",
-    "Excalidraw/曼顿HTTP.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
     "Excalidraw/attachments/Pasted Image 20240205150445_122.png",
@@ -221,8 +223,6 @@
     "Excalidraw/attachments/Pasted Image 20240202111442_300.png",
     "Excalidraw/attachments/Pasted Image 20240202104240_755.png",
     "Excalidraw/attachments/Pasted Image 20240202100334_932.png",
-    "Excalidraw/attachments/Pasted Image 20240202094338_932.png",
-    "Excalidraw/ModbusRTU.excalidraw.md",
-    "Java/框架/MyBatis/04解析Mapper接口.md"
+    "Excalidraw/attachments/Pasted Image 20240202094338_932.png"
   ]
 }
