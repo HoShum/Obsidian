@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84da0085ecad9f0b",
+        "id": "a71ac090dd4dda48",
         "type": "tabs",
         "children": [
           {
-            "id": "153004d06ef7415b",
+            "id": "db14739259f113fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/生命周期.md",
+                "file": "Java/常用开发框架/MyBatis/核心组件-Executor.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/生命周期.md",
+                "file": "Java/常用开发框架/MyBatis/核心组件-Executor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/生命周期.md",
+                "file": "Java/常用开发框架/MyBatis/核心组件-Executor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/生命周期.md"
+                "file": "Java/常用开发框架/MyBatis/核心组件-Executor.md"
               }
             }
           },
@@ -176,8 +176,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "153004d06ef7415b",
+  "active": "db14739259f113fb",
   "lastOpenFiles": [
+    "Java/常用开发框架/MyBatis/缓存机制.md",
+    "Java/常用开发框架/MyBatis/日志整合.md",
+    "Java/常用开发框架/MyBatis/工具集.md",
+    "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
+    "Java/常用开发框架/MyBatis/插件.md",
+    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
+    "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Java/常用开发框架/MyBatis/生命周期.md",
     "C程序设计语言-读书笔记.md",
     "git commit.md",
@@ -192,18 +199,12 @@
     "Java/开发小记/ChainFlow.md",
     "Java/常用开发框架/MyBatis/01基础篇.md",
     "Java/常用开发框架/MyBatis/02配置文件加载与解析.md",
-    "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
     "DataBase/MySQL/BufferPool.md",
     "Design/设计模式/观察者模式.md",
     "Tools/工具集.md",
     "Tools/MinIO使用教程.md",
     "Personal/2023年终总结.md",
     "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
-    "Java/常用开发框架/Spring/IOC/基础功能.md",
-    "Java/常用开发框架/Spring/IOC/事件机制.md",
-    "Java/常用开发框架/Spring/IOC/生命周期.md",
-    "Java/常用开发框架/Spring/IOC/BeanFactory.md",
-    "Java/常用开发框架/Spring/IOC/Index.md",
     "Excalidraw/libs/ttrpg-clocks.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
