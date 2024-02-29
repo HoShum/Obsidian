@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c0eb23807c95e3",
+        "id": "fa9be69de7e7c1e4",
         "type": "tabs",
         "children": [
           {
-            "id": "08480e5abcbcf94c",
+            "id": "5a8bc92a1471229e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +176,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "08480e5abcbcf94c",
+  "active": "5a8bc92a1471229e",
   "lastOpenFiles": [
-    "Java/常用开发框架/MyBatis/配置文件说明.md",
+    "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
+    "Java/常用开发框架/MyBatis/配置文件说明.md",
     "Java/常用开发框架/MyBatis/核心组件-Executor.md",
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement.md",
     "Java/常用开发框架/MyBatis/核心组件-SqlSource.md",
@@ -204,7 +205,6 @@
     "CS Base/组成原理/位运算.md",
     "Java/开发小记/ChainFlow.md",
     "Java/常用开发框架/MyBatis/02配置文件加载与解析.md",
-    "DataBase/MySQL/BufferPool.md",
     "Excalidraw/libs/ttrpg-clocks.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",

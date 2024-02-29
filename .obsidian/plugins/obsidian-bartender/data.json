@@ -62,11 +62,12 @@
       "Java/常用开发框架/MyBatis/工具集.md",
       "Java/常用开发框架/MyBatis/日志整合.md",
       "Java/常用开发框架/MyBatis/缓存机制.md",
+      "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
       "Java/常用开发框架/MyBatis/核心组件-Executor.md",
       "Java/常用开发框架/MyBatis/核心组件-MappedStatement.md",
       "Java/常用开发框架/MyBatis/核心组件-SqlSource.md",
-      "Java/常用开发框架/MyBatis/生命周期-加载配置文件.md",
-      "Java/常用开发框架/MyBatis/生命周期流程图.canvas"
+      "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
+      "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md"
     ]
   },
   "actionBarOrder": {},
