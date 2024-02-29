@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md",
-                "mode": "preview",
+                "file": "Deploy/Linux/文本与阅读.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md",
+                "file": "Deploy/Linux/文本与阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md",
+                "file": "Deploy/Linux/文本与阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Base/ASM/8086/实验篇.md"
+                "file": "Deploy/Linux/文本与阅读.md"
               }
             }
           },
@@ -178,6 +178,11 @@
   },
   "active": "be72d518485fb77a",
   "lastOpenFiles": [
+    "Deploy/Linux/文件与目录.md",
+    "Deploy/Linux/文本与阅读.md",
+    "Deploy/Linux/Vim教程.md",
+    "Deploy/Docker/Docker基础.md",
+    "CS Base/ASM/8086/实验篇.md",
     "DataBase/MySQL/Redo日志.md",
     "CS Base/组成原理/二进制减法.md",
     "CS Base/组成原理/位运算.md",
@@ -199,11 +204,6 @@
     "Java/框架/Spring/IOC/Index.md",
     "Java/框架/MyBatis/插件.md",
     "Java/框架/MyBatis/缓存机制.md",
-    "uindo.md",
-    "CS Base/ASM/8086/实验篇.md",
-    "Deploy/Docker/Docker基础.md",
-    "Java/框架/Spring/IOC/assests/类关系思维导图.md",
-    "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
     "Excalidraw/libs/ttrpg-clocks.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
