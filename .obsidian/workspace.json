@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8068adb409eece0d",
+        "id": "84da0085ecad9f0b",
         "type": "tabs",
         "children": [
           {
-            "id": "be72d518485fb77a",
+            "id": "153004d06ef7415b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deploy/Linux/文本与阅读.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy/Linux/文本与阅读.md",
+                "file": "C程序设计语言-读书笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy/Linux/文本与阅读.md",
+                "file": "C程序设计语言-读书笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deploy/Linux/文本与阅读.md"
+                "file": "C程序设计语言-读书笔记.md"
               }
             }
           },
@@ -176,13 +172,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "be72d518485fb77a",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
-    "Deploy/Linux/文件与目录.md",
+    "git commit.md",
+    "CS Base/ASM/8086/实验篇.md",
     "Deploy/Linux/文本与阅读.md",
+    "Deploy/Linux/文件与目录.md",
     "Deploy/Linux/Vim教程.md",
     "Deploy/Docker/Docker基础.md",
-    "CS Base/ASM/8086/实验篇.md",
     "DataBase/MySQL/Redo日志.md",
     "CS Base/组成原理/二进制减法.md",
     "CS Base/组成原理/位运算.md",
@@ -203,7 +200,6 @@
     "Java/框架/Spring/IOC/BeanFactory.md",
     "Java/框架/Spring/IOC/Index.md",
     "Java/框架/MyBatis/插件.md",
-    "Java/框架/MyBatis/缓存机制.md",
     "Excalidraw/libs/ttrpg-clocks.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
