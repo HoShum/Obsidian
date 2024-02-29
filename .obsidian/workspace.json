@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a71ac090dd4dda48",
+        "id": "6578c205815c3057",
         "type": "tabs",
         "children": [
           {
-            "id": "db14739259f113fb",
+            "id": "a4c02f3a5325b836",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Java/常用开发框架/MyBatis/核心组件-Executor.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.49999618530273
+    "width": 276.5026054382324
   },
   "right": {
     "id": "dec21afec6639e20",
@@ -176,14 +176,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "db14739259f113fb",
+  "active": "a4c02f3a5325b836",
   "lastOpenFiles": [
+    "Java/常用开发框架/MyBatis/核心组件-MappedStatement.md",
+    "未命名.md",
+    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
+    "Java/常用开发框架/MyBatis/01基础篇.md",
+    "Design/设计模式/观察者模式.md",
     "Java/常用开发框架/MyBatis/缓存机制.md",
     "Java/常用开发框架/MyBatis/日志整合.md",
     "Java/常用开发框架/MyBatis/工具集.md",
     "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
     "Java/常用开发框架/MyBatis/插件.md",
-    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Java/常用开发框架/MyBatis/生命周期.md",
     "C程序设计语言-读书笔记.md",
@@ -197,14 +201,10 @@
     "CS Base/组成原理/二进制减法.md",
     "CS Base/组成原理/位运算.md",
     "Java/开发小记/ChainFlow.md",
-    "Java/常用开发框架/MyBatis/01基础篇.md",
     "Java/常用开发框架/MyBatis/02配置文件加载与解析.md",
     "DataBase/MySQL/BufferPool.md",
-    "Design/设计模式/观察者模式.md",
     "Tools/工具集.md",
     "Tools/MinIO使用教程.md",
-    "Personal/2023年终总结.md",
-    "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
     "Excalidraw/libs/ttrpg-clocks.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",

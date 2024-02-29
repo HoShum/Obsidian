@@ -2,7 +2,7 @@
 Executor是MyBatis中的核心组件，MyBatis对SQL的查询和更新都是依托它来完成的
 ## 接口设计
 Executor本身是一个接口，其定义了最核心的功能
-```java fold title:
+```java 
 public interface Executor {
     
     // 执行insert update delete语句
