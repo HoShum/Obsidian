@@ -11,8 +11,12 @@
             "id": "153004d06ef7415b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/常用开发框架/MyBatis/生命周期.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C程序设计语言-读书笔记.md",
+                "file": "Java/常用开发框架/MyBatis/生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C程序设计语言-读书笔记.md",
+                "file": "Java/常用开发框架/MyBatis/生命周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C程序设计语言-读书笔记.md"
+                "file": "Java/常用开发框架/MyBatis/生命周期.md"
               }
             }
           },
@@ -172,8 +176,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "153004d06ef7415b",
   "lastOpenFiles": [
+    "Java/常用开发框架/MyBatis/生命周期.md",
+    "C程序设计语言-读书笔记.md",
     "git commit.md",
     "CS Base/ASM/8086/实验篇.md",
     "Deploy/Linux/文本与阅读.md",
@@ -183,23 +189,21 @@
     "DataBase/MySQL/Redo日志.md",
     "CS Base/组成原理/二进制减法.md",
     "CS Base/组成原理/位运算.md",
-    "C程序设计语言-读书笔记.md",
     "Java/开发小记/ChainFlow.md",
-    "Java/框架/MyBatis/01基础篇.md",
-    "Java/框架/MyBatis/02配置文件加载与解析.md",
-    "Java/框架/MyBatis/03解析Mappr文件.md",
+    "Java/常用开发框架/MyBatis/01基础篇.md",
+    "Java/常用开发框架/MyBatis/02配置文件加载与解析.md",
+    "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
     "DataBase/MySQL/BufferPool.md",
     "Design/设计模式/观察者模式.md",
     "Tools/工具集.md",
     "Tools/MinIO使用教程.md",
     "Personal/2023年终总结.md",
-    "Java/框架/Spring/IOC/IOC与Spring.md",
-    "Java/框架/Spring/IOC/基础功能.md",
-    "Java/框架/Spring/IOC/事件机制.md",
-    "Java/框架/Spring/IOC/生命周期.md",
-    "Java/框架/Spring/IOC/BeanFactory.md",
-    "Java/框架/Spring/IOC/Index.md",
-    "Java/框架/MyBatis/插件.md",
+    "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
+    "Java/常用开发框架/Spring/IOC/基础功能.md",
+    "Java/常用开发框架/Spring/IOC/事件机制.md",
+    "Java/常用开发框架/Spring/IOC/生命周期.md",
+    "Java/常用开发框架/Spring/IOC/BeanFactory.md",
+    "Java/常用开发框架/Spring/IOC/Index.md",
     "Excalidraw/libs/ttrpg-clocks.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
