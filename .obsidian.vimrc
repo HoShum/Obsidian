@@ -8,11 +8,11 @@ nnoremap J 5j
 nnoremap K 5k
 nnoremap W 5w
 nnoremap B 5b
-nnoremap <C-h> ^
-nnoremap <C-l> $
+nnoremap <S-h> ^
+nnoremap <S-l> $
 "插入模式快速移动光标
-inoremap <C-h> <ESC>^i
-inoremap <C-l> <ESC>$a
+inoremap <S-h> <ESC>^i
+inoremap <S-l> <ESC>$a
 "显示模式快速移动光标
 vnoremap <C-n> 5j
 vnoremap <C-p> 5k
