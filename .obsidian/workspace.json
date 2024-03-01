@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
-                "mode": "preview",
+                "file": "Deploy/Linux/文本与阅读.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
+                "file": "Deploy/Linux/文本与阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
+                "file": "Deploy/Linux/文本与阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md"
+                "file": "Deploy/Linux/文本与阅读.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "5a8bc92a1471229e",
   "lastOpenFiles": [
-    "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
+    "Deploy/Linux/文件与目录.md",
+    "Deploy/Linux/文本与阅读.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
+    "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
     "Java/常用开发框架/MyBatis/配置文件说明.md",
     "Java/常用开发框架/MyBatis/核心组件-Executor.md",
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement.md",
@@ -196,8 +198,6 @@
     "C程序设计语言-读书笔记.md",
     "git commit.md",
     "CS Base/ASM/8086/实验篇.md",
-    "Deploy/Linux/文本与阅读.md",
-    "Deploy/Linux/文件与目录.md",
     "Deploy/Linux/Vim教程.md",
     "Deploy/Docker/Docker基础.md",
     "DataBase/MySQL/Redo日志.md",
