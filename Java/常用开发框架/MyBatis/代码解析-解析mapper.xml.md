@@ -91,3 +91,40 @@ private void sqlElement(List<XNode> list, String requiredDatabaseId) {
 但是需要注意的是，MyBatis还会对databaseId进行区分
 ### statement
 该方法同样非常核心，是用来解析我们在mapper文件中写的增删改查SQL；这里面的逻辑同样非常复杂，因此单独在另一个文档中进行解析[[代码解析-解析Statement]]
+## bindMapperForNamespace
+先上代码
+```java fold title:bindMapperForNamespace
+private void bindMapperForNamespace() {
+    String namespace = builderAssistant.getCurrentNamespace();
+    if (namespace != null) {
+        Class<?> boundType = null;
+        try {
+            // 尝试加载namespace对应的类
+            boundType = Resources.classForName(namespace);
+        } catch (ClassNotFoundException e) {
+            // ignore, bound type is not required
+        }
+        // 加载到类了，并且之前没存过这个Mapper接口，那就存起来
+        if (boundType != null && !configuration.hasMapper(boundType)) {
+            // Spring may not know the real resource name so we set a flag
+            // to prevent loading again this resource from the mapper interface
+            // look at MapperAnnotationBuilder#loadXmlResource
+            // Spring可能不知道真实的资源名称，因此设置了一个标志来防止再次从Mapper接口加载此资源
+            configuration.addLoadedResource("namespace:" + namespace);
+            configuration.addMapper(boundType);
+        }
+    }
+}
+```
+这段代码的大概步骤是这样的：
+1. 解析到一个mappe.xml文件
+2. 通过它的namespace去检索对应的Mapper的Class文件
+3. 如果检索到且配置中还不存在，则标记该xml文件已经被访问，同时标记该Mapper已经被加载
+
+为什么要这样做呢？
+* 在早期的MyBatis版本中并不不支持Mapper接口去调用方法的，而是需要通过`sqlSession`来加载对应的mapper.xml文件，因此从这里的代码中也可以看到，即使找不到对应的Mapper接口，也不影响MyBatis运行
+* 而MyBatis加入了接口机制后，为了防止重复加载Mapper接口，当扫描每个mapper.xml文件后，MyBatis就会尝试通过它的namespace去加载对应的Mapper接口
+
+```ad-note
+通过上面的代码，也理解了为什么MyBatis要求我们在写mapper.xml文件时，它的namespace需要设置为对应的Mapper接口的全路径
+```
