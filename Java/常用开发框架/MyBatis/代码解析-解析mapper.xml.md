@@ -65,3 +65,29 @@ private void configurationElement(XNode context) {
 由于MyBatis设计的resultMap功能非常强大，因此这里的代码逻辑也是非常复杂，同样分开一个单独的文档来分析😂[[代码解析-解析resultMap]]
 ### sqlElement
 该方法是用来解析和封装公共的SQL片段，因为我们的mapper.xml文件中可以引用多个`<sql>`标签
+```java fold title:sqlElement
+private void sqlElement(List<XNode> list) {
+    if (configuration.getDatabaseId() != null) {
+        // 先全部过一遍，提取出匹配SQL片段的statement
+        sqlElement(list, configuration.getDatabaseId());
+    }
+    // 再提取通用的SQL片段
+    sqlElement(list, null);
+}
+
+private void sqlElement(List<XNode> list, String requiredDatabaseId) {
+    for (XNode context : list) {
+        String databaseId = context.getStringAttribute("databaseId");
+        String id = context.getStringAttribute("id");
+        id = builderAssistant.applyCurrentNamespace(id, false);
+        // 鉴别当前SQL片段是否匹配
+        if (databaseIdMatchesCurrent(id, databaseId, requiredDatabaseId)) {
+            sqlFragments.put(id, context);
+        }
+    }
+}
+```
+这里的代码很简单，就是用sql片段中id作为key，内容为value，放到缓存中
+但是需要注意的是，MyBatis还会对databaseId进行区分
+### statement
+该方法同样非常核心，是用来解析我们在mapper文件中写的增删改查SQL；这里面的逻辑同样非常复杂，因此单独在另一个文档中进行解析[[代码解析-解析Statement]]

@@ -216,6 +216,7 @@
   "active": "1661bb30f6337a60",
   "lastOpenFiles": [
     "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
     "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
@@ -241,7 +242,6 @@
     "Deploy/Linux/文件与目录.md",
     "Deploy/Linux/Vim教程.md",
     "Deploy/Docker/Docker基础.md",
-    "DataBase/MySQL/Redo日志.md",
     "Excalidraw/libs/ttrpg-clocks.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
