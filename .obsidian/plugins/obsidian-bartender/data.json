@@ -64,8 +64,7 @@
       "Java/常用开发框架/MyBatis/缓存机制.md",
       "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
       "Java/常用开发框架/MyBatis/核心组件-Executor.md",
-      "Java/常用开发框架/MyBatis/核心组件-MappedStatement.md",
-      "Java/常用开发框架/MyBatis/核心组件-SqlSource.md",
+      "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
       "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
       "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
       "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
@@ -73,6 +72,14 @@
       "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
       "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
       "Java/常用开发框架/MyBatis/代码解析-解析Statement.md"
+    ],
+    "Excalidraw": [
+      "Excalidraw/libs",
+      "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
+      "Excalidraw/attachments",
+      "Excalidraw/曼顿HTTP.excalidraw.md",
+      "Excalidraw/ModbusRTU.excalidraw.md",
+      "Excalidraw/fonts"
     ]
   },
   "actionBarOrder": {},
