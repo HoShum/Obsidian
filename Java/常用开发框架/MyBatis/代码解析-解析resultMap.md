@@ -138,3 +138,40 @@ private void processConstructorElement(XNode resultChild, Class<?> resultType, L
     }
 }
 ```
+关于这个`buildResultMappingFromContext`方法，下面会说明
+#### 2.2 普通字段映射
+```java fold title:buildResultMappingFromContext
+private ResultMapping buildResultMappingFromContext(XNode context, Class<?> resultType, List<ResultFlag> flags) {
+    String property;
+    if (flags.contains(ResultFlag.CONSTRUCTOR)) {
+        //<constructor>标签的字段属性是name而不是property
+        property = context.getStringAttribute("name");
+    } else {
+        property = context.getStringAttribute("property");
+    }
+    String column = context.getStringAttribute("column");
+    String javaType = context.getStringAttribute("javaType");
+    String jdbcType = context.getStringAttribute("jdbcType");
+    //处理select属性，只有<collection>和<association>有
+    String nestedSelect = context.getStringAttribute("select");
+    //处理resultMap属性，只有<collection>和<association>有
+    String nestedResultMap = context.getStringAttribute("resultMap", () ->
+            processNestedResultMappings(context, Collections.emptyList(), resultType));
+    String notNullColumn = context.getStringAttribute("notNullColumn");
+    String columnPrefix = context.getStringAttribute("columnPrefix");
+    String typeHandler = context.getStringAttribute("typeHandler");
+    String resultSet = context.getStringAttribute("resultSet");
+    String foreignColumn = context.getStringAttribute("foreignColumn");
+    boolean lazy = "lazy".equals(context.getStringAttribute("fetchType", 
+                             configuration.isLazyLoadingEnabled() ? "lazy" : "eager"));
+    // 结果集类型、typeHandler类型的解析
+    Class<?> javaTypeClass = resolveClass(javaType);
+    Class<? extends TypeHandler<?>> typeHandlerClass = resolveClass(typeHandler);
+    JdbcType jdbcTypeEnum = resolveJdbcType(jdbcType);
+    return builderAssistant.buildResultMapping(resultType, property, column, 
+                   javaTypeClass, jdbcTypeEnum, nestedSelect, nestedResultMap, 
+                   notNullColumn, columnPrefix, typeHandlerClass, 
+                   flags, resultSet, foreignColumn, lazy);
+}
+```
+这里其实就是逐个属性取出来然后设置到ResultMapping中，
