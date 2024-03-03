@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -215,10 +215,11 @@
   },
   "active": "c5888c698bcceed6",
   "lastOpenFiles": [
+    "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
+    "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
     "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
@@ -241,7 +242,6 @@
     "Deploy/Linux/文本与阅读.md",
     "Deploy/Linux/文件与目录.md",
     "Deploy/Linux/Vim教程.md",
-    "Deploy/Docker/Docker基础.md",
     "Excalidraw/libs/ttrpg-clocks.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",

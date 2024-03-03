@@ -12,8 +12,8 @@
     * arg：构造器参数
 * id：指定主键的字段映射
 * result：指定普通字段的映射
-* association：指定一对多的字段，比如`department`字段下关联多个`employee`字段
-* collection：指定多对一的字段，比如`students`是一个List集合字段
+* association：指定一个关联对象的字段，比如`department`字段对应一个`Department`对象
+* collection：指定一对多的字段，比如`students`是一个List集合字段
 * discriminator：一个选择器，可以指定一个字段不同值对应不同的resultMap
 
 ```ad-note
@@ -102,13 +102,15 @@ public class ResultMapping {
         resultMappings.add(buildResultMappingFromContext(resultChild, typeClass, flags));
       }
     }
-    //解析本标签的其他属性
+    //获取<resultMap>的id，extends和autoMapping属性
     String id = resultMapNode.getStringAttribute("id",
             resultMapNode.getValueBasedIdentifier());
     String extend = resultMapNode.getStringAttribute("extends");
     Boolean autoMapping = resultMapNode.getBooleanAttribute("autoMapping");
+    //构建一个ResultMapResolver来处理
     ResultMapResolver resultMapResolver = new ResultMapResolver(builderAssistant, id, typeClass, extend, discriminator, resultMappings, autoMapping);
     try {
+      //真正解析出ResultMap
       return resultMapResolver.resolve();
     } catch (IncompleteElementException e) {
       configuration.addIncompleteResultMap(resultMapResolver);
@@ -174,4 +176,56 @@ private ResultMapping buildResultMappingFromContext(XNode context, Class<?> resu
                    flags, resultSet, foreignColumn, lazy);
 }
 ```
-这里其实就是逐个属性取出来然后设置到ResultMapping中，
+这里其实就是逐个属性取出来然后设置到ResultMapping中，第28行的代码`builderAssistant.buildResultMapping()`方法点进去就会看到，它是利用了建造者模式去构建一个ResultMapping
+```ad-note
+另外值得注意的是，第16行代码`processNestedResultMappings`的作用是嵌套地去获取引用的`<resultMap>`，因为在`<association>`和`<collection>`标签中可以嵌套一个属性`<resultMap>`，表示返回的结果映射是引用另一个`<resultMap>`
+```
+#### 2.3 选择器字段映射
+```java fold title:processDiscriminatorElement
+private Discriminator processDiscriminatorElement(XNode context, Class<?> resultType, List<ResultMapping> resultMappings) {
+    String column = context.getStringAttribute("column");
+    String javaType = context.getStringAttribute("javaType");
+    String jdbcType = context.getStringAttribute("jdbcType");
+    String typeHandler = context.getStringAttribute("typeHandler");
+    Class<?> javaTypeClass = resolveClass(javaType);
+    Class<? extends TypeHandler<?>> typeHandlerClass = resolveClass(typeHandler);
+    JdbcType jdbcTypeEnum = resolveJdbcType(jdbcType);
+    // 解析<discriminator>的<case>子标签，并封装到Map中
+    Map<String, String> discriminatorMap = new HashMap<>();
+    for (XNode caseChild : context.getChildren()) {
+        String value = caseChild.getStringAttribute("value");
+        String resultMap = caseChild.getStringAttribute("resultMap", 
+                processNestedResultMappings(caseChild, resultMappings, resultType));
+        discriminatorMap.put(value, resultMap);
+    }
+    // 注意构造的是Discriminator而不是ResultMapping
+    return builderAssistant.buildDiscriminator(resultType, column, 
+             javaTypeClass, jdbcTypeEnum, typeHandlerClass, discriminatorMap);
+}
+```
+### 3、ResultMapResolver
+看名字，就知道它是用来解析ResultMap的，先来看看它的结构
+```java fold title:ResultMapResolver
+public class ResultMapResolver {
+  private final MapperBuilderAssistant assistant;
+  private final String id;
+  private final Class<?> type;
+  private final String extend;
+  private final Discriminator discriminator;
+  private final List<ResultMapping> resultMappings;
+  private final Boolean autoMapping;
+  //省略全参数构造器...
+
+  //解析方法
+  public ResultMap resolve() {
+    return assistant.addResultMap(this.id, this.type, this.extend, this.discriminator, this.resultMappings, this.autoMapping);
+  }
+
+}
+```
+可以看到，实际上它自己并不进行解析，而是委托给MapperBuilderAssistant来进行处理
+```ad-note
+这个MapperBuilderAssistant负责的功能很多，像在解析映射节点时也是通过它来实现，还有后面解析Statement也会见到它的身影，它相当于是一个内部的工具类
+
+关于这个类的功能解析，请看[[核心组件-MapperBuilderAssistant]]
+```
