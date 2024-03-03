@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
-                "mode": "preview",
+                "file": "Java/常用开发框架/MyBatis/核心组件-MappedStatement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46df2caae35975d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/常用开发框架/MyBatis/核心组件-SqlSource.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
+                "file": "Java/常用开发框架/MyBatis/核心组件-SqlSource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
+                "file": "Java/常用开发框架/MyBatis/核心组件-SqlSource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md"
+                "file": "Java/常用开发框架/MyBatis/核心组件-SqlSource.md"
               }
             }
           },
@@ -213,11 +225,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c5888c698bcceed6",
+  "active": "46df2caae35975d6",
   "lastOpenFiles": [
+    "Java/常用开发框架/MyBatis/核心组件-MappedStatement.md",
+    "Java/常用开发框架/MyBatis/核心组件-SqlSource.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
     "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
     "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
@@ -225,12 +239,10 @@
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Java/常用开发框架/MyBatis/02配置文件加载与解析.md",
     "Java/常用开发框架/MyBatis/配置文件说明.md",
-    "Java/常用开发框架/MyBatis/核心组件-MappedStatement.md",
     "Java/常用开发框架/MyBatis/01基础篇.md",
     "Java/常用开发框架/MyBatis/插件.md",
     "Java/常用开发框架/MyBatis/核心组件-Executor.md",
     "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
-    "Java/常用开发框架/MyBatis/核心组件-SqlSource.md",
     "未命名.md",
     "Design/设计模式/观察者模式.md",
     "Java/常用开发框架/MyBatis/缓存机制.md",
