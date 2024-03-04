@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a3f7e530b8858da",
+        "id": "fa9be69de7e7c1e4",
         "type": "tabs",
         "children": [
           {
-            "id": "931e765f523e4adc",
+            "id": "5a8bc92a1471229e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
+                "file": "Deploy/Linux/文本与阅读.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
+                "file": "Deploy/Linux/文本与阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
+                "file": "Deploy/Linux/文本与阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md"
+                "file": "Deploy/Linux/文本与阅读.md"
               }
             }
           },
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,33 +176,32 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "931e765f523e4adc",
+  "active": "5a8bc92a1471229e",
   "lastOpenFiles": [
-    "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
-    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
     "Excalidraw/SqlSource.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
-    "Excalidraw/ModbusRTU.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20240202094338_932.png",
-    "Java/常用开发框架/MyBatis/核心组件-SqlSource.md",
-    "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
-    "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
-    "Java/常用开发框架/MyBatis/02配置文件加载与解析.md",
-    "Java/常用开发框架/MyBatis/配置文件说明.md",
-    "Java/常用开发框架/MyBatis/01基础篇.md",
-    "Java/常用开发框架/MyBatis/插件.md",
-    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
+    "Deploy/Linux/文件与目录.md",
+    "Deploy/Linux/文本与阅读.md",
+    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
+    "Java/常用开发框架/MyBatis/配置文件说明.md",
+    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
+    "Java/常用开发框架/MyBatis/核心组件-MappedStatement.md",
+    "Java/常用开发框架/MyBatis/核心组件-SqlSource.md",
     "未命名.md",
+    "Java/常用开发框架/MyBatis/01基础篇.md",
     "Design/设计模式/观察者模式.md",
     "Java/常用开发框架/MyBatis/缓存机制.md",
     "Java/常用开发框架/MyBatis/日志整合.md",
     "Java/常用开发框架/MyBatis/工具集.md",
+    "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
+    "Java/常用开发框架/MyBatis/插件.md",
+    "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "C程序设计语言-读书笔记.md",
     "git commit.md",
     "CS Base/ASM/8086/实验篇.md",
@@ -224,6 +223,7 @@
     "Excalidraw/attachments/Pasted Image 20240202112001_944.png",
     "Excalidraw/attachments/Pasted Image 20240202111442_300.png",
     "Excalidraw/attachments/Pasted Image 20240202104240_755.png",
-    "Excalidraw/attachments/Pasted Image 20240202100334_932.png"
+    "Excalidraw/attachments/Pasted Image 20240202100334_932.png",
+    "Excalidraw/attachments/Pasted Image 20240202094338_932.png"
   ]
 }
