@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a1b9c2f8c445bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy/Linux/文本与阅读.md",
+                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy/Linux/文本与阅读.md",
+                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deploy/Linux/文本与阅读.md"
+                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md"
               }
             }
           },
@@ -156,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +189,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5a8bc92a1471229e",
+  "active": "3a1b9c2f8c445bec",
   "lastOpenFiles": [
+    "Deploy/Linux/文本与阅读.md",
     "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
@@ -186,7 +200,6 @@
     "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
     "Excalidraw/SqlSource.excalidraw.md",
     "Deploy/Linux/文件与目录.md",
-    "Deploy/Linux/文本与阅读.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
     "Java/常用开发框架/MyBatis/配置文件说明.md",
