@@ -181,3 +181,15 @@ includeParser.applyIncludes(context.getNode());
   }
 ```
 显然这里面是复杂的，利用了递归去解析`<include>`标签
+### 3、解析selectKey
+```java 
+String parameterType = context.getStringAttribute("parameterType");
+Class<?> parameterTypeClass = resolveClass(parameterType);
+
+String lang = context.getStringAttribute("lang");
+LanguageDriver langDriver = getLanguageDriver(lang);
+
+// Parse selectKey after includes and remove them.
+processSelectKeyNodes(id, parameterTypeClass, langDriver);
+```
+前面几句又是取属性，最后那句是用来解析`<selectKey>`标签
