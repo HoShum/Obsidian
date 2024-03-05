@@ -145,42 +145,7 @@ includeParser.applyIncludes(context.getNode());
     applyIncludes(source, variablesContext, false);
  }
 ```
-它会先将所有自定义的属性拷贝一份，然后进入重载方法
-```java fold title:applyIncludes
-  private void applyIncludes(Node source, final Properties variablesContext, boolean included) {
-    if (source.getNodeName().equals("include")) {
-      Node toInclude = findSqlFragment(getStringAttribute(source, "refid"), variablesContext);
-      Properties toIncludeContext = getVariablesContext(source, variablesContext);
-      applyIncludes(toInclude, toIncludeContext, true);
-      if (toInclude.getOwnerDocument() != source.getOwnerDocument()) {
-        toInclude = source.getOwnerDocument().importNode(toInclude, true);
-      }
-      source.getParentNode().replaceChild(toInclude, source);
-      while (toInclude.hasChildNodes()) {
-        toInclude.getParentNode().insertBefore(toInclude.getFirstChild(), toInclude);
-      }
-      toInclude.getParentNode().removeChild(toInclude);
-    } else if (source.getNodeType() == Node.ELEMENT_NODE) {
-      if (included && !variablesContext.isEmpty()) {
-        // replace variables in attribute values
-        NamedNodeMap attributes = source.getAttributes();
-        for (int i = 0; i < attributes.getLength(); i++) {
-          Node attr = attributes.item(i);
-          attr.setNodeValue(PropertyParser.parse(attr.getNodeValue(), variablesContext));
-        }
-      }
-      NodeList children = source.getChildNodes();
-      for (int i = 0; i < children.getLength(); i++) {
-        applyIncludes(children.item(i), variablesContext, included);
-      }
-    } else if (included && (source.getNodeType() == Node.TEXT_NODE || source.getNodeType() == Node.CDATA_SECTION_NODE)
-        && !variablesContext.isEmpty()) {
-      // replace variables in text node
-      source.setNodeValue(PropertyParser.parse(source.getNodeValue(), variablesContext));
-    }
-  }
-```
-显然这里面是复杂的，利用了递归去解析`<include>`标签
+里面的方法是使用了递归去进行解析，里面又是
 ### 3、解析selectKey
 ```java 
 String parameterType = context.getStringAttribute("parameterType");

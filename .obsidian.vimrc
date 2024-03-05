@@ -9,7 +9,7 @@ nnoremap K 5k
 nnoremap W 5w
 nnoremap B 5b
 nnoremap <C-h> ^
-nnoremap <S-l> $
+nnoremap <C-l> $
 "插入模式快速移动光C
 inoremap <C-h> <ESC>^i
 inoremap <C-l> <ESC>$a
