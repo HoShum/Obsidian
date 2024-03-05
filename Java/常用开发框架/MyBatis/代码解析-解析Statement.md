@@ -111,3 +111,73 @@ private void buildStatementFromContext(List<XNode> list, String requiredDatabase
   }
 ```
 下面拆开来进行剖析
+### 1、获取基础属性
+```java
+//...
+String id = context.getStringAttribute("id");
+String databaseId = context.getStringAttribute("databaseId");
+
+if (!databaseIdMatchesCurrent(id, databaseId, this.requiredDatabaseId)) {
+  return;
+}
+
+String nodeName = context.getNode().getNodeName();
+SqlCommandType sqlCommandType = SqlCommandType.valueOf(nodeName.toUpperCase(Locale.ENGLISH));
+boolean isSelect = sqlCommandType == SqlCommandType.SELECT;
+boolean flushCache = context.getBooleanAttribute("flushCache", !isSelect);
+boolean useCache = context.getBooleanAttribute("useCache", isSelect);
+boolean resultOrdered = context.getBooleanAttribute("resultOrdered", false);
+//...
+```
+这里的代码很简单，首先就是判断databaseId是否一致，然后就是获取标签的属性
+### 2、解析include
+```java 
+// Include Fragments before parsing
+XMLIncludeTransformer includeParser = new XMLIncludeTransformer(configuration, builderAssistant);
+includeParser.applyIncludes(context.getNode());
+```
+这里构造了一个XMLIncludeTransformer来处理该标签，点进去看看
+```java fold title:XMLIncludeTransformer#applyIncludes
+ public void applyIncludes(Node source) {
+    Properties variablesContext = new Properties();
+    Properties configurationVariables = configuration.getVariables();
+    Optional.ofNullable(configurationVariables).ifPresent(variablesContext::putAll);
+    applyIncludes(source, variablesContext, false);
+ }
+```
+它会先将所有自定义的属性拷贝一份，然后进入重载方法
+```java fold title:applyIncludes
+  private void applyIncludes(Node source, final Properties variablesContext, boolean included) {
+    if (source.getNodeName().equals("include")) {
+      Node toInclude = findSqlFragment(getStringAttribute(source, "refid"), variablesContext);
+      Properties toIncludeContext = getVariablesContext(source, variablesContext);
+      applyIncludes(toInclude, toIncludeContext, true);
+      if (toInclude.getOwnerDocument() != source.getOwnerDocument()) {
+        toInclude = source.getOwnerDocument().importNode(toInclude, true);
+      }
+      source.getParentNode().replaceChild(toInclude, source);
+      while (toInclude.hasChildNodes()) {
+        toInclude.getParentNode().insertBefore(toInclude.getFirstChild(), toInclude);
+      }
+      toInclude.getParentNode().removeChild(toInclude);
+    } else if (source.getNodeType() == Node.ELEMENT_NODE) {
+      if (included && !variablesContext.isEmpty()) {
+        // replace variables in attribute values
+        NamedNodeMap attributes = source.getAttributes();
+        for (int i = 0; i < attributes.getLength(); i++) {
+          Node attr = attributes.item(i);
+          attr.setNodeValue(PropertyParser.parse(attr.getNodeValue(), variablesContext));
+        }
+      }
+      NodeList children = source.getChildNodes();
+      for (int i = 0; i < children.getLength(); i++) {
+        applyIncludes(children.item(i), variablesContext, included);
+      }
+    } else if (included && (source.getNodeType() == Node.TEXT_NODE || source.getNodeType() == Node.CDATA_SECTION_NODE)
+        && !variablesContext.isEmpty()) {
+      // replace variables in text node
+      source.setNodeValue(PropertyParser.parse(source.getNodeValue(), variablesContext));
+    }
+  }
+```
+显然这里面是复杂的，利用了递归去解析`<include>`标签
