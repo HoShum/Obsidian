@@ -145,7 +145,7 @@ includeParser.applyIncludes(context.getNode());
     applyIncludes(source, variablesContext, false);
  }
 ```
-里面的方法是使用了递归去进行解析，里面又是
+里面的方法是使用了递归去进行解析，里面又是非常复杂，有需要的时候再进去看细节
 ### 3、解析selectKey
 ```java 
 String parameterType = context.getStringAttribute("parameterType");
@@ -157,4 +157,4 @@ LanguageDriver langDriver = getLanguageDriver(lang);
 // Parse selectKey after includes and remove them.
 processSelectKeyNodes(id, parameterTypeClass, langDriver);
 ```
-前面几句又是取属性，最后那句是用来解析`<selectKey>`标签
+前面几句又是取属性，最后那句是用来解析`<selectKey>`标签，这个标签的作用是用来指定
