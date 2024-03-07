@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 244.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +174,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "1393aa18f92200f5",
   "lastOpenFiles": [
     "Business/告警业务/数据流图.excalidraw.md",
     "Business/告警业务/告警组件流程.excalidraw.md",
