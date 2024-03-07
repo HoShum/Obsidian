@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "47b8c7005e773705",
+        "id": "f4a8b9ef96d5c4ed",
         "type": "tabs",
         "children": [
           {
-            "id": "1393aa18f92200f5",
+            "id": "61974a5a6e0aaec2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md",
+                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md",
+                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md"
+                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md"
               }
             }
           },
@@ -154,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,6 +163,7 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
+      "excalidraw-cn:Create New Excalidraw File": false,
       "remotely-save:Remotely Save": true,
       "obsidian42-brat:BRAT": true,
       "local-backup:Run local backup": false,
@@ -174,39 +172,40 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1393aa18f92200f5",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
-    "Business/告警业务/数据流图.excalidraw.md",
-    "Business/告警业务/告警组件流程.excalidraw.md",
-    "Business/告警业务/流程图.ex",
-    "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
-    "Excalidraw/SqlSource.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-07 15.28.46.excalidraw.md",
+    "FrontEnd/CSS",
+    "FrontEnd/Untitled.loom",
+    "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
+    "FrontEnd",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
-    "Deploy/Linux/文本与阅读.md",
-    "excalidraw 24-03-07 03.25.13.ex",
-    "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
+    "Business/告警业务/数据流图.excalidraw.md",
+    "Business/告警业务/告警组件流程.excalidraw.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
+    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
-    "Deploy/Linux/文件与目录.md",
-    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
-    "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
-    "Java/常用开发框架/MyBatis/配置文件说明.md",
-    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
-    "Java/常用开发框架/MyBatis/核心组件-MappedStatement.md",
+    "Excalidraw/SqlSource.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
+    "Excalidraw/ModbusRTU.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20240202094338_932.png",
     "Java/常用开发框架/MyBatis/核心组件-SqlSource.md",
-    "未命名.md",
+    "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
+    "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
+    "Java/常用开发框架/MyBatis/02配置文件加载与解析.md",
+    "Java/常用开发框架/MyBatis/配置文件说明.md",
     "Java/常用开发框架/MyBatis/01基础篇.md",
+    "Java/常用开发框架/MyBatis/插件.md",
+    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
+    "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
+    "未命名.md",
     "Design/设计模式/观察者模式.md",
     "Java/常用开发框架/MyBatis/缓存机制.md",
     "Java/常用开发框架/MyBatis/日志整合.md",
     "Java/常用开发框架/MyBatis/工具集.md",
-    "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
-    "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/libs/ttrpg-clocks.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
@@ -221,7 +220,6 @@
     "Excalidraw/libs/drwnio.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240202112201_936.png",
     "Excalidraw/attachments/Pasted Image 20240202112001_944.png",
-    "Excalidraw/attachments/Pasted Image 20240202111442_300.png",
-    "Excalidraw/attachments/Pasted Image 20240202104240_755.png"
+    "Excalidraw/attachments/Pasted Image 20240202111442_300.png"
   ]
 }

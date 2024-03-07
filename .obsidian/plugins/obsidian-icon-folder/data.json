@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🖌",
       "RaCrown",
       "🖥",
       "💡",
@@ -14,8 +15,7 @@
       "🖼",
       "📋",
       "SiSpring",
-      "SiC",
-      "SiCmake"
+      "SiC"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -50,5 +50,6 @@
   "Kanban": "📋",
   "Excalidraw": "🖼",
   "Business": "🛒",
-  "Design": "💡"
+  "Design": "💡",
+  "FrontEnd": "🖌"
 }

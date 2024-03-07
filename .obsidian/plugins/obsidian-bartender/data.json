@@ -16,9 +16,9 @@
       "CS Base",
       "C",
       "Java",
+      "FrontEnd",
       "DataBase",
       "Design",
-      "Ideas",
       "Deploy",
       "Tools",
       "Personal",
@@ -27,7 +27,8 @@
       "Memo",
       "Business",
       "Excalidraw",
-      "Kanban"
+      "Kanban",
+      "C程序设计语言-读书笔记.md"
     ],
     "Tools": [
       "Tools/工具集.md",
@@ -74,12 +75,11 @@
       "Java/常用开发框架/MyBatis/代码解析-解析Statement.md"
     ],
     "Excalidraw": [
-      "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
-      "Excalidraw/曼顿HTTP.excalidraw.md",
-      "Excalidraw/SqlSource.excalidraw.md",
-      "Excalidraw/ModbusRTU.excalidraw.md",
       "Excalidraw/libs",
+      "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
       "Excalidraw/attachments",
+      "Excalidraw/曼顿HTTP.excalidraw.md",
+      "Excalidraw/ModbusRTU.excalidraw.md",
       "Excalidraw/fonts"
     ]
   },
