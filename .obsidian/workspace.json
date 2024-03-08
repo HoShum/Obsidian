@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb9f53b06df7a135",
+        "id": "ec4a6cf57ff298b0",
         "type": "tabs",
         "children": [
           {
-            "id": "705452dc4ab797cc",
+            "id": "0866ba8372a11787",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,8 +167,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "705452dc4ab797cc",
+  "active": "0866ba8372a11787",
   "lastOpenFiles": [
+    "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
     "Java/常用开发框架/RPC",
     "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
     "FrontEnd/CSS",
@@ -212,7 +213,6 @@
     "Excalidraw/libs/synths-and-fx.excalidrawlib",
     "Excalidraw/libs/raspberrypi3.excalidrawlib",
     "Excalidraw/libs/post-it.excalidrawlib",
-    "Excalidraw/libs/hexagonal-architecture.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240202112201_936.png",
     "Excalidraw/attachments/Pasted Image 20240202112001_944.png",
     "Excalidraw/attachments/Pasted Image 20240202111442_300.png"
