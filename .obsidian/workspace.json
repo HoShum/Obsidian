@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4a8b9ef96d5c4ed",
+        "id": "56ac4ab8749fb42b",
         "type": "tabs",
         "children": [
           {
-            "id": "61974a5a6e0aaec2",
+            "id": "b0deabe8f3a145fd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,7 +163,6 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "excalidraw-cn:Create New Excalidraw File": false,
       "remotely-save:Remotely Save": true,
       "obsidian42-brat:BRAT": true,
       "local-backup:Run local backup": false,
