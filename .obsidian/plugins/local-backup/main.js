@@ -5037,16 +5037,14 @@ var NewVersionNotifyModal = class extends import_obsidian2.Modal {
   }
   onOpen() {
     const { contentEl } = this;
-    const release = "0.1.6";
+    const release = "0.1.7";
     const header = `### New in Local Backup ${release}
 `;
     const text = `Thank you for using Local Backup!
 `;
     const contentDiv = contentEl.createDiv("local-backup-update-modal");
     const releaseNotes = [
-      "1. Update the text in modal.",
-      "2. Add customized retry after backup failed.",
-      "3. Add support for Bandizip."
+      "1. Now you can create a specific backup file, which won't delete by the plugin, just type: ctrl + p, local backup."
     ].join("\n");
     const andNow = `Here are the updates in the latest version:`;
     const markdownStr = `${header}
@@ -5083,6 +5081,82 @@ function addExtraHashToHeadings(markdownText, numHashes = 1) {
   }
   return lines.join("\n");
 }
+var PromptModal = class extends import_obsidian2.Modal {
+  constructor(prompt_text, default_value, multi_line, app2, plugin) {
+    super(app2);
+    this.prompt_text = prompt_text;
+    this.default_value = default_value;
+    this.multi_line = multi_line;
+    this.submitted = false;
+    this.plugin = plugin;
+  }
+  onOpen() {
+    this.titleEl.setText(this.prompt_text);
+    this.createForm();
+  }
+  onClose() {
+    this.contentEl.empty();
+    if (!this.submitted) {
+    }
+  }
+  createForm() {
+    var _a;
+    const div = this.contentEl.createDiv();
+    div.addClass("templater-prompt-div");
+    let textInput;
+    if (this.multi_line) {
+      textInput = new import_obsidian2.TextAreaComponent(div);
+      const buttonDiv = this.contentEl.createDiv();
+      buttonDiv.addClass("templater-button-div");
+      const submitButton = new import_obsidian2.ButtonComponent(buttonDiv);
+      submitButton.buttonEl.addClass("mod-cta");
+      submitButton.setButtonText("Submit").onClick((evt) => {
+        this.resolveAndClose(evt);
+      });
+    } else {
+      textInput = new import_obsidian2.TextComponent(div);
+    }
+    this.value = (_a = this.default_value) != null ? _a : "";
+    textInput.inputEl.addClass("templater-prompt-input");
+    textInput.setPlaceholder("Type text here");
+    textInput.setValue(this.value);
+    textInput.onChange((value) => this.value = value);
+    textInput.inputEl.addEventListener(
+      "keydown",
+      (evt) => this.enterCallback(evt)
+    );
+  }
+  enterCallback(evt) {
+    if (evt.isComposing || evt.keyCode === 229)
+      return;
+    if (this.multi_line) {
+      if (import_obsidian2.Platform.isDesktop) {
+        if (evt.shiftKey && evt.key === "Enter") {
+        } else if (evt.key === "Enter") {
+          this.resolveAndClose(evt);
+        }
+      } else {
+        if (evt.key === "Enter") {
+          evt.preventDefault();
+        }
+      }
+    } else {
+      if (evt.key === "Enter") {
+        this.resolveAndClose(evt);
+      }
+    }
+  }
+  resolveAndClose(evt) {
+    this.submitted = true;
+    evt.preventDefault();
+    this.plugin.archiveVaultWithRetryAsync(this.value);
+    this.close();
+  }
+  async openAndGetValue(resolve) {
+    this.resolve = resolve;
+    this.open();
+  }
+};
 
 // src/main.ts
 var DEFAULT_SETTINGS = {
@@ -5128,6 +5202,19 @@ var LocalBackupPlugin = class extends import_obsidian3.Plugin {
         await this.archiveVaultWithRetryAsync();
       }
     });
+    this.addCommand({
+      id: "run-specific-backup",
+      name: "Run specific backup",
+      callback: async () => {
+        new PromptModal(
+          "Input specific file name",
+          "Specific-Backup-%Y_%m_%d-%H_%M_%S",
+          false,
+          this.app,
+          this
+        ).open();
+      }
+    });
     if (this.settings.showRibbonIcon) {
       (0, import_obsidian3.addIcon)("sidebar-icon", ICON_DATA);
       this.addRibbonIcon("sidebar-icon", "Run local backup", () => {
@@ -5143,13 +5230,13 @@ var LocalBackupPlugin = class extends import_obsidian3.Plugin {
   /**
    * Archive vault with retry method
    */
-  async archiveVaultWithRetryAsync() {
+  async archiveVaultWithRetryAsync(specificFileName = "") {
     const maxRetries = parseInt(this.settings.maxRetriesValue);
     let retryCount = 0;
     const retryInterval = parseInt(this.settings.retryIntervalValue);
     while (retryCount < maxRetries) {
       try {
-        await this.archiveVaultAsync();
+        await this.archiveVaultAsync(specificFileName);
         break;
       } catch (error) {
         console.error(`Error during archive attempt ${retryCount + 1}: ${error}`);
@@ -5167,10 +5254,15 @@ var LocalBackupPlugin = class extends import_obsidian3.Plugin {
   /**
    * Archive vault method
    */
-  async archiveVaultAsync() {
+  async archiveVaultAsync(specificFileName) {
     try {
       await this.loadSettings();
-      const fileName = this.settings.fileNameFormatValue;
+      let fileName = "";
+      if (specificFileName == "") {
+        fileName = this.settings.fileNameFormatValue;
+      } else {
+        fileName = specificFileName;
+      }
       const fileNameWithDateValues = replaceDatePlaceholdersWithValues(fileName);
       const backupZipName = `${fileNameWithDateValues}.zip`;
       const vaultPath = this.app.vault.adapter.basePath;

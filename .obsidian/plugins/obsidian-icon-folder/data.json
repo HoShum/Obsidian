@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": 3,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
@@ -18,7 +18,15 @@
       "SiC"
     ],
     "recentlyUsedIconsSize": 10,
-    "rules": [],
+    "rules": [
+      {
+        "icon": "BoBxData",
+        "rule": "DataBase\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -29,11 +37,8 @@
     "iconInTitleEnabled": true,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true
-  },
-  "DataBase": {
-    "iconName": "BoBxData",
-    "inheritanceIcon": "BoBxData"
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
   },
   "Java": "BoBxlJava",
   "Personal": "🙎‍♂️",
@@ -51,5 +56,6 @@
   "Excalidraw": "🖼",
   "Business": "🛒",
   "Design": "💡",
-  "FrontEnd": "🖌"
+  "FrontEnd": "🖌",
+  "DataBase": "BoBxData"
 }
