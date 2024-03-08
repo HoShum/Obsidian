@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d2f0bd75c99c8898",
+        "id": "bb9f53b06df7a135",
         "type": "tabs",
         "children": [
           {
-            "id": "b10fbc8d1f16f084",
+            "id": "705452dc4ab797cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +167,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b10fbc8d1f16f084",
+  "active": "705452dc4ab797cc",
   "lastOpenFiles": [
+    "Java/常用开发框架/RPC",
     "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
     "FrontEnd/CSS",
     "FrontEnd/Untitled.loom",
