@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56ac4ab8749fb42b",
+        "id": "79991aeef5760cf2",
         "type": "tabs",
         "children": [
           {
-            "id": "b0deabe8f3a145fd",
+            "id": "6b6a564cf944478f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析Statement.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,8 +167,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "6b6a564cf944478f",
   "lastOpenFiles": [
+    "C程序设计语言-读书笔记.md",
     "FrontEnd/CSS",
     "FrontEnd/Untitled.loom",
     "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
@@ -216,7 +213,6 @@
     "Excalidraw/libs/raspberrypi3.excalidrawlib",
     "Excalidraw/libs/post-it.excalidrawlib",
     "Excalidraw/libs/hexagonal-architecture.excalidrawlib",
-    "Excalidraw/libs/drwnio.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240202112201_936.png",
     "Excalidraw/attachments/Pasted Image 20240202112001_944.png",
     "Excalidraw/attachments/Pasted Image 20240202111442_300.png"
