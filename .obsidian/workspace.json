@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9056c743b411f504",
+        "id": "75b812421b015c23",
         "type": "tabs",
         "children": [
           {
-            "id": "621d1bf1372bacb6",
+            "id": "9b3fb4dc63889402",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Business/告警业务/数据流图.excalidraw.md"
+              }
             }
           }
         ]
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Business/告警业务/数据流图.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Business/告警业务/数据流图.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Business/告警业务/数据流图.excalidraw.md"
+              }
             }
           },
           {
@@ -148,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +173,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "621d1bf1372bacb6",
+  "active": "9b3fb4dc63889402",
   "lastOpenFiles": [
+    "Excalidraw/libs/data-viz.excalidrawlib",
+    "Business/告警业务/告警组件流程.excalidraw.md",
+    "Business/告警业务/数据流图.excalidraw.md",
+    "Excalidraw/libs/software-logos.excalidrawlib",
+    "Excalidraw/libs/db-eng.excalidrawlib",
     "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
     "Java/常用开发框架/RPC",
     "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
@@ -177,8 +188,6 @@
     "FrontEnd",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
-    "Business/告警业务/数据流图.excalidraw.md",
-    "Business/告警业务/告警组件流程.excalidraw.md",
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
@@ -202,7 +211,6 @@
     "Design/设计模式/观察者模式.md",
     "Java/常用开发框架/MyBatis/缓存机制.md",
     "Java/常用开发框架/MyBatis/日志整合.md",
-    "Java/常用开发框架/MyBatis/工具集.md",
     "Excalidraw/libs/ttrpg-clocks.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
@@ -211,8 +219,6 @@
     "Business/物联网通讯协议",
     "Excalidraw/libs/system-design.excalidrawlib",
     "Excalidraw/libs/synths-and-fx.excalidrawlib",
-    "Excalidraw/libs/raspberrypi3.excalidrawlib",
-    "Excalidraw/libs/post-it.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240202112201_936.png",
     "Excalidraw/attachments/Pasted Image 20240202112001_944.png",
     "Excalidraw/attachments/Pasted Image 20240202111442_300.png"
