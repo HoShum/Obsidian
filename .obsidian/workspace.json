@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1313e3066f10ad97",
+        "id": "4d7f132635ae43f8",
         "type": "tabs",
         "children": [
           {
-            "id": "61c6518afe3a14c1",
+            "id": "460b92622e9e0019",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md"
+              }
             }
           },
           {
@@ -167,8 +175,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "61c6518afe3a14c1",
+  "active": "460b92622e9e0019",
   "lastOpenFiles": [
+    "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
+    "CS Base/计算机网络/HTTP",
+    "CS Base/计算机网络",
     "Business/告警业务/数据流图.excalidraw.md",
     "Business/告警业务/告警流程.excalidraw.md",
     "Business/告警业务/整体流程.excalidraw.md",
@@ -206,13 +217,10 @@
     "未命名.md",
     "Design/设计模式/观察者模式.md",
     "Java/常用开发框架/MyBatis/缓存机制.md",
-    "Java/常用开发框架/MyBatis/日志整合.md",
-    "Excalidraw/libs/ttrpg-clocks.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
     "Excalidraw/attachments/Pasted Image 20240205150445_122.png",
     "Excalidraw/attachments/Pasted Image 20240205150359_118.png",
-    "Business/物联网通讯协议",
     "Excalidraw/attachments/Pasted Image 20240202112201_936.png",
     "Excalidraw/attachments/Pasted Image 20240202112001_944.png",
     "Excalidraw/attachments/Pasted Image 20240202111442_300.png"
