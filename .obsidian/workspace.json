@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "75b812421b015c23",
+        "id": "e268e6b39fdadbe2",
         "type": "tabs",
         "children": [
           {
-            "id": "9b3fb4dc63889402",
+            "id": "f31bbbad2eab014f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,11 +167,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9b3fb4dc63889402",
+  "active": "f31bbbad2eab014f",
   "lastOpenFiles": [
-    "Excalidraw/libs/data-viz.excalidrawlib",
-    "Business/告警业务/告警组件流程.excalidraw.md",
     "Business/告警业务/数据流图.excalidraw.md",
+    "Business/告警业务/告警流程.excalidraw.md",
+    "Business/告警业务/整体流程.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
+    "Excalidraw/libs/data-flow.excalidrawlib",
+    "Excalidraw/libs/data-viz.excalidrawlib",
     "Excalidraw/libs/software-logos.excalidrawlib",
     "Excalidraw/libs/db-eng.excalidrawlib",
     "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
@@ -195,7 +192,6 @@
     "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
     "Excalidraw/SqlSource.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
     "Excalidraw/ModbusRTU.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20240202094338_932.png",
     "Java/常用开发框架/MyBatis/核心组件-SqlSource.md",
@@ -217,8 +213,6 @@
     "Excalidraw/attachments/Pasted Image 20240205150445_122.png",
     "Excalidraw/attachments/Pasted Image 20240205150359_118.png",
     "Business/物联网通讯协议",
-    "Excalidraw/libs/system-design.excalidrawlib",
-    "Excalidraw/libs/synths-and-fx.excalidrawlib",
     "Excalidraw/attachments/Pasted Image 20240202112201_936.png",
     "Excalidraw/attachments/Pasted Image 20240202112001_944.png",
     "Excalidraw/attachments/Pasted Image 20240202111442_300.png"
