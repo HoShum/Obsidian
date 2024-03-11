@@ -23,3 +23,7 @@ HTTP位于TCP/IP协议族的应用层，它依赖于TCP协议，而TCP为了传�
 在HTTP/1.1中，所有的连接默认都是持久连接
 ```
 ## 第3章 HTTP报文
+HTTP报文分为报文头部和报文主体两部分，其中它们用一个空行(CR LF)进行分隔，其中报文主体不是必须的
+![image.png|430](https://cdn.jsdelivr.net/gh/HoShum/PictureRepo/imgs/202403112254373.png)
+以下是一个实例：
+![image.png|460](https://cdn.jsdelivr.net/gh/HoShum/PictureRepo/imgs/202403112254048.png)
