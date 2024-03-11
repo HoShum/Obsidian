@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "752c395ac5e15ad5",
+        "id": "db085b8a61908105",
         "type": "tabs",
         "children": [
           {
-            "id": "4552cab89fed6a1f",
+            "id": "3eca5abdd2350f1c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5026054382324,
-    "collapsed": true
+    "width": 276.5026054382324
   },
   "right": {
     "id": "dec21afec6639e20",
@@ -98,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,7 +167,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4552cab89fed6a1f",
+  "active": "3eca5abdd2350f1c",
   "lastOpenFiles": [
     "Business/告警业务/数据流图.excalidraw.md",
     "Business/告警业务/告警流程.excalidraw.md",
