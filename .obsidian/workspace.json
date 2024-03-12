@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d7f132635ae43f8",
+        "id": "ad842b82b7904280",
         "type": "tabs",
         "children": [
           {
-            "id": "460b92622e9e0019",
+            "id": "303058f32eee765b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
-                "mode": "source",
-                "source": false
+                "file": "Business/告警业务/数据流图.excalidraw.md"
               }
             }
           }
@@ -83,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5026054382324
+    "width": 276.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "dec21afec6639e20",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
+                "file": "Business/告警业务/数据流图.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
+                "file": "Business/告警业务/数据流图.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md"
+                "file": "Business/告警业务/数据流图.excalidraw.md"
               }
             }
           },
@@ -156,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +175,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "460b92622e9e0019",
+  "active": "303058f32eee765b",
   "lastOpenFiles": [
     "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
     "CS Base/计算机网络/HTTP",
