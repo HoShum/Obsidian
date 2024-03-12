@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ad842b82b7904280",
+        "id": "f9528fd2a2d2af3f",
         "type": "tabs",
         "children": [
           {
-            "id": "303058f32eee765b",
+            "id": "0db6443baf3a0424",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md"
+                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -81,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5026054382324,
-    "collapsed": true
+    "width": 276.5026054382324
   },
   "right": {
     "id": "dec21afec6639e20",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md",
+                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md",
+                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/告警业务/数据流图.excalidraw.md"
+                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md"
               }
             }
           },
@@ -155,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,12 +175,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "303058f32eee765b",
+  "active": "0db6443baf3a0424",
   "lastOpenFiles": [
+    "Business/告警业务/数据流图.excalidraw.md",
     "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
     "CS Base/计算机网络/HTTP",
     "CS Base/计算机网络",
-    "Business/告警业务/数据流图.excalidraw.md",
     "Business/告警业务/告警流程.excalidraw.md",
     "Business/告警业务/整体流程.excalidraw.md",
     "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
