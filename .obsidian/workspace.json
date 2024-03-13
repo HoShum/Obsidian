@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f9528fd2a2d2af3f",
+        "id": "5dc04641fb671a1c",
         "type": "tabs",
         "children": [
           {
-            "id": "0db6443baf3a0424",
+            "id": "07fa1a3b8ae97cd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
-                "mode": "preview",
-                "source": false
+                "file": "Business/告警业务/告警组件流程.excalidraw.md"
               }
             }
           }
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
+                "file": "Business/告警业务/告警组件流程.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
+                "file": "Business/告警业务/告警组件流程.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md"
+                "file": "Business/告警业务/告警组件流程.excalidraw.md"
               }
             }
           },
@@ -175,13 +173,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0db6443baf3a0424",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
-    "Business/告警业务/数据流图.excalidraw.md",
+    "Business/告警业务/告警流程.excalidraw.md",
+    "Business/告警业务/告警组件流程.excalidraw.md",
     "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
+    "Business/告警业务/数据流图.excalidraw.md",
     "CS Base/计算机网络/HTTP",
     "CS Base/计算机网络",
-    "Business/告警业务/告警流程.excalidraw.md",
     "Business/告警业务/整体流程.excalidraw.md",
     "Excalidraw/Drawing 2024-02-08 21.41.59.excalidraw.md",
     "Excalidraw/libs/data-flow.excalidrawlib",
@@ -216,7 +215,6 @@
     "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
     "未命名.md",
     "Design/设计模式/观察者模式.md",
-    "Java/常用开发框架/MyBatis/缓存机制.md",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
     "Excalidraw/attachments/Pasted Image 20240205150445_122.png",
