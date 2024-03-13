@@ -11,10 +11,8 @@
             "id": "07fa1a3b8ae97cd9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Business/告警业务/告警组件流程.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5026054382324,
-    "collapsed": true
+    "width": 276.5026054382324
   },
   "right": {
     "id": "dec21afec6639e20",
@@ -98,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/告警业务/告警组件流程.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/告警业务/告警组件流程.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Business/告警业务/告警组件流程.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +167,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "07fa1a3b8ae97cd9",
   "lastOpenFiles": [
-    "Business/告警业务/告警流程.excalidraw.md",
     "Business/告警业务/告警组件流程.excalidraw.md",
+    "TODO/📆TODO.md",
+    "Business/告警业务/告警流程.excalidraw.md",
     "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
     "Business/告警业务/数据流图.excalidraw.md",
     "CS Base/计算机网络/HTTP",
@@ -216,7 +209,6 @@
     "Java/常用开发框架/MyBatis/核心组件-Executor.md",
     "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
     "未命名.md",
-    "Design/设计模式/观察者模式.md",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
     "Excalidraw/attachments/Pasted Image 20240205150445_122.png",
