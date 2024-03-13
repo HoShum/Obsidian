@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5026054382324
+    "width": 276.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "dec21afec6639e20",
@@ -154,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +175,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "07fa1a3b8ae97cd9",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
     "Business/告警业务/告警流程.excalidraw.md",
     "Business/告警业务/告警组件流程.excalidraw.md",
