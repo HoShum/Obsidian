@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3774fe377d93d611",
+        "id": "efca92a6f96bd535",
         "type": "tabs",
         "children": [
           {
-            "id": "e05eb09dcb28cf30",
+            "id": "867aafa2c9f8d422",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/代理服务器.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/代理服务器.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/代理服务器.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/代理服务器.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,7 +167,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "867aafa2c9f8d422",
   "lastOpenFiles": [
     "Excalidraw/代理服务器.excalidraw.md",
     "Business/告警业务/告警组件流程.excalidraw.md",
