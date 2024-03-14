@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e7557cab5c3a7a9e",
+        "id": "3774fe377d93d611",
         "type": "tabs",
         "children": [
           {
-            "id": "f9da605e19e86ec7",
+            "id": "e05eb09dcb28cf30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-14 20.16.55.excalidraw.md"
+              }
             }
           }
         ]
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-03-14 20.16.55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-03-14 20.16.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-14 20.16.55.excalidraw.md"
+              }
             }
           },
           {
@@ -167,8 +173,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f9da605e19e86ec7",
+  "active": "e05eb09dcb28cf30",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-14 20.16.55.excalidraw.md",
     "Business/告警业务/告警组件流程.excalidraw.md",
     "TODO/📆TODO.md",
     "Business/告警业务/告警流程.excalidraw.md",
@@ -208,7 +215,6 @@
     "Java/常用开发框架/MyBatis/插件.md",
     "Java/常用开发框架/MyBatis/核心组件-Executor.md",
     "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
-    "未命名.md",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
     "Excalidraw/attachments/Pasted Image 20240205150445_122.png",
