@@ -11,8 +11,12 @@
             "id": "867aafa2c9f8d422",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md"
+              }
             }
           },
           {
@@ -169,6 +177,8 @@
   },
   "active": "867aafa2c9f8d422",
   "lastOpenFiles": [
+    "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
+    "Java/常用开发框架/SpringCloud",
     "Excalidraw/代理服务器.excalidraw.md",
     "Business/告警业务/告警组件流程.excalidraw.md",
     "TODO/📆TODO.md",
@@ -188,7 +198,6 @@
     "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
     "FrontEnd/CSS",
     "FrontEnd/Untitled.loom",
-    "FrontEnd",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
@@ -208,7 +217,6 @@
     "Java/常用开发框架/MyBatis/01基础篇.md",
     "Java/常用开发框架/MyBatis/插件.md",
     "Java/常用开发框架/MyBatis/核心组件-Executor.md",
-    "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
     "Excalidraw/attachments/Pasted Image 20240205150445_122.png",
