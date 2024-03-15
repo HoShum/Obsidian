@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "efca92a6f96bd535",
+        "id": "c4f9d14e6f9864d2",
         "type": "tabs",
         "children": [
           {
-            "id": "867aafa2c9f8d422",
+            "id": "4bde0822764f8826",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5026054382324
+    "width": 241.5
   },
   "right": {
     "id": "dec21afec6639e20",
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,11 +167,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "867aafa2c9f8d422",
+  "active": "4bde0822764f8826",
   "lastOpenFiles": [
+    "Excalidraw/代理服务器.excalidraw.md",
     "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
     "Java/常用开发框架/SpringCloud",
-    "Excalidraw/代理服务器.excalidraw.md",
     "Business/告警业务/告警组件流程.excalidraw.md",
     "TODO/📆TODO.md",
     "Business/告警业务/告警流程.excalidraw.md",
