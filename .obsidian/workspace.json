@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fc301ff15cd2d2a4",
+        "id": "c09a8c90cbac4294",
         "type": "tabs",
         "children": [
           {
-            "id": "ccaafa1e3f644a4e",
+            "id": "30ec575832c7cbdb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/常用开发框架/Netty/Netty入门学习笔记.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/常用开发框架/Netty/Netty入门学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/常用开发框架/Netty/Netty入门学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/常用开发框架/Netty/Netty入门学习笔记.md"
+              }
             }
           },
           {
@@ -167,8 +175,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ccaafa1e3f644a4e",
+  "active": "30ec575832c7cbdb",
   "lastOpenFiles": [
+    "Java/常用开发框架/Netty/Netty入门学习笔记.md",
+    "Java/常用开发框架/Netty",
     "Excalidraw/代理服务器.excalidraw.md",
     "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
     "Java/常用开发框架/SpringCloud",
@@ -189,7 +199,6 @@
     "Java/常用开发框架/RPC",
     "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
     "FrontEnd/CSS",
-    "FrontEnd/Untitled.loom",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
@@ -208,7 +217,6 @@
     "Java/常用开发框架/MyBatis/配置文件说明.md",
     "Java/常用开发框架/MyBatis/01基础篇.md",
     "Java/常用开发框架/MyBatis/插件.md",
-    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
     "Excalidraw/attachments/Pasted Image 20240205151022_148.png",
     "Excalidraw/attachments/Pasted Image 20240205151022_119.png",
     "Excalidraw/attachments/Pasted Image 20240205150445_122.png",
