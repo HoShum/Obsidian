@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/常用开发框架/Netty/Netty入门学习笔记.md",
+                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/Netty/Netty入门学习笔记.md",
+                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/Netty/Netty入门学习笔记.md",
+                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/常用开发框架/Netty/Netty入门学习笔记.md"
+                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md"
               }
             }
           },
