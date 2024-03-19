@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c09a8c90cbac4294",
+        "id": "66166835095435e4",
         "type": "tabs",
         "children": [
           {
-            "id": "30ec575832c7cbdb",
+            "id": "1df276623fdc9182",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS Base/计算机网络/HTTP/图解HTTP-笔记.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +167,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "30ec575832c7cbdb",
+  "active": "1df276623fdc9182",
   "lastOpenFiles": [
+    "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
     "Java/常用开发框架/Netty/Netty入门学习笔记.md",
     "Java/常用开发框架/Netty",
     "Excalidraw/代理服务器.excalidraw.md",
@@ -185,7 +178,6 @@
     "Business/告警业务/告警组件流程.excalidraw.md",
     "TODO/📆TODO.md",
     "Business/告警业务/告警流程.excalidraw.md",
-    "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
     "Business/告警业务/数据流图.excalidraw.md",
     "CS Base/计算机网络/HTTP",
     "CS Base/计算机网络",
