@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "348880e523e2f2a6",
+        "id": "b4b8dc0e38ddd480",
         "type": "tabs",
         "children": [
           {
-            "id": "26cffa692e06b37d",
+            "id": "4ed0fee47272cbda",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Business/告警业务/整体流程.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/告警业务/告警业务流程细节.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/告警业务/告警业务流程细节.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Business/告警业务/告警业务流程细节.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,42 +167,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "floating": {
-    "id": "04a43593608f886d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8ae695d0193265b5",
-        "type": "window",
-        "children": [
-          {
-            "id": "4b61e030c6372f10",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "26439bcfe78ca1ec",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Business/告警业务/告警业务流程细节.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 276,
-        "y": 20,
-        "width": 1496,
-        "height": 1064,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "26439bcfe78ca1ec",
+  "active": "4ed0fee47272cbda",
   "lastOpenFiles": [
     "Business/告警业务/整体流程.excalidraw.md",
     "Business/告警业务/告警业务流程细节.excalidraw.md",
