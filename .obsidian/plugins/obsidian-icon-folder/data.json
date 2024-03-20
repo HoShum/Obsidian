@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🍵",
       "🖌",
       "RaCrown",
       "🖥",
@@ -14,8 +15,7 @@
       "🛒",
       "🖼",
       "📋",
-      "SiSpring",
-      "SiC"
+      "SiSpring"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -57,5 +57,7 @@
   "Business": "🛒",
   "Design": "💡",
   "FrontEnd": "🖌",
-  "DataBase": "BoBxData"
+  "DataBase": "BoBxData",
+  "Project": "📋",
+  "Project/抹茶项目": "🍵"
 }

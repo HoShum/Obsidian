@@ -18,6 +18,7 @@
       "DataBase",
       "Design",
       "Deploy",
+      "Project",
       "Business",
       "Books",
       "Tools",
@@ -26,7 +27,9 @@
       "Kanban",
       "Memo",
       "Excalidraw",
-      "C程序设计语言-读书笔记.md"
+      "C程序设计语言-读书笔记.md",
+      "C",
+      "FrontEnd"
     ],
     "Tools": [
       "Tools/工具集.md",
