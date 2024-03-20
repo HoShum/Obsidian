@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "51455a3327767542",
+        "id": "7429134e6c1e1f4d",
         "type": "tabs",
         "children": [
           {
-            "id": "85d439e5867baeec",
+            "id": "5686aa69c008c5e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Project/抹茶项目/WebSocket模块.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project/抹茶项目/WebSocket模块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project/抹茶项目/WebSocket模块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project/抹茶项目/WebSocket模块.md"
+              }
             }
           },
           {
@@ -167,12 +175,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "5686aa69c008c5e4",
   "lastOpenFiles": [
+    "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
+    "Project/抹茶项目/WebSocket模块.md",
     "Project/抹茶项目",
     "Project",
     "Books/WireShark网络分析-读书笔记.md",
-    "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
     "Books/操作系统导论.pdf",
     "Business/告警业务/告警业务流程细节.excalidraw.md",
     "Business/告警业务/整体流程.excalidraw.md",
@@ -191,7 +200,6 @@
     "Excalidraw/libs/data-flow.excalidrawlib",
     "Excalidraw/libs/data-viz.excalidrawlib",
     "Excalidraw/libs/software-logos.excalidrawlib",
-    "Excalidraw/libs/db-eng.excalidrawlib",
     "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
     "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
