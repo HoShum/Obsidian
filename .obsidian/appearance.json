@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "theme": "obsidian",
-  "cssTheme": "Obsidianite",
+  "theme": "moonstone",
+  "cssTheme": "Things",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "custom",
@@ -13,5 +13,6 @@
   "translucency": false,
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "baseFontSizeAction": false
 }
