@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
-  "cssTheme": "Things",
+  "theme": "obsidian",
+  "cssTheme": "Obsidianite",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "custom",
