@@ -97,5 +97,15 @@
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
   "things-style@@fancy-code": false,
   "things-style@@quote-color": "#4D3EBF",
-  "anuppuccin-theme-settings@@anp-codeblock-numbers": false
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": false,
+  "shimmering-focus@@no-mouse-hovers": false,
+  "shimmering-focus@@mac-os-native": true,
+  "shimmering-focus@@uncolored-bold": false,
+  "shimmering-focus@@tabbar-when-one-tab": "tabbar-header-hybrid",
+  "shimmering-focus@@normal-header-bar": true,
+  "shimmering-focus@@overlaying-right-sidebar": false,
+  "shimmering-focus@@sidebar-no-animations": false,
+  "shimmering-focus@@hide-settings-button": false,
+  "shimmering-focus@@show-sidebar-header-buttons": false,
+  "shimmering-focus@@uncolored-italic": false
 }
