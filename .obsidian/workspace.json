@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "afb8c9a2ab6e8afb",
+        "id": "6a061c6261626e4c",
         "type": "tabs",
         "children": [
           {
-            "id": "4ebd8f74fa5c2052",
+            "id": "f7458473e55d813f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md"
+              }
             }
           },
           {
@@ -167,7 +175,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4ebd8f74fa5c2052",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
     "Java/常用开发框架/MyBatis/核心组件-Executor.md",
