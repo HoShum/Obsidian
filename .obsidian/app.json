@@ -21,5 +21,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "smartIndentList": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "focusNewTab": true
 }
