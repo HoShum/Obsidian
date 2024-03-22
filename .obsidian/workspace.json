@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c9c2c3f9a392ef46",
+        "id": "a49e2fcf32291c0c",
         "type": "tabs",
         "children": [
           {
-            "id": "3aa04b56d3c96384",
+            "id": "14f4c940e05362ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
-                "mode": "source",
+                "file": "Java/常用开发框架/MyBatis/01基础篇.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 284.5
   },
   "right": {
     "id": "dec21afec6639e20",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
+                "file": "Java/常用开发框架/MyBatis/01基础篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
+                "file": "Java/常用开发框架/MyBatis/01基础篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md"
+                "file": "Java/常用开发框架/MyBatis/01基础篇.md"
               }
             }
           },
@@ -175,14 +175,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3aa04b56d3c96384",
+  "active": "14f4c940e05362ac",
   "lastOpenFiles": [
-    "Deploy/Docker/Docker基础.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
+    "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
+    "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
+    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
+    "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
+    "DataBase/MySQL/BufferPool.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
+    "Deploy/Docker/Docker基础.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
     "Java/常用开发框架/MyBatis/插件.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
     "Java/常用开发框架/Netty/Netty入门学习笔记.md",
@@ -198,12 +204,6 @@
     "Deploy/Linux/文本与阅读.md",
     "Deploy/Linux/文件与目录.md",
     "Project/抹茶项目/WebSocket模块.md",
-    "Business/告警业务/告警流程.excalidraw.md",
-    "CS Base/汇编语言/8086/实验篇.md",
-    "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
-    "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
-    "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
-    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
     "Project/抹茶项目",
     "Project",
     "Books/操作系统导论.pdf",

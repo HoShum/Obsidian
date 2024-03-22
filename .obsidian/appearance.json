@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Obsidianotion",
+  "cssTheme": "Obsidianite",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "custom",
@@ -12,7 +12,7 @@
   ],
   "translucency": false,
   "monospaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "",
+  "textFontFamily": "霞鹜文楷 GB",
   "nativeMenus": true,
   "baseFontSizeAction": false
 }
