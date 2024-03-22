@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a49e2fcf32291c0c",
+        "id": "547932ec5ff84cad",
         "type": "tabs",
         "children": [
           {
-            "id": "14f4c940e05362ac",
+            "id": "268bdbe67d682da3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/01基础篇.md",
+                "file": "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
                 "mode": "preview",
                 "source": false
               }
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 307.5110321044922
   },
   "right": {
     "id": "dec21afec6639e20",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/01基础篇.md",
+                "file": "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/01基础篇.md",
+                "file": "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/01基础篇.md"
+                "file": "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md"
               }
             }
           },
@@ -175,35 +175,35 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "14f4c940e05362ac",
+  "active": "268bdbe67d682da3",
   "lastOpenFiles": [
-    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
+    "DataBase/MySQL/BufferPool.md",
+    "Tools/工具集.md",
+    "Tools/MinIO使用教程.md",
+    "TODO/📆TODO.md",
+    "Personal/2023年终总结.md",
+    "Memo/2024-01-22.md",
+    "C程序设计语言-读书笔记.md",
+    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
     "Java/常用开发框架/MyBatis/核心组件-Executor.md",
     "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
+    "Java/常用开发框架/MyBatis/日志整合.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
+    "Java/常用开发框架/MyBatis/基础说明.md",
+    "Java/常用开发框架/MyBatis/配置文件说明.md",
+    "Java/常用开发框架/MyBatis/02配置文件加载与解析.md",
+    "Java/常用开发框架/MyBatis/04解析Mapper接口.md",
+    "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
     "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
-    "DataBase/MySQL/BufferPool.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
     "Deploy/Docker/Docker基础.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Java/常用开发框架/MyBatis/代码解析-解析Statement.md",
     "Java/常用开发框架/MyBatis/插件.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
-    "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
     "Java/常用开发框架/Netty/Netty入门学习笔记.md",
     "Java/常用开发框架/Spring/IOC/基础功能.md",
-    "Java/常用开发框架/Spring/IOC/事件机制.md",
-    "Java/常用开发框架/Spring/IOC/生命周期.md",
-    "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
-    "Java/常用开发框架/Spring/IOC/Index.md",
-    "Java/常用开发框架/Spring/IOC/BeanFactory.md",
-    "Personal/2023年终总结.md",
-    "TODO/📆TODO.md",
-    "Deploy/Linux/Vim教程.md",
-    "Deploy/Linux/文本与阅读.md",
-    "Deploy/Linux/文件与目录.md",
-    "Project/抹茶项目/WebSocket模块.md",
     "Project/抹茶项目",
     "Project",
     "Books/操作系统导论.pdf",
