@@ -107,5 +107,8 @@
   "shimmering-focus@@sidebar-no-animations": false,
   "shimmering-focus@@hide-settings-button": false,
   "shimmering-focus@@show-sidebar-header-buttons": false,
-  "shimmering-focus@@uncolored-italic": false
+  "shimmering-focus@@uncolored-italic": false,
+  "custom-diegoeis-obsidianotion@@eis-hide-ribbon": false,
+  "custom-diegoeis-obsidianotion@@eis-small-font": false,
+  "custom-diegoeis-obsidianotion@@eis-showing-scrollbar": false
 }

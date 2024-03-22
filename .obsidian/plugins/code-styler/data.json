@@ -28,6 +28,11 @@
             "display": "none",
             "displayColour": true
           },
+          "externalReference": {
+            "displayRepository": true,
+            "displayVersion": true,
+            "displayTimestamp": true
+          },
           "fontSize": 14,
           "foldPlaceholder": ""
         },
@@ -73,6 +78,11 @@
               "backgroundColour": "--code-background",
               "textColour": "--code-comment"
             },
+            "externalReference": {
+              "displayRepositoryColour": "#00FFFF",
+              "displayVersionColour": "#FF00FF",
+              "displayTimestampColour": "#808080"
+            },
             "lineColour": "--color-base-30"
           },
           "highlights": {
@@ -110,6 +120,11 @@
             "languageTag": {
               "backgroundColour": "--code-background",
               "textColour": "--code-comment"
+            },
+            "externalReference": {
+              "displayRepositoryColour": "#00FFFF",
+              "displayVersionColour": "#FF00FF",
+              "displayTimestampColour": "#808080"
             },
             "lineColour": "--color-base-30"
           },
@@ -160,6 +175,11 @@
             "display": "none",
             "displayColour": true
           },
+          "externalReference": {
+            "displayRepository": true,
+            "displayVersion": true,
+            "displayTimestamp": true
+          },
           "fontSize": 14,
           "foldPlaceholder": ""
         },
@@ -205,6 +225,11 @@
               "backgroundColour": "#B8B5AA",
               "textColour": "#C25F30"
             },
+            "externalReference": {
+              "displayRepositoryColour": "#941100",
+              "displayVersionColour": "#ff9300",
+              "displayTimestampColour": "#808080"
+            },
             "lineColour": "#EDD489"
           },
           "highlights": {
@@ -242,6 +267,11 @@
             "languageTag": {
               "backgroundColour": "#008080",
               "textColour": "#000000"
+            },
+            "externalReference": {
+              "displayRepositoryColour": "#00FFFF",
+              "displayVersionColour": "#9437ff",
+              "displayTimestampColour": "#808080"
             },
             "lineColour": "#46cced"
           },
@@ -294,6 +324,11 @@
           "display": "none",
           "displayColour": true
         },
+        "externalReference": {
+          "displayRepository": true,
+          "displayVersion": true,
+          "displayTimestamp": true
+        },
         "fontSize": 14,
         "foldPlaceholder": ""
       },
@@ -339,6 +374,11 @@
             "backgroundColour": "--code-background",
             "textColour": "--code-comment"
           },
+          "externalReference": {
+            "displayRepositoryColour": "#00FFFF",
+            "displayVersionColour": "#FF00FF",
+            "displayTimestampColour": "#808080"
+          },
           "lineColour": "--color-base-30"
         },
         "highlights": {
@@ -377,6 +417,11 @@
             "backgroundColour": "--code-background",
             "textColour": "--code-comment"
           },
+          "externalReference": {
+            "displayRepositoryColour": "#00FFFF",
+            "displayVersionColour": "#FF00FF",
+            "displayTimestampColour": "#808080"
+          },
           "lineColour": "--color-base-30"
         },
         "highlights": {
@@ -404,8 +449,9 @@
   "exampleCodeblockContent": "print(\"This line is very long and should be used as an example for how the plugin deals with wrapping and unwrapping very long lines given the choice of codeblock parameters and settings.\")\nprint(\"This line is highlighted.\")",
   "exampleInlineCode": "{python icon title:foo} print(\"This is inline code\")",
   "decoratePrint": true,
-  "excludedLanguages": "ad-*",
-  "processedCodeblocksWhitelist": "run-*",
+  "excludedLanguages": "ad-*, reference",
+  "externalReferenceUpdateOnLoad": false,
+  "processedCodeblocksWhitelist": "run-*, include",
   "redirectLanguages": {},
-  "version": "1.1.4"
+  "version": "1.1.7"
 }
