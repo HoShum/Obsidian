@@ -10,7 +10,7 @@
     "extended-colorschemes",
     "yaozhuwa@CSS"
   ],
-  "translucency": true,
+  "translucency": false,
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "",
   "nativeMenus": true,

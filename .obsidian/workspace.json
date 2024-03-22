@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "547932ec5ff84cad",
+        "id": "f29f525d771bb06c",
         "type": "tabs",
         "children": [
           {
-            "id": "268bdbe67d682da3",
+            "id": "e4fd714f10c78e4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/抹茶项目/WebSocket模块.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/抹茶项目/WebSocket模块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/抹茶项目/WebSocket模块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project/抹茶项目/WebSocket模块.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,15 +167,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "268bdbe67d682da3",
+  "active": "e4fd714f10c78e4d",
   "lastOpenFiles": [
-    "Books/WireShark网络分析-读书笔记.md",
     "Project/抹茶项目/WebSocket模块.md",
+    "Tools/MinIO使用教程.md",
+    "Books/WireShark网络分析-读书笔记.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
     "DataBase/MySQL/BufferPool.md",
     "Tools/工具集.md",
-    "Tools/MinIO使用教程.md",
     "TODO/📆TODO.md",
     "Personal/2023年终总结.md",
     "Memo/2024-01-22.md",
