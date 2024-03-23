@@ -49,6 +49,9 @@ public class WebSocketServer {
 * `WebSocketServerProtocolHandler` 就是Netty用来处理HTTP报文升级的处理器；而由于WebSocket有主题的概念，因此这里的`/` 表示的就是接收任何主题
 * `WebSocketServerHandler` 是用来处理业务的处理器
 
+```ad-note
+这里我一开始有个疑问，就是WebSocket
+```
 ## 业务处理器
 接下来是编写处理业务的处理器
 ```java fold:WebSocketServerHandler

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f9986421cc8a541",
+        "id": "550a4132fe6f2583",
         "type": "tabs",
         "children": [
           {
-            "id": "ac86ba4b30d8af34",
+            "id": "b8740ab4a3756f1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Project/抹茶项目/WebSocket模块.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -175,11 +175,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ac86ba4b30d8af34",
+  "active": "b8740ab4a3756f1f",
   "lastOpenFiles": [
+    "Project/抹茶项目/WebSocket模块.md",
     "Tools/Git.md",
     "DataBase/MySQL/BufferPool.md",
-    "Project/抹茶项目/WebSocket模块.md",
     "Tools/MinIO使用教程.md",
     "Books/WireShark网络分析-读书笔记.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
