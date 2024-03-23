@@ -29,6 +29,8 @@ public class WebSocketServer {
                 pipeline.addLast(new HttpServerCodec());
                 //处理HTTP报文聚合
                 pipeline.addLast(new HttpObjectAggregator(8192));
+                //处理心跳
+                pipeline.addLast(new IdleStateHandler(30, 0, 0));
                 //处理WebSocket报文，"/"表示处理所有请求
                 pipeline.addLast(new WebSocketServerProtocolHandler("/"));
                 //处理业务
