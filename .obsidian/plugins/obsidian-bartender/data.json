@@ -15,6 +15,7 @@
     "/": [
       "CS Base",
       "Java",
+      "C&Cpp",
       "DataBase",
       "Design",
       "Deploy",
@@ -26,8 +27,7 @@
       "TODO",
       "Kanban",
       "Memo",
-      "Excalidraw",
-      "C程序设计语言-读书笔记.md"
+      "Excalidraw"
     ],
     "Tools": [
       "Tools/工具集.md",

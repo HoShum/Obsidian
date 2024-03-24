@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "👑",
       "🧃",
       "👨",
       "🍵",
@@ -14,8 +15,7 @@
       "🖥",
       "💡",
       "🏗",
-      "🛒",
-      "🖼"
+      "🛒"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -51,14 +51,13 @@
   "Deploy/Docker": "SiDocker",
   "Memo": "📝",
   "Deploy/Linux": "SiLinux",
-  "C": "RaCrown",
   "Kanban": "📋",
   "Excalidraw": "🖼",
   "Business": "🛒",
   "Design": "💡",
-  "FrontEnd": "🖌",
   "DataBase": "BoBxData",
   "Project": "📋",
   "Project/抹茶项目": "🍵",
-  "Personal/杂七杂八": "🧃"
+  "Personal/杂七杂八": "🧃",
+  "C&Cpp": "👑"
 }

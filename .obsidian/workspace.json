@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70e8fc32e928f015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C&Cpp/C程序设计语言-读书笔记.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/杂七杂八/HomeBrew.md",
+                "file": "C&Cpp/C程序设计语言-读书笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/杂七杂八/HomeBrew.md",
+                "file": "C&Cpp/C程序设计语言-读书笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/杂七杂八/HomeBrew.md"
+                "file": "C&Cpp/C程序设计语言-读书笔记.md"
               }
             }
           },
@@ -175,15 +188,24 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9f626f4a9307531e",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
+    "C&Cpp",
     "Personal/杂七杂八/HomeBrew.md",
+    "Books/操作系统导论.pdf",
+    "C&Cpp/C程序设计语言-读书笔记.md",
+    "Books/汇编语言.pdf",
+    "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
+    "Java/常用开发框架/RPC",
+    "FrontEnd/CSS",
+    "Business/物联网通讯协议",
+    "Books/鸟哥的Linux私房菜",
+    "C",
+    "FrontEnd",
     "Tools/MinIO使用教程.md",
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "Personal/杂七杂八",
-    "Personal",
     "Project/抹茶项目/用户模块.md",
-    "CS Base/算法与数据结构",
     "Project/抹茶项目/WebSocket模块.md",
     "TODO/📆TODO.md",
     "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
@@ -195,7 +217,6 @@
     "Tools/工具集.md",
     "Personal/2023年终总结.md",
     "Memo/2024-01-22.md",
-    "C程序设计语言-读书笔记.md",
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
     "Java/常用开发框架/MyBatis/核心组件-Executor.md",
     "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
@@ -205,15 +226,7 @@
     "Java/常用开发框架/MyBatis/02配置文件加载与解析.md",
     "Java/常用开发框架/MyBatis/04解析Mapper接口.md",
     "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析resultMap.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
-    "Project/抹茶项目",
-    "Project",
-    "Books/操作系统导论.pdf",
-    "Java/常用开发框架/Netty",
-    "Java/常用开发框架/SpringCloud",
-    "CS Base/计算机网络/HTTP",
-    "CS Base/计算机网络",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
     "Excalidraw/attachments/Pasted Image 20240202094338_932.png",
