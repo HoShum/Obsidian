@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd0bedee4a594322",
+        "id": "46cf4464f831b07e",
         "type": "tabs",
         "children": [
           {
-            "id": "ad8102773804dcca",
+            "id": "a3c9d56ca2c4b1ed",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,10 +167,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ad8102773804dcca",
+  "active": "a3c9d56ca2c4b1ed",
   "lastOpenFiles": [
-    "TODO/📆TODO.md",
     "Personal/杂七杂八/HomeBrew.md",
+    "Personal/杂七杂八/开发小记/ChainFlow.md",
+    "Java/并发编程",
+    "TODO/📆TODO.md",
     "C&Cpp",
     "Books/操作系统导论.pdf",
     "C&Cpp/C程序设计语言-读书笔记.md",
@@ -181,7 +183,6 @@
     "Business/物联网通讯协议",
     "Books/鸟哥的Linux私房菜",
     "C",
-    "FrontEnd",
     "Tools/MinIO使用教程.md",
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "Project/抹茶项目/用户模块.md",
