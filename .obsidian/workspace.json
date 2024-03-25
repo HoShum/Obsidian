@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0dbc49ed003f566f",
+        "id": "ff9e627fe0fff91b",
         "type": "tabs",
         "children": [
           {
-            "id": "5dbcbe1d3a415984",
+            "id": "802c9377ef0146a9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/杂七杂八/HomeBrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/杂七杂八/HomeBrew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/杂七杂八/HomeBrew.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,10 +167,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "802c9377ef0146a9",
   "lastOpenFiles": [
-    "C&Cpp",
+    "TODO/📆TODO.md",
     "Personal/杂七杂八/HomeBrew.md",
+    "C&Cpp",
     "Books/操作系统导论.pdf",
     "C&Cpp/C程序设计语言-读书笔记.md",
     "Books/汇编语言.pdf",
@@ -187,10 +184,8 @@
     "FrontEnd",
     "Tools/MinIO使用教程.md",
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
-    "Personal/杂七杂八",
     "Project/抹茶项目/用户模块.md",
     "Project/抹茶项目/WebSocket模块.md",
-    "TODO/📆TODO.md",
     "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
     "Tools/Git.md",
     "DataBase/MySQL/BufferPool.md",
