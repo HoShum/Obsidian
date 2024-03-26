@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46cf4464f831b07e",
+        "id": "8f9804cd05ce950e",
         "type": "tabs",
         "children": [
           {
-            "id": "a3c9d56ca2c4b1ed",
+            "id": "ddef3562704d3295",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,7 +167,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a3c9d56ca2c4b1ed",
+  "active": "ddef3562704d3295",
   "lastOpenFiles": [
     "Personal/杂七杂八/HomeBrew.md",
     "Personal/杂七杂八/开发小记/ChainFlow.md",
