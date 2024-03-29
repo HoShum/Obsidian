@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4ae346b01747f8a2",
+        "id": "1eb4f67075373f74",
         "type": "tabs",
         "children": [
           {
-            "id": "a8e19de99dcd268e",
+            "id": "579d5201021faf7f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Deploy/Linux/Vim教程.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deploy/Linux/Vim教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deploy/Linux/Vim教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deploy/Linux/Vim教程.md"
+              }
             }
           },
           {
@@ -167,7 +175,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a8e19de99dcd268e",
+  "active": "579d5201021faf7f",
   "lastOpenFiles": [
     "Personal/杂七杂八/HomeBrew.md",
     "Personal/杂七杂八/开发小记/ChainFlow.md",
