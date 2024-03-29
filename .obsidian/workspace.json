@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md",
-                "mode": "preview",
+                "file": "Personal/杂七杂八/Maven相关.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md",
+                "file": "Personal/杂七杂八/Maven相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md",
+                "file": "Personal/杂七杂八/Maven相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md"
+                "file": "Personal/杂七杂八/Maven相关.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "579d5201021faf7f",
   "lastOpenFiles": [
+    "Deploy/Linux/Vim教程.md",
+    "Personal/杂七杂八/Maven相关.md",
     "Personal/杂七杂八/HomeBrew.md",
     "Personal/杂七杂八/开发小记/ChainFlow.md",
     "Java/并发编程",
@@ -211,8 +213,6 @@
     "Java/常用开发框架/MyBatis/基础说明.md",
     "Java/常用开发框架/MyBatis/配置文件说明.md",
     "Java/常用开发框架/MyBatis/02配置文件加载与解析.md",
-    "Java/常用开发框架/MyBatis/04解析Mapper接口.md",
-    "Java/常用开发框架/MyBatis/03解析Mappr文件.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
