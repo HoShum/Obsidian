@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "1eb4f67075373f74",
+        "id": "dd1c13df9c381cd5",
         "type": "tabs",
         "children": [
           {
-            "id": "579d5201021faf7f",
+            "id": "a895effa0d0e8282",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/杂七杂八/Maven相关.md",
-                "mode": "source",
+                "file": "Books/现代操作系统-读书笔记.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d18398204d0366d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/WireShark网络分析-读书笔记.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/杂七杂八/Maven相关.md",
+                "file": "Books/现代操作系统-读书笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/杂七杂八/Maven相关.md",
+                "file": "Books/现代操作系统-读书笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/杂七杂八/Maven相关.md"
+                "file": "Books/现代操作系统-读书笔记.md"
               }
             }
           },
@@ -175,9 +187,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "579d5201021faf7f",
+  "active": "a895effa0d0e8282",
   "lastOpenFiles": [
-    "Deploy/Linux/Vim教程.md",
+    "Books/WireShark网络分析-读书笔记.md",
+    "Books/现代操作系统-读书笔记.md",
+    "CS Base/操作系统",
     "Personal/杂七杂八/Maven相关.md",
     "Personal/杂七杂八/HomeBrew.md",
     "Personal/杂七杂八/开发小记/ChainFlow.md",
@@ -192,7 +206,6 @@
     "FrontEnd/CSS",
     "Business/物联网通讯协议",
     "Books/鸟哥的Linux私房菜",
-    "C",
     "Tools/MinIO使用教程.md",
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "Project/抹茶项目/用户模块.md",
@@ -200,7 +213,6 @@
     "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
     "Tools/Git.md",
     "DataBase/MySQL/BufferPool.md",
-    "Books/WireShark网络分析-读书笔记.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
     "Tools/工具集.md",
