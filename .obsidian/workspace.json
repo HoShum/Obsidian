@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dd1c13df9c381cd5",
+        "id": "adb688bc2d5fb0a0",
         "type": "tabs",
         "children": [
           {
-            "id": "a895effa0d0e8282",
+            "id": "e53b0bed9a761279",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/现代操作系统-读书笔记.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d18398204d0366d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/WireShark网络分析-读书笔记.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/现代操作系统-读书笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/现代操作系统-读书笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Books/现代操作系统-读书笔记.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,10 +167,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a895effa0d0e8282",
+  "active": "e53b0bed9a761279",
   "lastOpenFiles": [
-    "Books/WireShark网络分析-读书笔记.md",
     "Books/现代操作系统-读书笔记.md",
+    "Books/WireShark网络分析-读书笔记.md",
     "CS Base/操作系统",
     "Personal/杂七杂八/Maven相关.md",
     "Personal/杂七杂八/HomeBrew.md",
