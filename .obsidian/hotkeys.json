@@ -24,7 +24,14 @@
       "key": "ArrowLeft"
     }
   ],
-  "workspace:close": [],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
   "file-explorer:new-file": [
     {
       "modifiers": [

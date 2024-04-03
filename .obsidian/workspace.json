@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c644c4bbf603deb8",
+        "id": "ff7a7a9b61aca5aa",
         "type": "tabs",
         "children": [
           {
-            "id": "33b49a9ed285c669",
+            "id": "913c7ba310771195",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/一些核心源码/ThreadLocal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/一些核心源码/ThreadLocal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/一些核心源码/ThreadLocal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/一些核心源码/ThreadLocal.md"
+              }
             }
           },
           {
@@ -167,16 +175,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "33b49a9ed285c669",
+  "active": "913c7ba310771195",
   "lastOpenFiles": [
-    "CS Base/计算机网络/TCP",
-    "CS Base/计算机网络/基础知识",
+    "未命名思维导图.md",
     "Java/一些核心源码/ThreadLocal.md",
     "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
-    "Java/一些核心源码/Untitled.loom",
-    "Java/一些核心源码",
-    "Books/现代操作系统-读书笔记.md",
+    "CS Base/组成原理/二进制减法.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
+    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "Books/WireShark网络分析-读书笔记.md",
+    "Books/现代操作系统-读书笔记.md",
+    "Java/一些核心源码",
     "CS Base/操作系统",
     "Personal/杂七杂八/Maven相关.md",
     "Personal/杂七杂八/HomeBrew.md",
@@ -189,22 +199,20 @@
     "Books/汇编语言.pdf",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Java/常用开发框架/RPC",
+    "FrontEnd/CSS",
+    "Business/物联网通讯协议",
     "Tools/MinIO使用教程.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "Project/抹茶项目/用户模块.md",
     "Project/抹茶项目/WebSocket模块.md",
     "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
     "Tools/Git.md",
     "DataBase/MySQL/BufferPool.md",
-    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
     "Tools/工具集.md",
     "Personal/2023年终总结.md",
     "Memo/2024-01-22.md",
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
     "Java/常用开发框架/MyBatis/核心组件-Executor.md",
-    "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
-    "Java/常用开发框架/MyBatis/日志整合.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",

@@ -1,4 +1,6 @@
-# 基本使用
+# ThreadLocal笔记
+#Java #ThreadLocal
+## 基本使用
 ThreadLocal一般的使用场景是用来给线程保存一些变量，方便传递使用，比如说：
 * 在一个事务场景中，可能涉及到查询或修改多次数据库，而这些操作都需要保证是同一个数据库连接，此时就可以使用ThreadLocal来保存一些上下文的信息
 * SpringSecurity在执行鉴权时会经过一连串的处理方法，而为了保存一些上下文的信息，同样会使用到ThreadLocal来保存
@@ -13,7 +15,7 @@ ThreadLocal一般的使用场景是用来给线程保存一些变量，方便传
 * 清除：`remove()`
 
 此外，一般会将ThreadLocal声明为`static`来使用
-# 核心源码
+## 核心源码
 ThreadLocal的源码并不复杂，但是要想搞明白，就需要先搞清楚它的结构
 而ThreadLocal的结构又需要结合着Thread来看，因为ThreadLocal的数据是保存到一个叫`ThreadLocalMap`的集合里的，但是比较奇怪的一点是，这个结构是定义在`ThreadLocal`里面，但是它的引用却是放在了`Thread`里面
 
@@ -88,7 +90,7 @@ ThreadLocal的源码并不复杂，但是要想搞明白，就需要先搞清楚
 ![image.png](https://cdn.jsdelivr.net/gh/HoShum/PictureRepo/imgs/202404031010634.png)
 >请注意这里的虚线，表示的是弱引用
 
-# 内存泄露
+## 内存泄露
 为什么ThreadLocal会发生内存泄露呢，其实就跟这个弱引用有关，下面用一段代码来说明
 ```java
 public class ThreadLocalMemoryLeak {

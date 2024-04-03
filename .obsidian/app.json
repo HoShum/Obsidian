@@ -22,5 +22,6 @@
   "promptDelete": false,
   "smartIndentList": true,
   "defaultViewMode": "preview",
-  "focusNewTab": true
+  "focusNewTab": true,
+  "showInlineTitle": false
 }
