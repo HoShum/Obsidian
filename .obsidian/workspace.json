@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c784169c6029d02d",
+        "id": "816634c98630fd90",
         "type": "tabs",
         "children": [
           {
-            "id": "7325f88b2e1a4588",
+            "id": "60fc102a65e3b74d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/一些核心源码/ThreadLocal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/一些核心源码/ThreadLocal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/一些核心源码/ThreadLocal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/一些核心源码/ThreadLocal.md"
+              }
             }
           },
           {
@@ -167,8 +175,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7325f88b2e1a4588",
+  "active": "60fc102a65e3b74d",
   "lastOpenFiles": [
+    "Java/一些核心源码/ThreadLocal.md",
+    "Java/一些核心源码/Untitled.loom",
+    "Java/一些核心源码",
     "Books/现代操作系统-读书笔记.md",
     "Books/WireShark网络分析-读书笔记.md",
     "CS Base/操作系统",
@@ -184,8 +195,6 @@
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Java/常用开发框架/RPC",
     "FrontEnd/CSS",
-    "Business/物联网通讯协议",
-    "Books/鸟哥的Linux私房菜",
     "Tools/MinIO使用教程.md",
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "Project/抹茶项目/用户模块.md",
@@ -204,7 +213,6 @@
     "Java/常用开发框架/MyBatis/日志整合.md",
     "Java/常用开发框架/MyBatis/基础说明.md",
     "Java/常用开发框架/MyBatis/配置文件说明.md",
-    "Java/常用开发框架/MyBatis/02配置文件加载与解析.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
