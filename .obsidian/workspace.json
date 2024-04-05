@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "aa7172f7af774c21",
+        "id": "14093693353dfaa9",
         "type": "tabs",
         "children": [
           {
-            "id": "66916963511fbfbd",
+            "id": "f4a842c9c26c44bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a57d453930da949d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,11 +167,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a57d453930da949d",
+  "active": "f4a842c9c26c44bc",
   "lastOpenFiles": [
+    "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
-    "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
     "Java/一些核心源码/ThreadLocal.md",
     "未命名思维导图.md",
