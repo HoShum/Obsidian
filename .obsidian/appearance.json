@@ -2,7 +2,7 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Obsidianite",
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "enabledCssSnippets": [
     "custom",
     "表格优化",
@@ -14,5 +14,5 @@
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "",
   "nativeMenus": true,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": true
 }
