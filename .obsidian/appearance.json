@@ -2,7 +2,7 @@
   "accentColor": "",
   "theme": "moonstone",
   "cssTheme": "Typora-Vue",
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "enabledCssSnippets": [
     "custom",
     "表格优化",
@@ -11,8 +11,8 @@
     "extended-colorschemes"
   ],
   "translucency": false,
-  "monospaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "",
   "textFontFamily": "",
   "nativeMenus": true,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": false
 }
