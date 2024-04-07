@@ -1,0 +1,54 @@
+/* Java代码段样式 */
+.cm-s-obsidian.CodeMirror {
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace; /* 设置代码段字体 */
+    font-size: 14px; /* 设置代码段字号 */
+    line-height: 1.5; /* 设置行高 */
+    background-color: #f8f8f8; /* 设置代码段背景色 */
+}
+
+/* Java关键字样式 */
+.cm-s-obsidian .cm-keyword {
+    color: #569CD6; /* 设置关键字颜色 */
+    font-weight: bold; /* 设置关键字加粗 */
+}
+
+/* Java注释样式 */
+.cm-s-obsidian .cm-comment {
+    color: #6A9955; /* 设置注释颜色 */
+    font-style: italic; /* 设置注释为斜体 */
+}
+
+/* Java字符串样式 */
+.cm-s-obsidian .cm-string {
+    color: #CE9178; /* 设置字符串颜色 */
+}
+
+/* Java数字样式 */
+.cm-s-obsidian .cm-number {
+    color: #B5CEA8; /* 设置数字颜色 */
+}
+
+/* Java操作符样式 */
+.cm-s-obsidian .cm-operator {
+    color: #D4D4D4; /* 设置操作符颜色 */
+}
+
+/* Java标点符号样式 */
+.cm-s-obsidian .cm-punctuation {
+    color: #D4D4D4; /* 设置标点符号颜色 */
+}
+
+/* Java变量和函数名样式 */
+.cm-s-obsidian .cm-variable {
+    color: #9CDCFE; /* 设置变量颜色 */
+}
+
+/* Java内置对象和函数样式 */
+.cm-s-obsidian .cm-builtin {
+    color: #4EC9B0; /* 设置内置对象和函数颜色 */
+}
+
+/* Java类名样式 */
+.cm-s-obsidian .cm-def {
+    color: #4EC9B0; /* 设置类名颜色 */
+}

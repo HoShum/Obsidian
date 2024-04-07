@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c4ac1224bf727c4",
+        "id": "f7ac04da1a205d2b",
         "type": "tabs",
         "children": [
           {
-            "id": "028f3ff560a81338",
+            "id": "f3fa40ecc7881c8f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.49999618530273
+    "width": 307.5110321044922
   },
   "right": {
     "id": "dec21afec6639e20",
@@ -148,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,22 +167,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "028f3ff560a81338",
+  "active": "f3fa40ecc7881c8f",
   "lastOpenFiles": [
     "Tools/Idea相关.md",
-    "Tools/未命名",
-    "Tools/Idea相关",
-    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
-    "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
-    "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
-    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
-    "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
     "Java/一些核心源码/ThreadLocal.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "未命名思维导图.md",
     "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
     "CS Base/组成原理/二进制减法.md",
+    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Books/WireShark网络分析-读书笔记.md",
     "Books/现代操作系统-读书笔记.md",
     "Java/一些核心源码",
@@ -198,13 +192,19 @@
     "Books/汇编语言.pdf",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Java/常用开发框架/RPC",
+    "FrontEnd/CSS",
+    "Business/物联网通讯协议",
     "Tools/MinIO使用教程.md",
     "Project/抹茶项目/用户模块.md",
     "Project/抹茶项目/WebSocket模块.md",
     "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
     "Tools/Git.md",
     "DataBase/MySQL/BufferPool.md",
+    "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
     "Tools/工具集.md",
+    "Personal/2023年终总结.md",
+    "Memo/2024-01-22.md",
+    "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
