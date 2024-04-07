@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f7ac04da1a205d2b",
+        "id": "6a392ba0593ec496",
         "type": "tabs",
         "children": [
           {
-            "id": "f3fa40ecc7881c8f",
+            "id": "acfc31a762f83a12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "076bc35db0a0acc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md"
+              }
             }
           },
           {
@@ -167,16 +188,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "f3fa40ecc7881c8f",
+  "active": "076bc35db0a0acc0",
   "lastOpenFiles": [
+    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
+    "Java/常用开发框架/Netty/Netty入门学习笔记.md",
+    "Java/常用开发框架/MyBatis/基础说明.md",
+    "Java/常用开发框架/MyBatis/配置文件说明.md",
     "Tools/Idea相关.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
     "Java/一些核心源码/ThreadLocal.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "未命名思维导图.md",
     "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
     "CS Base/组成原理/二进制减法.md",
-    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Books/WireShark网络分析-读书笔记.md",
     "Books/现代操作系统-读书笔记.md",
     "Java/一些核心源码",
@@ -202,9 +226,6 @@
     "DataBase/MySQL/BufferPool.md",
     "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
     "Tools/工具集.md",
-    "Personal/2023年终总结.md",
-    "Memo/2024-01-22.md",
-    "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
