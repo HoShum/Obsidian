@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
+                "file": "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
+                "file": "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md"
+                "file": "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md"
               }
             }
           },
@@ -188,10 +187,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5268cd300491a53f",
+  "active": "acfc31a762f83a12",
   "lastOpenFiles": [
-    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
+    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "TODO/📆TODO.md",
     "Java/常用开发框架/MyBatis/配置文件说明.md",
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
