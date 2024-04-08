@@ -337,8 +337,8 @@
         "activeEditorLine": false
       },
       "inline": {
-        "syntaxHighlight": true,
-        "style": true,
+        "syntaxHighlight": false,
+        "style": false,
         "fontWeight": 4,
         "curvature": 6,
         "paddingVertical": 5,
@@ -432,7 +432,7 @@
         },
         "inline": {
           "backgroundColour": "--code-background",
-          "textColour": "--code-normal",
+          "textColour": "#CC7200",
           "activeTextColour": "--code-normal",
           "titleTextColour": "--code-comment"
         },
