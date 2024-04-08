@@ -30,6 +30,12 @@
         "Mod"
       ],
       "key": "W"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
     }
   ],
   "file-explorer:new-file": [
