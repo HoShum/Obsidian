@@ -1,4 +1,5 @@
 #Git
+# Git实用笔记
 本文档记录一些Git相关的常用的操作
 ## Git Stash
 ### 原理
@@ -27,3 +28,7 @@ Git Stash相当于一个Git提供用来缓存修改的工具，搭配回退等�
 `git branch -d 分支名` 可以删除一个分支
 `git push origin --delete 分支名` 可以删除远端一个分支
 `git pull origin 分支名` 可以拉取一个远端的分支，但前提是你本地要先切换到这个分支
+## Git Remote
+该命令主要用来管理远端地址，常用的有以下：
+`git remote -v`可以用来查看远端地址
+`git remote add origin xxx` 用来添加远端仓库，注意，这个origin是仓库别名，可以自定义
