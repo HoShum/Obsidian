@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9ec4dee6f3299f98",
+        "id": "ad9896518c408d94",
         "type": "tabs",
         "children": [
           {
-            "id": "b6f8087f8dc30a83",
+            "id": "68b65e8927c32eae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md"
+              }
             }
           },
           {
@@ -167,8 +175,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "68b65e8927c32eae",
   "lastOpenFiles": [
+    "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
+    "CS Base/数据结构与算法/算法思想",
+    "CS Base/数据结构与算法",
+    "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
     "Tools/Git.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
@@ -180,7 +192,6 @@
     "Tools/Idea相关.md",
     "Java/一些核心源码/ThreadLocal.md",
     "未命名思维导图.md",
-    "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
     "CS Base/组成原理/二进制减法.md",
     "Books/WireShark网络分析-读书笔记.md",
     "Books/现代操作系统-读书笔记.md",
@@ -196,15 +207,12 @@
     "Books/汇编语言.pdf",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Java/常用开发框架/RPC",
-    "FrontEnd/CSS",
-    "Business/物联网通讯协议",
     "Tools/MinIO使用教程.md",
     "Project/抹茶项目/用户模块.md",
     "Project/抹茶项目/WebSocket模块.md",
     "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
     "DataBase/MySQL/BufferPool.md",
     "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
-    "Tools/工具集.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
