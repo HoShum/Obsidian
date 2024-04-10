@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/深入理解Java虚拟机-读书笔记.md",
+                "file": "Deploy/Linux/Vim教程.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/深入理解Java虚拟机-读书笔记.md",
+                "file": "Deploy/Linux/Vim教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/深入理解Java虚拟机-读书笔记.md",
+                "file": "Deploy/Linux/Vim教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/深入理解Java虚拟机-读书笔记.md"
+                "file": "Deploy/Linux/Vim教程.md"
               }
             }
           },
@@ -177,9 +177,9 @@
   },
   "active": "b4c719cb35b9d211",
   "lastOpenFiles": [
+    "Books/深入理解Java虚拟机-读书笔记.md",
     "Books/现代操作系统-读书笔记.md",
     "Books/WireShark网络分析-读书笔记.md",
-    "Books/深入理解Java虚拟机-读书笔记.md",
     "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "CS Base/数据结构与算法/算法思想",
     "CS Base/数据结构与算法",
