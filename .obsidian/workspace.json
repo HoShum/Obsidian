@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
-                "mode": "preview",
+                "file": "Tools/Git.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
+                "file": "Tools/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
+                "file": "Tools/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md"
+                "file": "Tools/Git.md"
               }
             }
           },
@@ -177,13 +177,13 @@
   },
   "active": "b32b7dc41fd3947a",
   "lastOpenFiles": [
+    "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "Deploy/Linux/Vim教程.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/日志整合.md",
     "Books/深入理解Java虚拟机-读书笔记.md",
     "Books/现代操作系统-读书笔记.md",
     "Books/WireShark网络分析-读书笔记.md",
-    "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "CS Base/数据结构与算法/算法思想",
     "CS Base/数据结构与算法",
     "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
