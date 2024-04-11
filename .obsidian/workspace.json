@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "01671c78d028be61",
+        "id": "143e662e9a650c94",
         "type": "tabs",
         "children": [
           {
-            "id": "b4c719cb35b9d211",
+            "id": "b32b7dc41fd3947a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md",
-                "mode": "source",
+                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md",
+                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md",
+                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deploy/Linux/Vim教程.md"
+                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md"
               }
             }
           },
@@ -175,8 +175,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b4c719cb35b9d211",
+  "active": "b32b7dc41fd3947a",
   "lastOpenFiles": [
+    "Deploy/Linux/Vim教程.md",
+    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
+    "Java/常用开发框架/MyBatis/日志整合.md",
     "Books/深入理解Java虚拟机-读书笔记.md",
     "Books/现代操作系统-读书笔记.md",
     "Books/WireShark网络分析-读书笔记.md",
@@ -185,7 +188,6 @@
     "CS Base/数据结构与算法",
     "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
     "Tools/Git.md",
-    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
     "TODO/📆TODO.md",
     "Java/常用开发框架/MyBatis/配置文件说明.md",
@@ -211,8 +213,6 @@
     "Tools/MinIO使用教程.md",
     "Project/抹茶项目/用户模块.md",
     "Project/抹茶项目/WebSocket模块.md",
-    "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
-    "DataBase/MySQL/BufferPool.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
