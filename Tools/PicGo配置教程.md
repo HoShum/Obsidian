@@ -4,7 +4,7 @@
 
 * 设置仓库名：HoShum/PictureRepo
 * 设定分支名：main
-* 设定Token：
+* 设定Token：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
 
 > 这个Token具体在https://github.com/settings/tokens，似乎不能获取，只能重新设置
 
