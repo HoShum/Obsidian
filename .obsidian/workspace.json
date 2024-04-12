@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9382c4d56da71c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/常用开发框架/Spring/IOC/Index.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcbd98ce1da62e12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/常用开发框架/Spring/IOC/BeanFactory.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/Spring/IOC/BeanFactory.md",
+                "file": "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/Spring/IOC/BeanFactory.md",
+                "file": "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/常用开发框架/Spring/IOC/BeanFactory.md"
+                "file": "Java/常用开发框架/Spring/IOC/IOC与Spring.md"
               }
             }
           },
@@ -200,13 +175,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fcbd98ce1da62e12",
+  "active": "d35d3c79ef7b469b",
   "lastOpenFiles": [
+    "Java/常用开发框架/Spring/IOC/Index.md",
+    "Java/常用开发框架/Spring/IOC/BeanFactory.md",
     "Java/常用开发框架/Spring/IOC/生命周期.md",
     "Java/常用开发框架/Spring/IOC/基础功能.md",
     "Java/常用开发框架/Spring/IOC/事件机制.md",
-    "Java/常用开发框架/Spring/IOC/BeanFactory.md",
-    "Java/常用开发框架/Spring/IOC/Index.md",
     "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
     "Tools/Git.md",
     "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
