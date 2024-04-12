@@ -80,4 +80,4 @@ Git Stash相当于一个Git提供用来缓存修改的工具，搭配回退等�
 
 ### 编辑配置
 * `git config --edit`：进行配置信息的编辑
-* `git config key value`：修改/新增配置，比如使用`git config http.proxy 'http://localhost:7890' 
+* `git config key value`：修改/新增配置，比如使用`git config http.proxy http://localhost:7890`

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cd3e93fb6b3fa7d3",
+        "id": "fa220f0a7198997b",
         "type": "tabs",
         "children": [
           {
-            "id": "91e40407f6444ea2",
+            "id": "d35d3c79ef7b469b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Git.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tools/Git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +167,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "91e40407f6444ea2",
+  "active": "d35d3c79ef7b469b",
   "lastOpenFiles": [
+    "Java/常用开发框架/Spring/IOC/事件机制.md",
+    "Java/常用开发框架/Spring/IOC/生命周期.md",
+    "Java/常用开发框架/Spring/IOC/基础功能.md",
     "Tools/Git.md",
     "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "Deploy/Linux/Vim教程.md",
@@ -210,9 +205,6 @@
     "Books/汇编语言.pdf",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Java/常用开发框架/RPC",
-    "Tools/MinIO使用教程.md",
-    "Project/抹茶项目/用户模块.md",
-    "Project/抹茶项目/WebSocket模块.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
