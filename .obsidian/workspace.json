@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fa220f0a7198997b",
+        "id": "cd3e93fb6b3fa7d3",
         "type": "tabs",
         "children": [
           {
-            "id": "d35d3c79ef7b469b",
+            "id": "91e40407f6444ea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
+                "file": "Tools/Git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "796ab7fcc568451d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/PicGo配置教程.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
+                "file": "Tools/PicGo配置教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
+                "file": "Tools/PicGo配置教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/常用开发框架/Spring/IOC/IOC与Spring.md"
+                "file": "Tools/PicGo配置教程.md"
               }
             }
           },
@@ -175,15 +188,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d35d3c79ef7b469b",
+  "active": "796ab7fcc568451d",
   "lastOpenFiles": [
-    "Java/常用开发框架/Spring/IOC/Index.md",
-    "Java/常用开发框架/Spring/IOC/BeanFactory.md",
-    "Java/常用开发框架/Spring/IOC/生命周期.md",
-    "Java/常用开发框架/Spring/IOC/基础功能.md",
-    "Java/常用开发框架/Spring/IOC/事件机制.md",
-    "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
     "Tools/Git.md",
+    "Tools/PicGo配置教程.md",
     "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "Deploy/Linux/Vim教程.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
@@ -207,12 +215,17 @@
     "Java/一些核心源码",
     "CS Base/操作系统",
     "Personal/杂七杂八/Maven相关.md",
+    "Personal/杂七杂八/HomeBrew.md",
+    "Personal/杂七杂八/开发小记/ChainFlow.md",
     "Java/并发编程",
     "C&Cpp",
     "Books/操作系统导论.pdf",
+    "C&Cpp/C程序设计语言-读书笔记.md",
     "Books/汇编语言.pdf",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Java/常用开发框架/RPC",
+    "Tools/MinIO使用教程.md",
+    "Project/抹茶项目/用户模块.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
