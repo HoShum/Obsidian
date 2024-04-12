@@ -11,11 +11,40 @@
             "id": "d35d3c79ef7b469b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9382c4d56da71c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/常用开发框架/Spring/IOC/Index.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcbd98ce1da62e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/常用开发框架/Spring/IOC/BeanFactory.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/常用开发框架/Spring/IOC/BeanFactory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/常用开发框架/Spring/IOC/BeanFactory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/常用开发框架/Spring/IOC/BeanFactory.md"
+              }
             }
           },
           {
@@ -167,11 +200,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d35d3c79ef7b469b",
+  "active": "fcbd98ce1da62e12",
   "lastOpenFiles": [
-    "Java/常用开发框架/Spring/IOC/事件机制.md",
     "Java/常用开发框架/Spring/IOC/生命周期.md",
     "Java/常用开发框架/Spring/IOC/基础功能.md",
+    "Java/常用开发框架/Spring/IOC/事件机制.md",
+    "Java/常用开发框架/Spring/IOC/BeanFactory.md",
+    "Java/常用开发框架/Spring/IOC/Index.md",
+    "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
     "Tools/Git.md",
     "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "Deploy/Linux/Vim教程.md",
@@ -196,12 +232,9 @@
     "Java/一些核心源码",
     "CS Base/操作系统",
     "Personal/杂七杂八/Maven相关.md",
-    "Personal/杂七杂八/HomeBrew.md",
-    "Personal/杂七杂八/开发小记/ChainFlow.md",
     "Java/并发编程",
     "C&Cpp",
     "Books/操作系统导论.pdf",
-    "C&Cpp/C程序设计语言-读书笔记.md",
     "Books/汇编语言.pdf",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Java/常用开发框架/RPC",
