@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cd3e93fb6b3fa7d3",
+        "id": "b010ca53a563dcf6",
         "type": "tabs",
         "children": [
           {
-            "id": "91e40407f6444ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Git.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "796ab7fcc568451d",
+            "id": "ff8c9a1aceec69ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Tools/PicGo配置教程.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,12 +175,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "796ab7fcc568451d",
+  "active": "ff8c9a1aceec69ee",
   "lastOpenFiles": [
+    "Tools/Idea相关.md",
+    "Deploy/Linux/Vim教程.md",
+    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
+    "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
     "Tools/Git.md",
     "Tools/PicGo配置教程.md",
     "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
-    "Deploy/Linux/Vim教程.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/日志整合.md",
     "Books/深入理解Java虚拟机-读书笔记.md",
@@ -208,7 +198,6 @@
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "Java/常用开发框架/Netty/Netty入门学习笔记.md",
     "Java/常用开发框架/MyBatis/基础说明.md",
-    "Tools/Idea相关.md",
     "Java/一些核心源码/ThreadLocal.md",
     "未命名思维导图.md",
     "CS Base/组成原理/二进制减法.md",
@@ -224,8 +213,6 @@
     "Books/汇编语言.pdf",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Java/常用开发框架/RPC",
-    "Tools/MinIO使用教程.md",
-    "Project/抹茶项目/用户模块.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",

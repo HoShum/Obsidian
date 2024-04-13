@@ -6,7 +6,7 @@
 * 设定分支名：main
 * 设定Token：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
 
-> 这个Token具体在https://github.com/settings/tokens，似乎不能获取，只能重新设置
+> 这个Token具体在https://github.com/settings/tokens，似乎不能获取，只能重新设置；此外，生成之后记得要分配写权限，否则无法上传
 
 * 设定存储路径：imgs/（根据GitHub仓库来）
 * 设定自定义域名：https://cdn.jsdelivr.net/gh/HoShum/PictureRepo（CDN）
