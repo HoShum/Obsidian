@@ -12,8 +12,6 @@
 * 设定自定义域名：https://cdn.jsdelivr.net/gh/HoShum/PictureRepo（CDN）
 
 ## 搭配Typora自动上传
-
 十分简单，只要像如下设置即可
-
-<img src="https://cdn.jsdelivr.net/gh/HoShum/PictureRepo/imgs/202404130010243.png" alt="image-20240413001032188" style="zoom:50%;" />
-
+![image.png](https://cdn.jsdelivr.net/gh/HoShum/PictureRepo/imgs/202404131602126.png)
+> 这里尤其需要注意，语法偏好不能**勾选相对路径**，否则使用剪切板时可能会找不到图片！！！
