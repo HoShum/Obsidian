@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "555247281d6f84bf",
+        "id": "1b3084023b93abf3",
         "type": "tabs",
         "children": [
           {
-            "id": "379a64f5e1d916ec",
+            "id": "2d7563534f28f234",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tools/未命名.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tools/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tools/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tools/未命名.md"
+              }
             }
           },
           {
@@ -167,8 +175,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "379a64f5e1d916ec",
+  "active": "2d7563534f28f234",
   "lastOpenFiles": [
+    "Tools/未命名.md",
+    "Windows.md",
     "Tools/Git.md",
     "Tools/PicGo配置教程.md",
     "Tools/Idea相关.md",
@@ -197,11 +207,9 @@
     "CS Base/操作系统",
     "Personal/杂七杂八/Maven相关.md",
     "Personal/杂七杂八/HomeBrew.md",
-    "Personal/杂七杂八/开发小记/ChainFlow.md",
     "Java/并发编程",
     "C&Cpp",
     "Books/操作系统导论.pdf",
-    "C&Cpp/C程序设计语言-读书笔记.md",
     "Books/汇编语言.pdf",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Java/常用开发框架/RPC",
