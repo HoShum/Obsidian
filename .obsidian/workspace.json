@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Personal/杂七杂八/记录一次配置静态路由.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cef9cb429c74ff63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Tools/Windows下的端口转发.md",
                 "mode": "source",
                 "source": false
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Windows下的端口转发.md",
+                "file": "Personal/杂七杂八/记录一次配置静态路由.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Windows下的端口转发.md",
+                "file": "Personal/杂七杂八/记录一次配置静态路由.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Windows下的端口转发.md"
+                "file": "Personal/杂七杂八/记录一次配置静态路由.md"
               }
             }
           },
@@ -178,6 +190,7 @@
   "active": "2d7563534f28f234",
   "lastOpenFiles": [
     "Tools/Windows下的端口转发.md",
+    "Personal/杂七杂八/记录一次配置静态路由.md",
     "Windows.md",
     "Tools/Git.md",
     "Tools/PicGo配置教程.md",
@@ -206,7 +219,6 @@
     "Java/一些核心源码",
     "CS Base/操作系统",
     "Personal/杂七杂八/Maven相关.md",
-    "Personal/杂七杂八/HomeBrew.md",
     "Java/并发编程",
     "C&Cpp",
     "Books/操作系统导论.pdf",
