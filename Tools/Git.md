@@ -28,6 +28,10 @@ Git Stash相当于一个Git提供用来缓存修改的工具，搭配回退等�
 `git branch -d 分支名` 可以删除一个分支
 `git push origin --delete 分支名` 可以删除远端一个分支
 `git pull origin 分支名` 可以拉取一个远端的分支，但前提是你本地要先切换到这个分支
+### 本地拉取不同分支
+情景是这样，本地已经有远端master的分支情况下，想再拉取远端的dev分支该如何操作呢？
+首先可以通过`git branch -a`查看有哪些分支
+然后可以使用`git checkout -b dev origin/dev`来将远端的dev分支拉取到本地并切换
 ## Git Remote
 该命令主要用来管理远端地址，常用的有以下：
 `git remote -v`可以用来查看远端地址
