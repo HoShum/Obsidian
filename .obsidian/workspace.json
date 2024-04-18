@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b3084023b93abf3",
+        "id": "367a1d4c9cbde314",
         "type": "tabs",
         "children": [
           {
-            "id": "2d7563534f28f234",
+            "id": "e1f3c343bc792b00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/杂七杂八/记录一次配置静态路由.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cef9cb429c74ff63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Windows下的端口转发.md",
+                "file": "Personal/杂七杂八/MySQL映射外网.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/杂七杂八/记录一次配置静态路由.md",
+                "file": "Personal/杂七杂八/MySQL映射外网.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/杂七杂八/记录一次配置静态路由.md",
+                "file": "Personal/杂七杂八/MySQL映射外网.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/杂七杂八/记录一次配置静态路由.md"
+                "file": "Personal/杂七杂八/MySQL映射外网.md"
               }
             }
           },
@@ -187,10 +175,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2d7563534f28f234",
+  "active": "e1f3c343bc792b00",
   "lastOpenFiles": [
-    "Tools/Windows下的端口转发.md",
+    "Personal/杂七杂八/MySQL映射外网.md",
     "Personal/杂七杂八/记录一次配置静态路由.md",
+    "Tools/Windows下的端口转发.md",
     "Windows.md",
     "Tools/Git.md",
     "Tools/PicGo配置教程.md",
@@ -218,7 +207,6 @@
     "CS Base/组成原理/二进制减法.md",
     "Java/一些核心源码",
     "CS Base/操作系统",
-    "Personal/杂七杂八/Maven相关.md",
     "Java/并发编程",
     "C&Cpp",
     "Books/操作系统导论.pdf",
