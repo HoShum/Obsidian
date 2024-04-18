@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "367a1d4c9cbde314",
+        "id": "c1f32315ecf324f9",
         "type": "tabs",
         "children": [
           {
-            "id": "e1f3c343bc792b00",
+            "id": "2fd5c9f731587536",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/杂七杂八/MySQL映射外网.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/杂七杂八/MySQL映射外网.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/杂七杂八/MySQL映射外网.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/杂七杂八/MySQL映射外网.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,7 +167,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e1f3c343bc792b00",
+  "active": "2fd5c9f731587536",
   "lastOpenFiles": [
     "Personal/杂七杂八/MySQL映射外网.md",
     "Personal/杂七杂八/记录一次配置静态路由.md",
