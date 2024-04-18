@@ -32,6 +32,10 @@
     "Tools": [
       "Tools/工具集.md",
       "Tools/MinIO使用教程.md",
+      "Tools/Git.md",
+      "Tools/Idea相关.md",
+      "Tools/PicGo配置教程.md",
+      "Tools/Windows下的端口转发.md",
       "Tools/attachments"
     ],
     "Books": [
@@ -90,6 +94,13 @@
       "Business/告警业务/告警流程.excalidraw.md",
       "Business/告警业务/数据流图.excalidraw.md",
       "Business/告警业务/整体流程.excalidraw.md"
+    ],
+    "Personal/杂七杂八": [
+      "Personal/杂七杂八/记录一次配置静态路由.md",
+      "Personal/杂七杂八/HomeBrew.md",
+      "Personal/杂七杂八/Maven相关.md",
+      "Personal/杂七杂八/MySQL映射外网.md",
+      "Personal/杂七杂八/开发小记"
     ]
   },
   "actionBarOrder": {},

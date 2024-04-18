@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c1f32315ecf324f9",
+        "id": "08e7894b8a6444f4",
         "type": "tabs",
         "children": [
           {
-            "id": "2fd5c9f731587536",
+            "id": "75202aabfdcb3458",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Windows命令行.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tools/Windows命令行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tools/Windows命令行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tools/Windows命令行.md"
+              }
             }
           },
           {
@@ -167,8 +175,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2fd5c9f731587536",
+  "active": "75202aabfdcb3458",
   "lastOpenFiles": [
+    "Tools/Windows命令行.md",
+    "Tools/attachments/Untitled.loom",
     "Personal/杂七杂八/MySQL映射外网.md",
     "Personal/杂七杂八/记录一次配置静态路由.md",
     "Tools/Windows下的端口转发.md",
@@ -196,7 +206,6 @@
     "Java/常用开发框架/MyBatis/基础说明.md",
     "Java/一些核心源码/ThreadLocal.md",
     "未命名思维导图.md",
-    "CS Base/组成原理/二进制减法.md",
     "Java/一些核心源码",
     "CS Base/操作系统",
     "Java/并发编程",
@@ -204,7 +213,6 @@
     "Books/操作系统导论.pdf",
     "Books/汇编语言.pdf",
     "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
-    "Java/常用开发框架/RPC",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
