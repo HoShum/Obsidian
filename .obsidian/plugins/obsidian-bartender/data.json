@@ -101,6 +101,10 @@
       "Personal/杂七杂八/Maven相关.md",
       "Personal/杂七杂八/MySQL映射外网.md",
       "Personal/杂七杂八/开发小记"
+    ],
+    "CS Base/数据结构与算法/算法思想": [
+      "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
+      "CS Base/数据结构与算法/算法思想/动态规划套路.md"
     ]
   },
   "actionBarOrder": {},
