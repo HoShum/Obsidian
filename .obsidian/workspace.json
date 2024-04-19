@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Git.md",
-                "mode": "source",
+                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Git.md",
+                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Git.md",
+                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Git.md"
+                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md"
               }
             }
           },
@@ -177,13 +177,13 @@
   },
   "active": "75202aabfdcb3458",
   "lastOpenFiles": [
+    "Tools/Git.md",
     "Tools/Windows命令行.md",
     "Tools/attachments/Untitled.loom",
     "Personal/杂七杂八/MySQL映射外网.md",
     "Personal/杂七杂八/记录一次配置静态路由.md",
     "Tools/Windows下的端口转发.md",
     "Windows.md",
-    "Tools/Git.md",
     "Tools/PicGo配置教程.md",
     "Tools/Idea相关.md",
     "Deploy/Linux/Vim教程.md",
