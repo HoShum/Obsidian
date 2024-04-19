@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "08e7894b8a6444f4",
+        "id": "0241e236cb587380",
         "type": "tabs",
         "children": [
           {
-            "id": "75202aabfdcb3458",
+            "id": "3e1b993316027da9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +167,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "75202aabfdcb3458",
+  "active": "3e1b993316027da9",
   "lastOpenFiles": [
+    "CS Base/数据结构与算法/算法思想/动态规划套路.md",
+    "CS Base/数据结构与算法/算法思想/新建 文本文档.txt",
+    "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "Tools/Git.md",
     "Tools/Windows命令行.md",
     "Tools/attachments/Untitled.loom",
@@ -189,7 +184,6 @@
     "Deploy/Linux/Vim教程.md",
     "Java/常用开发框架/MyBatis/核心组件-Executor.md",
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
-    "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/MyBatis/日志整合.md",
     "Books/深入理解Java虚拟机-读书笔记.md",
@@ -205,14 +199,12 @@
     "Java/常用开发框架/Netty/Netty入门学习笔记.md",
     "Java/常用开发框架/MyBatis/基础说明.md",
     "Java/一些核心源码/ThreadLocal.md",
-    "未命名思维导图.md",
     "Java/一些核心源码",
     "CS Base/操作系统",
     "Java/并发编程",
     "C&Cpp",
     "Books/操作系统导论.pdf",
     "Books/汇编语言.pdf",
-    "Books/鸟哥的Linux私房菜/鸟哥的Linux私房菜第四版.pdf",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
