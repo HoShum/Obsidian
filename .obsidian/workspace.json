@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Git.md",
+                "file": "Personal/杂七杂八/Idea相关.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Git.md",
+                "file": "Personal/杂七杂八/Idea相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Git.md",
+                "file": "Personal/杂七杂八/Idea相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Git.md"
+                "file": "Personal/杂七杂八/Idea相关.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   "active": "e8e0349245383d7d",
   "lastOpenFiles": [
     "Tools/Git.md",
+    "Personal/杂七杂八/Idea相关.md",
     "Personal/杂七杂八/记录一次配置静态路由.md",
     "CS Base/数据结构与算法/算法思想/动态规划套路.md",
     "CS Base/数据结构与算法/算法思想/新建 文本文档.txt",
@@ -206,7 +207,6 @@
     "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
     "Java/常用开发框架/Netty/Netty入门学习笔记.md",
     "Java/常用开发框架/MyBatis/基础说明.md",
-    "Java/一些核心源码/ThreadLocal.md",
     "Java/一些核心源码",
     "CS Base/操作系统",
     "Java/并发编程",
