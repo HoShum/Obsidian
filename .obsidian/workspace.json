@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deploy/Linux/常用命令.md",
+                "file": "CS Base/数据结构与算法/算法思想/动态规划套路.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy/Linux/常用命令.md",
+                "file": "CS Base/数据结构与算法/算法思想/动态规划套路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy/Linux/常用命令.md",
+                "file": "CS Base/数据结构与算法/算法思想/动态规划套路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deploy/Linux/常用命令.md"
+                "file": "CS Base/数据结构与算法/算法思想/动态规划套路.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "7d6c494c69bf00cc",
   "lastOpenFiles": [
-    "Java/常用开发框架/MyBatis/工具集.md",
     "Deploy/Linux/常用命令.md",
+    "Java/常用开发框架/MyBatis/工具集.md",
     "Java/常用开发框架/MyBatis/配置文件说明.md",
     "Tools/Markdown语法.md",
     "Personal/杂七杂八/Idea相关.md",
