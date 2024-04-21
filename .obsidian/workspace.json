@@ -11,8 +11,12 @@
             "id": "7d6c494c69bf00cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Deploy/Linux/常用命令.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deploy/Linux/常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deploy/Linux/常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deploy/Linux/常用命令.md"
+              }
             }
           },
           {
@@ -169,6 +177,9 @@
   },
   "active": "7d6c494c69bf00cc",
   "lastOpenFiles": [
+    "Java/常用开发框架/MyBatis/工具集.md",
+    "Deploy/Linux/常用命令.md",
+    "Java/常用开发框架/MyBatis/配置文件说明.md",
     "Tools/Markdown语法.md",
     "Personal/杂七杂八/Idea相关.md",
     "Tools/Git.md",
@@ -196,9 +207,6 @@
     "CS Base/计算机网络/HTTP/图解HTTP-笔记.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
     "TODO/📆TODO.md",
-    "Java/常用开发框架/MyBatis/配置文件说明.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析mapper.xml.md",
-    "Java/常用开发框架/Netty/Netty入门学习笔记.md",
     "Java/一些核心源码",
     "CS Base/操作系统",
     "Java/并发编程",
