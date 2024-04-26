@@ -5,4 +5,8 @@
 - 切换终端：`alt + 3`
 - 关闭Tab：`alt + w`
 - 资源管理器：`ctrl + 1`
-- 
+
+
+## Vim
+VSCode也支持Vim插件，但相比于Idea，它使用JSON来进行设置的，以下是我的配置
+
