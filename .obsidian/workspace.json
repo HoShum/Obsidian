@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5297479488b270f6",
+        "id": "887efbb74b60eb60",
         "type": "tabs",
         "children": [
           {
-            "id": "7d6c494c69bf00cc",
+            "id": "6f46a94fbec6809f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/动态规划套路.md",
+                "file": "CS Base/数据结构与算法/动态规划/354.俄罗斯套娃信封问题.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94d8a0019a5f3042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS Base/数据结构与算法/动态规划/最大子数组和.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/动态规划套路.md",
+                "file": "CS Base/数据结构与算法/动态规划/最大子数组和.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/动态规划套路.md",
+                "file": "CS Base/数据结构与算法/动态规划/最大子数组和.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/动态规划套路.md"
+                "file": "CS Base/数据结构与算法/动态规划/最大子数组和.md"
               }
             }
           },
@@ -175,15 +188,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7d6c494c69bf00cc",
+  "active": "94d8a0019a5f3042",
   "lastOpenFiles": [
+    "CS Base/数据结构与算法/动态规划/354.俄罗斯套娃信封问题.md",
+    "CS Base/数据结构与算法/算法思想/动态规划套路.md",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
     "CS Base/操作系统",
     "CS Base/算法与数据结构",
     "Business/物联网通讯协议",
     "git comimt.md",
-    "CS Base/数据结构与算法/算法思想/动态规划套路.md",
     "Tools/Idea相关.md",
     "Tools/Git.md",
     "Tools/工具集.md",
@@ -212,7 +226,6 @@
     "CS Base/数据结构与算法/算法思想",
     "CS Base/数据结构与算法",
     "Java/一些核心源码",
-    "C&Cpp",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
