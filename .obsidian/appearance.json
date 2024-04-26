@@ -6,8 +6,7 @@
   "enabledCssSnippets": [
     "custom",
     "表格优化",
-    "AnuExtendTheme",
-    "extended-colorschemes"
+    "AnuExtendTheme"
   ],
   "translucency": false,
   "monospaceFontFamily": "",
