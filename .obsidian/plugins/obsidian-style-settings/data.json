@@ -78,15 +78,15 @@
   "yaozhuwa@css@@outline-tweak": false,
   "chime-theme@@theme-settings": "theme-notion",
   "yaozhuwa@css@@table-line-number": false,
-  "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
   "Appearance-light@@accent-color-override-light": false,
-  "Components@@outline-enhanced": false,
+  "Components@@outline-enhanced": true,
   "Plugin@@DB-table-full-width-off": false,
   "Plugin@@colorful-checkbox": false,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": true,
   "Appearance-light@@card-layout-open-light": true,
-  "Appearance-dark@@card-layout-open-dark": false,
-  "Editor@@codeblock-style-select": "codeblock-style-customize",
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Editor@@codeblock-style-select": "codeblock-style-dracula",
   "Editor@@line-hover-indicator": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
@@ -113,5 +113,6 @@
   "custom-diegoeis-obsidianotion@@eis-showing-scrollbar": false,
   "custom-diegoeis-obsidianotion@@eis-with-icons": true,
   "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "none",
-  "id@@headers-one-color": true
+  "id@@headers-one-color": true,
+  "Appearance-light@@card-highlight-light": false
 }

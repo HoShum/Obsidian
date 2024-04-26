@@ -1,14 +1,13 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "Typora-Vue",
+  "cssTheme": "Border",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "custom",
     "表格优化",
     "AnuExtendTheme",
-    "extended-colorschemes",
-    "yaozhuwa@CSS"
+    "extended-colorschemes"
   ],
   "translucency": false,
   "monospaceFontFamily": "",
