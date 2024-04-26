@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "887efbb74b60eb60",
+        "id": "f1b81df7689a469a",
         "type": "tabs",
         "children": [
           {
-            "id": "6f46a94fbec6809f",
+            "id": "84b1a57db306d575",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Base/数据结构与算法/动态规划/354.俄罗斯套娃信封问题.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94d8a0019a5f3042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Base/数据结构与算法/动态规划/最大子数组和.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af0a21b4fbd3cf0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aeddbaad06d31ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,11 +167,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5aeddbaad06d31ec",
+  "active": "84b1a57db306d575",
   "lastOpenFiles": [
-    "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
-    "CS Base/数据结构与算法/动态规划/最大子数组和.md",
+    "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
     "CS Base/数据结构与算法/动态规划/354.俄罗斯套娃信封问题.md",
+    "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
+    "C&Cpp/C程序设计语言-读书笔记.md",
+    "CS Base/数据结构与算法/动态规划/最大子数组和.md",
+    "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
+    "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
     "CS Base/数据结构与算法/算法思想/动态规划套路.md",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
@@ -234,7 +193,6 @@
     "Tools/Markdown语法.md",
     "Personal/杂七杂八/Idea相关.md",
     "CS Base/数据结构与算法/算法思想/新建 文本文档.txt",
-    "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "Tools/Windows命令行.md",
     "Tools/attachments/Untitled.loom",
     "Personal/杂七杂八/MySQL映射外网.md",
@@ -244,9 +202,6 @@
     "Deploy/Linux/Vim教程.md",
     "Java/常用开发框架/MyBatis/核心组件-Executor.md",
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
-    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
-    "Java/常用开发框架/MyBatis/日志整合.md",
-    "Books/深入理解Java虚拟机-读书笔记.md",
     "CS Base/数据结构与算法/算法思想",
     "CS Base/数据结构与算法",
     "Java/一些核心源码",
