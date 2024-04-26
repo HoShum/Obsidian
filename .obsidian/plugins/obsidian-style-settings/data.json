@@ -144,5 +144,6 @@
   "Appearance-light@@input-shadow-light": "rgba(31, 35, 40, 0.04) 0px 1px 0px 0px, inset 0 0 0 1px rgba(31, 35, 40, 0.15)",
   "Appearance-light@@input-shadow-hover-light": "rgba(31, 35, 40, 0.04) 0px 1px 0px 0px, inset 0 0 0 1px rgba(31, 35, 40, 0.15)",
   "Appearance-light@@card-layout-open-light": true,
-  "Appearance-light@@theme-light-style-select": "theme-light-background-old-default"
+  "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
+  "Editor@@p-spacing-br": true
 }
