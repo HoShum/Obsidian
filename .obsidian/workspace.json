@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd0dfb7513a5871",
+        "id": "c9951644d328a7c0",
         "type": "tabs",
         "children": [
           {
-            "id": "8d147903ab6b98b7",
+            "id": "9a4dac32d61a835e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/VSCode工具集.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5c5988e30967b5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/一些核心源码/ThreadLocal.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bd460d3572e0de0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C&Cpp/C程序设计语言-读书笔记.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C&Cpp/C程序设计语言-读书笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C&Cpp/C程序设计语言-读书笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C&Cpp/C程序设计语言-读书笔记.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,10 +167,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4bd460d3572e0de0",
+  "active": "9a4dac32d61a835e",
   "lastOpenFiles": [
-    "Java/一些核心源码/ThreadLocal.md",
     "Tools/VSCode工具集.md",
+    "Java/一些核心源码/ThreadLocal.md",
+    "C&Cpp/C程序设计语言-读书笔记.md",
+    "Tools/MinIO使用教程.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
     "Java/常用开发框架/Spring/IOC/生命周期.md",
     "Java/常用开发框架/Spring/IOC/事件机制.md",
@@ -212,7 +181,6 @@
     "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
     "CS Base/数据结构与算法/动态规划/354.俄罗斯套娃信封问题.md",
     "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
-    "C&Cpp/C程序设计语言-读书笔记.md",
     "CS Base/数据结构与算法/动态规划/最大子数组和.md",
     "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
@@ -233,7 +201,6 @@
     "Tools/Markdown语法.md",
     "Personal/杂七杂八/Idea相关.md",
     "CS Base/数据结构与算法/算法思想/新建 文本文档.txt",
-    "Tools/Windows命令行.md",
     "Tools/attachments/Untitled.loom",
     "CS Base/数据结构与算法/算法思想",
     "CS Base/数据结构与算法",
