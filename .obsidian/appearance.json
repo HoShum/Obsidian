@@ -10,7 +10,7 @@
   ],
   "translucency": false,
   "monospaceFontFamily": "JetBrainsMono NF",
-  "textFontFamily": "Ubuntu",
+  "textFontFamily": "",
   "nativeMenus": true,
   "baseFontSizeAction": false
 }

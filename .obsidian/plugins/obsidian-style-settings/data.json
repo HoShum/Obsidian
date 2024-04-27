@@ -80,7 +80,7 @@
   "yaozhuwa@css@@table-line-number": false,
   "Components@@outline-enhanced": true,
   "Plugin@@DB-table-full-width-off": false,
-  "Plugin@@colorful-checkbox": false,
+  "Plugin@@colorful-checkbox": true,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": true,
   "Appearance-dark@@card-layout-open-dark": true,
   "Editor@@codeblock-style-select": "codeblock-style-dracula",
@@ -144,7 +144,7 @@
   "Appearance-light@@input-shadow-light": "rgba(31, 35, 40, 0.04) 0px 1px 0px 0px, inset 0 0 0 1px rgba(31, 35, 40, 0.15)",
   "Appearance-light@@input-shadow-hover-light": "rgba(31, 35, 40, 0.04) 0px 1px 0px 0px, inset 0 0 0 1px rgba(31, 35, 40, 0.15)",
   "Appearance-light@@card-layout-open-light": true,
-  "Appearance-light@@theme-light-style-select": "theme-light-background-old-default",
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
   "Editor@@p-spacing-br": true,
   "Appearance-dark@@accent-dark": "#8a96e5",
   "Appearance-dark@@accent-color-override-dark": true,
@@ -174,5 +174,8 @@
   "Editor@@h1-divider-on": true,
   "Editor@@h1-color-select": "h1-color-default",
   "Editor@@h1-weight": 900,
-  "Editor@@h1-size": "2.0em"
+  "Editor@@h1-size": "2.0em",
+  "Plugin@@DB-table-bg-color": "DB-table-bg-color-adapt",
+  "Plugin@@Projects-bg-color": "Projects-bg-color-adapt",
+  "Appearance-light@@card-highlight-light": false
 }
