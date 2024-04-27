@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c9951644d328a7c0",
+        "id": "0008c140ea1bcfae",
         "type": "tabs",
         "children": [
           {
-            "id": "9a4dac32d61a835e",
+            "id": "615f7224470d935c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/VSCode工具集.md",
+                "file": "Java/常用开发框架/Spring/IOC/生命周期.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da95395e7f70f5ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/常用开发框架/Spring/IOC/基础功能.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/VSCode工具集.md",
+                "file": "Java/常用开发框架/Spring/IOC/基础功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/VSCode工具集.md",
+                "file": "Java/常用开发框架/Spring/IOC/基础功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/VSCode工具集.md"
+                "file": "Java/常用开发框架/Spring/IOC/基础功能.md"
               }
             }
           },
@@ -175,15 +188,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9a4dac32d61a835e",
+  "active": "da95395e7f70f5ff",
   "lastOpenFiles": [
-    "TODO/📆TODO.md",
+    "Java/常用开发框架/Spring/IOC/生命周期.md",
+    "Java/常用开发框架/Netty/Netty入门学习笔记.md",
+    "Books/深入理解Java虚拟机-读书笔记.md",
+    "Books/WireShark网络分析-读书笔记.md",
     "Tools/VSCode工具集.md",
+    "TODO/📆TODO.md",
     "Java/一些核心源码/ThreadLocal.md",
     "C&Cpp/C程序设计语言-读书笔记.md",
     "Tools/MinIO使用教程.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
-    "Java/常用开发框架/Spring/IOC/生命周期.md",
     "Java/常用开发框架/Spring/IOC/事件机制.md",
     "Java/常用开发框架/Spring/IOC/基础功能.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
@@ -205,9 +221,6 @@
     "Tools/工具集.md",
     "Personal/杂七杂八/记录一次配置静态路由.md",
     "Deploy/Linux/常用命令.md",
-    "Java/常用开发框架/MyBatis/工具集.md",
-    "Java/常用开发框架/MyBatis/配置文件说明.md",
-    "Tools/Markdown语法.md",
     "CS Base/数据结构与算法/算法思想/新建 文本文档.txt",
     "Tools/attachments/Untitled.loom",
     "CS Base/数据结构与算法/算法思想",
