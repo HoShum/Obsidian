@@ -83,7 +83,7 @@
   "Plugin@@colorful-checkbox": false,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": true,
   "Appearance-dark@@card-layout-open-dark": true,
-  "Editor@@codeblock-style-select": "codeblock-style-one-dark",
+  "Editor@@codeblock-style-select": "codeblock-style-dracula",
   "Editor@@line-hover-indicator": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,

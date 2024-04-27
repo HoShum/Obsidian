@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0008c140ea1bcfae",
+        "id": "4dbea316e67cdc90",
         "type": "tabs",
         "children": [
           {
-            "id": "615f7224470d935c",
+            "id": "76b1b2ed9c8de422",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/常用开发框架/Spring/IOC/生命周期.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da95395e7f70f5ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/常用开发框架/Spring/IOC/基础功能.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/Spring/IOC/基础功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/Spring/IOC/基础功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/常用开发框架/Spring/IOC/基础功能.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,20 +167,22 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "da95395e7f70f5ff",
+  "active": "76b1b2ed9c8de422",
   "lastOpenFiles": [
+    "CS Base/组成原理/二进制减法.md",
+    "C&Cpp/C程序设计语言-读书笔记.md",
+    "CS Base/汇编语言/8086/实验篇.md",
     "Java/常用开发框架/Spring/IOC/生命周期.md",
+    "TODO/📆TODO.md",
+    "Java/常用开发框架/Spring/IOC/基础功能.md",
     "Java/常用开发框架/Netty/Netty入门学习笔记.md",
     "Books/深入理解Java虚拟机-读书笔记.md",
     "Books/WireShark网络分析-读书笔记.md",
     "Tools/VSCode工具集.md",
-    "TODO/📆TODO.md",
     "Java/一些核心源码/ThreadLocal.md",
-    "C&Cpp/C程序设计语言-读书笔记.md",
     "Tools/MinIO使用教程.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
     "Java/常用开发框架/Spring/IOC/事件机制.md",
-    "Java/常用开发框架/Spring/IOC/基础功能.md",
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
     "CS Base/数据结构与算法/动态规划/354.俄罗斯套娃信封问题.md",
@@ -219,8 +200,6 @@
     "Tools/Idea相关.md",
     "Tools/Git.md",
     "Tools/工具集.md",
-    "Personal/杂七杂八/记录一次配置静态路由.md",
-    "Deploy/Linux/常用命令.md",
     "CS Base/数据结构与算法/算法思想/新建 文本文档.txt",
     "Tools/attachments/Untitled.loom",
     "CS Base/数据结构与算法/算法思想",
