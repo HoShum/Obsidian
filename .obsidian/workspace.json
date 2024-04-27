@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35e2750592aee6e2",
+        "id": "6f6e1ce30ad32158",
         "type": "tabs",
         "children": [
           {
-            "id": "1036a73ce16324b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca4c8a6b65dc5e9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Base/数据结构与算法/动态规划/354.俄罗斯套娃信封问题.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d0dfedefb672fb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Base/数据结构与算法/动态规划/最大子数组和.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbd53cbc1aebf557",
+            "id": "6d7583d4ab880d85",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,15 +175,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bbd53cbc1aebf557",
+  "active": "6d7583d4ab880d85",
   "lastOpenFiles": [
-    "CS Base/数据结构与算法/动态规划/最大子数组和.md",
-    "CS Base/数据结构与算法/动态规划/354.俄罗斯套娃信封问题.md",
+    "C&Cpp/C程序设计语言-读书笔记.md",
     "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
+    "CS Base/数据结构与算法/动态规划/354.俄罗斯套娃信封问题.md",
+    "CS Base/数据结构与算法/动态规划/最大子数组和.md",
+    "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "CS Base/汇编语言/8086/实验篇.md",
     "CS Base/组成原理/二进制减法.md",
     "Tools/Git.md",
-    "C&Cpp/C程序设计语言-读书笔记.md",
     "Java/常用开发框架/Spring/IOC/生命周期.md",
     "TODO/📆TODO.md",
     "Java/常用开发框架/Spring/IOC/基础功能.md",
@@ -235,7 +199,6 @@
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
     "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
-    "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "CS Base/数据结构与算法/算法思想/动态规划套路.md",
     "Java/常用开发框架/RPC",
     "Java/并发编程",

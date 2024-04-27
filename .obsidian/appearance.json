@@ -1,13 +1,12 @@
 {
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "cssTheme": "Border",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "custom",
     "表格优化",
-    "AnuExtendTheme",
-    "yaozhuwa@CSS"
+    "AnuExtendTheme"
   ],
   "translucency": false,
   "monospaceFontFamily": "",
