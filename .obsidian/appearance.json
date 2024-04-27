@@ -9,8 +9,8 @@
     "AnuExtendTheme"
   ],
   "translucency": false,
-  "monospaceFontFamily": "",
-  "textFontFamily": "",
+  "monospaceFontFamily": "JetBrainsMono NF",
+  "textFontFamily": "Ubuntu",
   "nativeMenus": true,
   "baseFontSizeAction": false
 }
