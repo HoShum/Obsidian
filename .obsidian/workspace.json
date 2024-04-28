@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6f6e1ce30ad32158",
+        "id": "6d665ede2f4a378f",
         "type": "tabs",
         "children": [
           {
-            "id": "6d7583d4ab880d85",
+            "id": "3a3c293b2a5a2fd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS Base/数据结构与算法/算法思想/浅谈动态规划.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,13 +167,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6d7583d4ab880d85",
+  "active": "3a3c293b2a5a2fd0",
   "lastOpenFiles": [
+    "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "C&Cpp/C程序设计语言-读书笔记.md",
     "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
     "CS Base/数据结构与算法/动态规划/354.俄罗斯套娃信封问题.md",
     "CS Base/数据结构与算法/动态规划/最大子数组和.md",
-    "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "CS Base/汇编语言/8086/实验篇.md",
     "CS Base/组成原理/二进制减法.md",
     "Tools/Git.md",
