@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d665ede2f4a378f",
+        "id": "61b573de62eef339",
         "type": "tabs",
         "children": [
           {
-            "id": "3a3c293b2a5a2fd0",
+            "id": "2759a30617d0d767",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,8 +167,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3a3c293b2a5a2fd0",
+  "active": "2759a30617d0d767",
   "lastOpenFiles": [
+    "Personal/杂七杂八/NVim相关.md",
     "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "C&Cpp/C程序设计语言-读书笔记.md",
     "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
@@ -199,7 +200,6 @@
     "Business/物联网通讯协议",
     "git comimt.md",
     "Tools/Idea相关.md",
-    "Tools/工具集.md",
     "CS Base/数据结构与算法/算法思想/新建 文本文档.txt",
     "Tools/attachments/Untitled.loom",
     "CS Base/数据结构与算法/算法思想",
