@@ -11,8 +11,12 @@
             "id": "2759a30617d0d767",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Deploy/Linux/常用命令.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deploy/Linux/常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deploy/Linux/常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deploy/Linux/常用命令.md"
+              }
             }
           },
           {
@@ -169,6 +177,8 @@
   },
   "active": "2759a30617d0d767",
   "lastOpenFiles": [
+    "Tools/远程开发.md",
+    "Tools/配置Ubuntu.md",
     "Personal/杂七杂八/NVim相关.md",
     "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "C&Cpp/C程序设计语言-读书笔记.md",
@@ -198,8 +208,6 @@
     "CS Base/操作系统",
     "CS Base/算法与数据结构",
     "Business/物联网通讯协议",
-    "git comimt.md",
-    "Tools/Idea相关.md",
     "CS Base/数据结构与算法/算法思想/新建 文本文档.txt",
     "Tools/attachments/Untitled.loom",
     "CS Base/数据结构与算法/算法思想",
