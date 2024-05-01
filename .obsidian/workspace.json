@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "61b573de62eef339",
+        "id": "9f355c85ea987f95",
         "type": "tabs",
         "children": [
           {
-            "id": "2759a30617d0d767",
+            "id": "259c9e293b26eb87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deploy/Linux/常用命令.md",
+                "file": "Java/常用开发框架/Spring/IOC/基础功能.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a86863ddc10d409b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/一些核心源码/ThreadLocal.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy/Linux/常用命令.md",
+                "file": "Java/一些核心源码/ThreadLocal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy/Linux/常用命令.md",
+                "file": "Java/一些核心源码/ThreadLocal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deploy/Linux/常用命令.md"
+                "file": "Java/一些核心源码/ThreadLocal.md"
               }
             }
           },
@@ -175,8 +188,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2759a30617d0d767",
+  "active": "a86863ddc10d409b",
   "lastOpenFiles": [
+    "Java/常用开发框架/Spring/IOC/基础功能.md",
+    "Deploy/Linux/常用命令.md",
+    "Java/常用开发框架/Spring/IOC/生命周期.md",
     "Tools/远程开发.md",
     "Tools/配置Ubuntu.md",
     "Personal/杂七杂八/NVim相关.md",
@@ -188,9 +204,7 @@
     "CS Base/汇编语言/8086/实验篇.md",
     "CS Base/组成原理/二进制减法.md",
     "Tools/Git.md",
-    "Java/常用开发框架/Spring/IOC/生命周期.md",
     "TODO/📆TODO.md",
-    "Java/常用开发框架/Spring/IOC/基础功能.md",
     "Java/常用开发框架/Netty/Netty入门学习笔记.md",
     "Books/深入理解Java虚拟机-读书笔记.md",
     "Books/WireShark网络分析-读书笔记.md",
@@ -202,7 +216,6 @@
     "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/SpringCloud/SpringCloud快速使用笔记.md",
     "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
-    "CS Base/数据结构与算法/算法思想/动态规划套路.md",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
     "CS Base/操作系统",
