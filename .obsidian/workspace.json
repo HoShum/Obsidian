@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/杂七杂八/MySQL映射外网.md",
+                "file": "Personal/杂七杂八/Spring相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/杂七杂八/MySQL映射外网.md",
+                "file": "Personal/杂七杂八/Spring相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/杂七杂八/MySQL映射外网.md"
+                "file": "Personal/杂七杂八/Spring相关.md"
               }
             }
           },
@@ -224,11 +223,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3c9939e426f245b7",
+  "active": "a72c0d63650beeb9",
   "lastOpenFiles": [
-    "Personal/杂七杂八/Maven相关.md",
-    "Personal/杂七杂八/HomeBrew.md",
     "Personal/杂七杂八/记录一次配置静态路由.md",
+    "Personal/杂七杂八/HomeBrew.md",
+    "Personal/杂七杂八/Maven相关.md",
+    "Personal/杂七杂八/MySQL映射外网.md",
+    "Personal/杂七杂八/NVim相关.md",
     "Personal/杂七杂八/Spring相关.md",
     "Deploy/Docker/Docker基础.md",
     "Tools/MinIO使用教程.md",
@@ -242,7 +243,6 @@
     "Java/常用开发框架/Spring/IOC/生命周期.md",
     "Tools/远程开发.md",
     "Tools/配置Ubuntu.md",
-    "Personal/杂七杂八/NVim相关.md",
     "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
     "C&Cpp/C程序设计语言-读书笔记.md",
     "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
@@ -251,7 +251,6 @@
     "CS Base/汇编语言/8086/实验篇.md",
     "CS Base/组成原理/二进制减法.md",
     "Tools/Git.md",
-    "Java/常用开发框架/Netty/Netty入门学习笔记.md",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
     "CS Base/操作系统",
