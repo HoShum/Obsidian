@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d48b3bf02da499c",
+        "id": "4a9578338531d8b9",
         "type": "tabs",
         "children": [
           {
-            "id": "4211caa2f066d1d6",
+            "id": "601f2f4646f0cd55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/杂七杂八/Idea相关.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/杂七杂八/Idea相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/杂七杂八/Idea相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/杂七杂八/Idea相关.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +167,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4211caa2f066d1d6",
+  "active": "601f2f4646f0cd55",
   "lastOpenFiles": [
-    "Tools/Idea工具笔记.md",
     "Personal/杂七杂八/Idea相关.md",
+    "Tools/Idea工具笔记.md",
     "Java/常用开发框架/Spring/IOC/基础功能.md",
     "Tools/Markdown语法.md",
     "Java/一些核心源码/ThreadLocal.md",
