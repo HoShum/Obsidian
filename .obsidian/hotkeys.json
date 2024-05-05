@@ -27,12 +27,6 @@
   "workspace:close": [
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "W"
-    },
-    {
-      "modifiers": [
         "Alt"
       ],
       "key": "W"

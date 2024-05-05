@@ -10,3 +10,4 @@
 2. 右键 -> Content -> Add Class to Diagram，将`Advisor`这个接口添加进来
 3. 右键 -> Content -> Show Dependencies
 4. 由于Advisor中的一个方法是获取Advice，因此还需要展示方法，右键 -> Content -> Show Categories -> Methods
+

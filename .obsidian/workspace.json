@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9f355c85ea987f95",
+        "id": "5d48b3bf02da499c",
         "type": "tabs",
         "children": [
           {
-            "id": "259c9e293b26eb87",
+            "id": "4211caa2f066d1d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/常用开发框架/Spring/IOC/基础功能.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aac332bbd3e22199",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Idea工具笔记.md",
+                "file": "Personal/杂七杂八/Idea相关.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Idea工具笔记.md",
+                "file": "Personal/杂七杂八/Idea相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Idea工具笔记.md",
+                "file": "Personal/杂七杂八/Idea相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Idea工具笔记.md"
+                "file": "Personal/杂七杂八/Idea相关.md"
               }
             }
           },
@@ -188,11 +175,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "aac332bbd3e22199",
+  "active": "4211caa2f066d1d6",
   "lastOpenFiles": [
-    "Java/常用开发框架/Spring/IOC/基础功能.md",
-    "Personal/杂七杂八/Idea相关.md",
     "Tools/Idea工具笔记.md",
+    "Personal/杂七杂八/Idea相关.md",
+    "Java/常用开发框架/Spring/IOC/基础功能.md",
+    "Tools/Markdown语法.md",
     "Java/一些核心源码/ThreadLocal.md",
     "Deploy/Linux/常用命令.md",
     "Java/常用开发框架/Spring/IOC/生命周期.md",
@@ -215,7 +203,6 @@
     "Tools/MinIO使用教程.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
     "Java/常用开发框架/Spring/IOC/事件机制.md",
-    "Java/常用开发框架/MyBatis/生命周期-加载与解析配置文件.md",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
     "CS Base/操作系统",
