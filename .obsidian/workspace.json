@@ -4,18 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "4a9578338531d8b9",
+        "id": "9c1ec47abcb4662e",
         "type": "tabs",
         "children": [
           {
-            "id": "601f2f4646f0cd55",
+            "id": "a72c0d63650beeb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/杂七杂八/Spring相关.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e23c0cb6ef36eaba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/杂七杂八/记录一次配置静态路由.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b78b53f899ed911e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/杂七杂八/HomeBrew.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acfa6d704c3b499a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/杂七杂八/Maven相关.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c9939e426f245b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/杂七杂八/MySQL映射外网.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -95,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/杂七杂八/MySQL映射外网.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/杂七杂八/MySQL映射外网.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/杂七杂八/MySQL映射外网.md"
+              }
             }
           },
           {
@@ -167,8 +224,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "601f2f4646f0cd55",
+  "active": "3c9939e426f245b7",
   "lastOpenFiles": [
+    "Personal/杂七杂八/Maven相关.md",
+    "Personal/杂七杂八/HomeBrew.md",
+    "Personal/杂七杂八/记录一次配置静态路由.md",
+    "Personal/杂七杂八/Spring相关.md",
+    "Deploy/Docker/Docker基础.md",
+    "Tools/MinIO使用教程.md",
+    "TODO/📆TODO.md",
     "Personal/杂七杂八/Idea相关.md",
     "Tools/Idea工具笔记.md",
     "Java/常用开发框架/Spring/IOC/基础功能.md",
@@ -187,14 +251,7 @@
     "CS Base/汇编语言/8086/实验篇.md",
     "CS Base/组成原理/二进制减法.md",
     "Tools/Git.md",
-    "TODO/📆TODO.md",
     "Java/常用开发框架/Netty/Netty入门学习笔记.md",
-    "Books/深入理解Java虚拟机-读书笔记.md",
-    "Books/WireShark网络分析-读书笔记.md",
-    "Tools/VSCode工具集.md",
-    "Tools/MinIO使用教程.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
-    "Java/常用开发框架/Spring/IOC/事件机制.md",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
     "CS Base/操作系统",
