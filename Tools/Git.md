@@ -1,7 +1,7 @@
 #Git
 # Git实用笔记
 本文档记录一些Git相关的常用的操作
-## Git Stash
+## git stash
 ### 原理
 Git Stash相当于一个Git提供用来缓存修改的工具，搭配回退等操作，非常好用；它的原理是将本地没提交的内容（**包含工作区和暂存区**）缓存起来，并从当前分支移除（**即恢复到当前HEAD指针指向的状态**），缓存的数据结构为先进后出的**栈结构**
 注意：该命令只会对被Git管理的文件有效！
@@ -21,7 +21,7 @@ Git Stash相当于一个Git提供用来缓存修改的工具，搭配回退等�
 有两种方式
 ① `git stash drop 0` 或者`git stash drop 'stash@{0}'` 该命令可以指定删除某个缓存
 ② `git stash clear` 该命令会清空所有缓存
-## Git Branch
+## git branch
 ### 基本操作
 `git branch 分支名` 可以创建一个分支
 `git checkout 分支名` 可以切换一个分支
@@ -36,11 +36,15 @@ Git Stash相当于一个Git提供用来缓存修改的工具，搭配回退等�
 如果我们希望可以创建一支全新的分支，不会保留任何历史记录，此时就可以使用`git checkout --orphan newBranch`来创建一个孤儿分支，此时你会发现使用`git log`会没有任何提交记录
 你可以把这支分支上的所有内容都删除掉，然后再提交新的内容
 这支分支会和原来的分支没有任何关系
-## Git Remote
+## git rm
+这个命令可以用来清除工作目录中的内容，比如像上面那样，创建了一支孤儿分支，需要清理所有内容然后重新提交，就可以使用以下命令
+- `git rm -rf *`：清理工作目录下所有内容
+- `git clean -fdx`：删除所有未被跟踪的文件和目录（包括被忽略的），其中d属性表示整个目录，x表示被忽略的
+## git remote
 该命令主要用来管理远端地址，常用的有以下：
 `git remote -v`可以用来查看远端地址
 `git remote add origin xxx` 用来添加远端仓库，注意，这个origin是仓库别名，可以自定义
-## Git Ignore
+## git ignore
 ### 排除忽略文件
 如果已经把.gitignore文件提交到远程仓库，此时如果本地需要把那些之前被忽略的文件重新加入到Git管理的话，可以使用以下命令：
 * `git add -f 文件名/文件路径` ：添加指定的文件或文件路径
@@ -73,7 +77,7 @@ Git Stash相当于一个Git提供用来缓存修改的工具，搭配回退等�
     - `*.log` 忽略所有以 `.log` 结尾的文件。
     - `config/*.json` 忽略 `config/` 目录下所有 `.json` 结尾的文件，不会影响其他目录下的 `.json` 文件。
     - `**/*.bak` 忽略所有目录下的以 `.bak` 结尾的文件。
-## Git Config
+## git config
 该命令用来查看Git的配置信息
 所有的配置项都会保存到一个叫`.gitconfig`文件中，只是位置不同，跟**范围参数**有关
 * local：当前仓库，保存到当前仓库
@@ -90,7 +94,7 @@ Git Stash相当于一个Git提供用来缓存修改的工具，搭配回退等�
 * `git config --edit`：进行配置信息的编辑
 * `git config key value`：修改/新增配置，比如使用`git config http.proxy http://localhost:7890`
 
-## Git Tag
+## git tag
 该功能是用来打标签
 ### 打标签
 `git tag {tagName}`：针对当前提交版本打标签
