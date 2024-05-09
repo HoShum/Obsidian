@@ -25,7 +25,7 @@ Git Stash相当于一个Git提供用来缓存修改的工具，搭配回退等�
 ### 基本操作
 `git branch 分支名` 可以创建一个分支
 `git checkout 分支名` 可以切换一个分支
-`git branch -d 分支名` 可以删除一个分支
+`git branch -d 分支名` 可以删除一个分支，如果要强制删除，可以使用`-D`参数，会把未合并的内容也删除
 `git push origin --delete 分支名` 可以删除远端一个分支
 `git pull origin 分支名` 可以拉取一个远端的分支，但前提是你本地要先切换到这个分支
 ### 本地拉取不同分支
