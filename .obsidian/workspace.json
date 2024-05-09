@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/杂七杂八/Spring相关.md",
-                "mode": "source",
+                "file": "Tools/Git.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/杂七杂八/Spring相关.md",
+                "file": "Tools/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/杂七杂八/Spring相关.md",
+                "file": "Tools/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/杂七杂八/Spring相关.md"
+                "file": "Tools/Git.md"
               }
             }
           },
@@ -225,12 +225,12 @@
   },
   "active": "a72c0d63650beeb9",
   "lastOpenFiles": [
+    "Personal/杂七杂八/Spring相关.md",
     "Personal/杂七杂八/记录一次配置静态路由.md",
     "Personal/杂七杂八/HomeBrew.md",
     "Personal/杂七杂八/Maven相关.md",
     "Personal/杂七杂八/MySQL映射外网.md",
     "Personal/杂七杂八/NVim相关.md",
-    "Personal/杂七杂八/Spring相关.md",
     "Deploy/Docker/Docker基础.md",
     "Tools/MinIO使用教程.md",
     "TODO/📆TODO.md",
