@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9c1ec47abcb4662e",
+        "id": "349f772d44b9fad6",
         "type": "tabs",
         "children": [
           {
-            "id": "a72c0d63650beeb9",
+            "id": "d6fea2cc3170e3ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3742b627b4779b2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/MySQL/BufferPool.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "701f1232c8e1e838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/一些核心源码/ThreadLocal.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "853b56d49ee38646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/开发相关/数据源切换失效分析.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/开发相关/数据源切换失效分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/开发相关/数据源切换失效分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/开发相关/数据源切换失效分析.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,11 +167,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "853b56d49ee38646",
+  "active": "d6fea2cc3170e3ab",
   "lastOpenFiles": [
-    "Java/一些核心源码/ThreadLocal.md",
-    "DataBase/MySQL/BufferPool.md",
     "Tools/Git.md",
+    "Java/常用开发框架/MyBatis/日志整合.md",
+    "Java/常用开发框架/MyBatis/缓存机制.md",
+    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
+    "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
+    "Java/常用开发框架/MyBatis/工具集.md",
+    "Java/常用开发框架/MyBatis/配置文件说明.md",
+    "Java/常用开发框架/MyBatis/基础说明.md",
+    "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
+    "DataBase/MySQL/BufferPool.md",
+    "Java/一些核心源码/ThreadLocal.md",
+    "Java/开发相关/数据源切换失效分析.md",
+    "Java/常用开发框架/MyBatis/插件.md",
     "Personal/杂七杂八/记录一次配置静态路由.md",
     "Personal/杂七杂八/HomeBrew.md",
     "Personal/杂七杂八/Maven相关.md",
@@ -231,15 +196,6 @@
     "Java/常用开发框架/Spring/IOC/基础功能.md",
     "Tools/Markdown语法.md",
     "Deploy/Linux/常用命令.md",
-    "Java/常用开发框架/Spring/IOC/生命周期.md",
-    "Tools/远程开发.md",
-    "Tools/配置Ubuntu.md",
-    "CS Base/数据结构与算法/算法思想/浅谈动态规划.md",
-    "C&Cpp/C程序设计语言-读书笔记.md",
-    "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
-    "CS Base/数据结构与算法/动态规划/354.俄罗斯套娃信封问题.md",
-    "CS Base/数据结构与算法/动态规划/最大子数组和.md",
-    "CS Base/汇编语言/8086/实验篇.md",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
     "CS Base/操作系统",
@@ -250,7 +206,6 @@
     "CS Base/数据结构与算法/算法思想",
     "CS Base/数据结构与算法",
     "Java/一些核心源码",
-    "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
     "Excalidraw/attachments/Pasted Image 20240202094338_932.png",

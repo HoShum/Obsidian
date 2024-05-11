@@ -181,5 +181,6 @@
   "minimal-style@@minimal-code-scroll": true,
   "minimal-advanced@@hide-markdown": false,
   "minimal-advanced@@cursor": "default",
-  "Components@@tab-autohide": false
+  "Components@@tab-autohide": false,
+  "Editor@@text-align-justify": false
 }
