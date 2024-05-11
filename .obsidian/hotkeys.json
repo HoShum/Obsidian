@@ -57,5 +57,14 @@
       ],
       "key": "R"
     }
+  ],
+  "workspace:close-window": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
   ]
 }
