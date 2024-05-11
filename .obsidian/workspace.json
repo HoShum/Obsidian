@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3742b627b4779b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/MySQL/BufferPool.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "701f1232c8e1e838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/一些核心源码/ThreadLocal.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "853b56d49ee38646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/开发相关/数据源切换失效分析.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Git.md",
+                "file": "Java/开发相关/数据源切换失效分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Git.md",
+                "file": "Java/开发相关/数据源切换失效分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Git.md"
+                "file": "Java/开发相关/数据源切换失效分析.md"
               }
             }
           },
@@ -175,13 +212,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a72c0d63650beeb9",
+  "active": "853b56d49ee38646",
   "lastOpenFiles": [
+    "Java/一些核心源码/ThreadLocal.md",
+    "DataBase/MySQL/BufferPool.md",
+    "Tools/Git.md",
     "Personal/杂七杂八/记录一次配置静态路由.md",
     "Personal/杂七杂八/HomeBrew.md",
     "Personal/杂七杂八/Maven相关.md",
     "Personal/杂七杂八/MySQL映射外网.md",
-    "Tools/Git.md",
     "Personal/杂七杂八/Spring相关.md",
     "Personal/杂七杂八/NVim相关.md",
     "Deploy/Docker/Docker基础.md",
@@ -191,7 +230,6 @@
     "Tools/Idea工具笔记.md",
     "Java/常用开发框架/Spring/IOC/基础功能.md",
     "Tools/Markdown语法.md",
-    "Java/一些核心源码/ThreadLocal.md",
     "Deploy/Linux/常用命令.md",
     "Java/常用开发框架/Spring/IOC/生命周期.md",
     "Tools/远程开发.md",
@@ -202,7 +240,6 @@
     "CS Base/数据结构与算法/动态规划/354.俄罗斯套娃信封问题.md",
     "CS Base/数据结构与算法/动态规划/最大子数组和.md",
     "CS Base/汇编语言/8086/实验篇.md",
-    "CS Base/组成原理/二进制减法.md",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
     "CS Base/操作系统",
