@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1f749bcacd04fa6c",
+        "id": "939534cc9a694171",
         "type": "tabs",
         "children": [
           {
-            "id": "4b5dea8a658378d2",
+            "id": "bbb6090148dbe3cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/常用开发框架/MyBatis/基础说明.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/常用开发框架/MyBatis/基础说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/常用开发框架/MyBatis/基础说明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/常用开发框架/MyBatis/基础说明.md"
+              }
             }
           },
           {
@@ -167,35 +175,35 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4b5dea8a658378d2",
+  "active": "bbb6090148dbe3cc",
   "lastOpenFiles": [
+    "Java/常用开发框架/MyBatis/基础说明.md",
+    "Java/常用开发框架/MyBatis/配置文件说明.md",
+    "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
+    "Java/常用开发框架/MyBatis/核心组件-Configuration.md",
+    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
+    "Java/常用开发框架/MyBatis/日志整合.md",
+    "Deploy/Linux/文件与目录.md",
+    "Deploy/Linux/文本与阅读.md",
+    "Personal/杂七杂八/MySQL映射外网.md",
+    "Deploy/Docker/Docker基础.md",
+    "Deploy/Linux/常用命令.md",
+    "Deploy/Linux/系统服务.md",
+    "Personal/杂七杂八/踩过的坑.md",
+    "Personal/杂七杂八/Idea相关.md",
+    "Personal/杂七杂八/NVim相关.md",
+    "Personal/杂七杂八/记录一次配置静态路由.md",
+    "Personal/杂七杂八/Maven相关.md",
+    "Personal/杂七杂八/开发小记/ChainFlow.md",
+    "Design/设计模式/观察者模式.md",
     "TODO/📆TODO.md",
     "Java/常用开发框架/MyBatis/工具集.md",
     "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
-    "Java/常用开发框架/MyBatis/日志整合.md",
     "Java/常用开发框架/MyBatis/缓存机制.md",
-    "Java/常用开发框架/MyBatis/基础说明.md",
-    "Java/常用开发框架/MyBatis/配置文件说明.md",
     "Tools/Git.md",
-    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
-    "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "DataBase/MySQL/BufferPool.md",
-    "Java/一些核心源码/ThreadLocal.md",
-    "Java/开发相关/数据源切换失效分析.md",
-    "Java/常用开发框架/MyBatis/插件.md",
-    "Personal/杂七杂八/记录一次配置静态路由.md",
-    "Personal/杂七杂八/HomeBrew.md",
-    "Personal/杂七杂八/Maven相关.md",
-    "Personal/杂七杂八/MySQL映射外网.md",
-    "Personal/杂七杂八/Spring相关.md",
-    "Personal/杂七杂八/NVim相关.md",
-    "Deploy/Docker/Docker基础.md",
-    "Tools/MinIO使用教程.md",
-    "Personal/杂七杂八/Idea相关.md",
-    "Tools/Idea工具笔记.md",
-    "Java/常用开发框架/Spring/IOC/基础功能.md",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
     "CS Base/操作系统",
