@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b0f16f3b24d4bbb1",
+        "id": "8731d0cabb700c81",
         "type": "tabs",
         "children": [
           {
-            "id": "128cc556b2848472",
+            "id": "4ae0720a30c392b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/杂七杂八/未命名.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/杂七杂八/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/杂七杂八/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/杂七杂八/未命名.md"
+              }
             }
           },
           {
@@ -167,8 +175,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "128cc556b2848472",
+  "active": "4ae0720a30c392b3",
   "lastOpenFiles": [
+    "Personal/杂七杂八/未命名.md",
     "CS Base/汇编语言/8086/实验篇.md",
     "CS Base/组成原理/位运算.md",
     "CS Base/组成原理/二进制减法.md",
@@ -194,7 +203,6 @@
     "Business/告警业务/数据流图.excalidraw.md",
     "Business/告警业务/整体流程.excalidraw.md",
     "Business/告警业务/告警流程.excalidraw.md",
-    "Java/常用开发框架/MyBatis/基础说明.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
