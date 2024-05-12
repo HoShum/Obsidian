@@ -182,5 +182,6 @@
   "minimal-advanced@@hide-markdown": false,
   "minimal-advanced@@cursor": "default",
   "Components@@tab-autohide": false,
-  "Editor@@text-align-justify": false
+  "Editor@@text-align-justify": false,
+  "Editor@@callout-style-select": "callout-style-customize"
 }

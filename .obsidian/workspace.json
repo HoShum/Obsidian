@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "349f772d44b9fad6",
+        "id": "1f749bcacd04fa6c",
         "type": "tabs",
         "children": [
           {
-            "id": "d6fea2cc3170e3ab",
+            "id": "4b5dea8a658378d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/📆TODO.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ffb81890b63d75f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/常用开发框架/MyBatis/工具集.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c66fda345591b02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/常用开发框架/MyBatis/日志整合.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6aa5662543cfeee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/常用开发框架/MyBatis/缓存机制.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/缓存机制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/常用开发框架/MyBatis/缓存机制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/常用开发框架/MyBatis/缓存机制.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,14 +167,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e6aa5662543cfeee",
+  "active": "4b5dea8a658378d2",
   "lastOpenFiles": [
-    "Java/常用开发框架/MyBatis/基础说明.md",
-    "Java/常用开发框架/MyBatis/缓存机制.md",
-    "Java/常用开发框架/MyBatis/配置文件说明.md",
-    "Java/常用开发框架/MyBatis/日志整合.md",
-    "Java/常用开发框架/MyBatis/工具集.md",
     "TODO/📆TODO.md",
+    "Java/常用开发框架/MyBatis/工具集.md",
+    "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
+    "Java/常用开发框架/MyBatis/日志整合.md",
+    "Java/常用开发框架/MyBatis/缓存机制.md",
+    "Java/常用开发框架/MyBatis/基础说明.md",
+    "Java/常用开发框架/MyBatis/配置文件说明.md",
     "Tools/Git.md",
     "Java/常用开发框架/MyBatis/核心组件-Executor.md",
     "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
@@ -239,8 +196,6 @@
     "Personal/杂七杂八/Idea相关.md",
     "Tools/Idea工具笔记.md",
     "Java/常用开发框架/Spring/IOC/基础功能.md",
-    "Tools/Markdown语法.md",
-    "Deploy/Linux/常用命令.md",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
     "CS Base/操作系统",
