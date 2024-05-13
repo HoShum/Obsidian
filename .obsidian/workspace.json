@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5111c03e410c337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Git.md",
+                "file": "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Git.md",
+                "file": "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Git.md"
+                "file": "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md"
               }
             }
           },
@@ -175,8 +188,9 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4ae0720a30c392b3",
+  "active": "c5111c03e410c337",
   "lastOpenFiles": [
+    "Tools/Git.md",
     "Personal/杂七杂八/Windows开放局域网端口.md",
     "CS Base/汇编语言/8086/实验篇.md",
     "CS Base/组成原理/位运算.md",
@@ -194,7 +208,6 @@
     "Deploy/Linux/Vim教程.md",
     "Deploy/Linux/遇到的问题记录.md",
     "Deploy/Linux/文件与目录.md",
-    "Tools/Git.md",
     "Deploy/Linux/文本与阅读.md",
     "Deploy/Linux/系统服务.md",
     "Deploy/Linux/常用命令.md",
