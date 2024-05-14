@@ -11,8 +11,12 @@
             "id": "fa57e3142a9e29b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-05-14.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-05-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-05-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-05-14.md"
+              }
             }
           }
         ],
@@ -174,7 +182,7 @@
       "hidden-folder-obsidian:隐藏文件夹": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "fa57e3142a9e29b6",
   "lastOpenFiles": [
     "Daily/2024-05-14.md",
     "template/DailyPlanTemplate.md",
