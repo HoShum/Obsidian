@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4063d557d14dc0d6",
+        "id": "8a4262b6e8e9c99a",
         "type": "tabs",
         "children": [
           {
-            "id": "7cb97b59ca3e5151",
+            "id": "fa57e3142a9e29b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/开发小记/一些小技巧.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/开发小记/一些小技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/开发小记/一些小技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +132,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/开发小记/一些小技巧.md"
-              }
+              "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "66b638708f358f51",
+        "type": "tabs",
+        "children": [
           {
             "id": "6b9dde6cf1900896",
             "type": "leaf",
@@ -151,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,13 +170,22 @@
       "local-backup:Run local backup": false,
       "notion-like-tables:Create loom": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Thino": false,
+      "hidden-folder-obsidian:隐藏文件夹": false
     }
   },
-  "active": "7cb97b59ca3e5151",
+  "active": "56e69b5d6c93f43d",
   "lastOpenFiles": [
-    "Memo/2024-01-22.md",
+    "Daily/2024-05-14.md",
+    "template/DailyPlanTemplate.md",
+    "template",
+    "Memo",
     "Personal/开发小记/一些小技巧.md",
+    "新建文件夹",
+    "TODO/📆TODO.md",
+    "Daily",
+    "D",
+    "Memo/2024-01-22.md",
     "Personal/开发小记",
     "Personal/杂七杂八/Spring相关.md",
     "Personal/杂七杂八/Idea相关.md",
@@ -201,19 +208,11 @@
     "CS Base/汇编语言/8086/实验篇.md",
     "Personal/杂七杂八/Windows开放局域网端口.md",
     "CS Base/组成原理/位运算.md",
-    "CS Base/组成原理/二进制减法.md",
-    "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
-    "Project/抹茶项目/用户模块.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
     "CS Base/操作系统",
     "CS Base/算法与数据结构",
-    "Business/物联网通讯协议",
-    "CS Base/数据结构与算法/算法思想/新建 文本文档.txt",
-    "Tools/attachments/Untitled.loom",
-    "CS Base/数据结构与算法/算法思想",
-    "CS Base/数据结构与算法",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
     "Excalidraw/attachments/Pasted Image 20240202094338_932.png",

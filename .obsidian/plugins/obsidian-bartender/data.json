@@ -24,10 +24,12 @@
       "Books",
       "Tools",
       "Personal",
+      "Daily",
       "TODO",
-      "Kanban",
       "Memo",
-      "Excalidraw"
+      "Kanban",
+      "Excalidraw",
+      "template"
     ],
     "Tools": [
       "Tools/工具集.md",

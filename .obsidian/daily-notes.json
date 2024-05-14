@@ -1,3 +1,5 @@
 {
-  "folder": "Memo"
+  "folder": "Daily",
+  "template": "template/DailyPlanTemplate",
+  "autorun": true
 }
