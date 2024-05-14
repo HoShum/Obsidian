@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "14ab28682a3b4947",
+        "id": "fa316117cbb641a2",
         "type": "tabs",
         "children": [
           {
-            "id": "d898b9bc516f7f68",
+            "id": "98677fd901441b8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/MySQL/BufferPool.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7793de3d4b2c6834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/一些核心源码/ThreadLocal.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2056a3f04d2f41bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/开发相关/数据源切换失效分析.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/开发相关/数据源切换失效分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/开发相关/数据源切换失效分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/开发相关/数据源切换失效分析.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,10 +167,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2056a3f04d2f41bf",
+  "active": "98677fd901441b8e",
   "lastOpenFiles": [
-    "Java/一些核心源码/ThreadLocal.md",
     "DataBase/MySQL/BufferPool.md",
+    "Java/一些核心源码/ThreadLocal.md",
+    "Java/开发相关/数据源切换失效分析.md",
     "C&Cpp/C程序设计语言-读书笔记.md",
     "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
     "Deploy/Docker/Docker基础.md",
@@ -227,7 +195,6 @@
     "Java/常用开发框架/Spring/IOC/assests/类关系思维导图.md",
     "DataBase/MySQL/Undo日志.md",
     "Deploy/Linux/文本与阅读.md",
-    "Project/抹茶项目/WebSocket模块.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
