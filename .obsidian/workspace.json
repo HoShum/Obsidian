@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fa316117cbb641a2",
+        "id": "4063d557d14dc0d6",
         "type": "tabs",
         "children": [
           {
-            "id": "98677fd901441b8e",
+            "id": "7cb97b59ca3e5151",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/开发小记/一些小技巧.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/开发小记/一些小技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/开发小记/一些小技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/开发小记/一些小技巧.md"
+              }
             }
           },
           {
@@ -167,8 +175,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "98677fd901441b8e",
+  "active": "7cb97b59ca3e5151",
   "lastOpenFiles": [
+    "Memo/2024-01-22.md",
+    "Personal/开发小记/一些小技巧.md",
+    "Personal/开发小记",
+    "Personal/杂七杂八/Spring相关.md",
+    "Personal/杂七杂八/Idea相关.md",
+    "Personal/杂七杂八/踩过的坑.md",
+    "Personal/杂七杂八/记录一次配置静态路由.md",
+    "Personal/杂七杂八/NVim相关.md",
     "DataBase/MySQL/BufferPool.md",
     "Java/一些核心源码/ThreadLocal.md",
     "Java/开发相关/数据源切换失效分析.md",
@@ -188,13 +204,6 @@
     "CS Base/组成原理/二进制减法.md",
     "Java/常用开发框架/Spring/IOC/IOC与Spring.md",
     "Project/抹茶项目/用户模块.md",
-    "Java/常用开发框架/Netty/Netty入门学习笔记.md",
-    "Java/常用开发框架/Spring/IOC/生命周期.md",
-    "Java/常用开发框架/Spring/IOC/事件机制.md",
-    "Java/常用开发框架/Spring/IOC/BeanFactory.md",
-    "Java/常用开发框架/Spring/IOC/assests/类关系思维导图.md",
-    "DataBase/MySQL/Undo日志.md",
-    "Deploy/Linux/文本与阅读.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
@@ -205,7 +214,6 @@
     "Tools/attachments/Untitled.loom",
     "CS Base/数据结构与算法/算法思想",
     "CS Base/数据结构与算法",
-    "Java/一些核心源码",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
     "Excalidraw/attachments/Pasted Image 20240202094338_932.png",

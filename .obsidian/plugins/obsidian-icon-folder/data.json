@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "✏",
       "🚚",
       "🍿",
       "🎞",
@@ -14,8 +15,7 @@
       "🧃",
       "👨",
       "🍵",
-      "🖌",
-      "RaCrown"
+      "🖌"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -49,7 +49,6 @@
   "TODO": "📅",
   "Deploy": "🏠",
   "Deploy/Docker": "SiDocker",
-  "Memo": "📝",
   "Deploy/Linux": "SiLinux",
   "Kanban": "📋",
   "Excalidraw": "🖼",
@@ -63,5 +62,6 @@
   "Java/并发编程": "🚥",
   "Java/常用开发框架": "🎞",
   "Java/一些核心源码": "🍿",
-  "Java/开发相关": "🚚"
+  "Java/开发相关": "🚚",
+  "Personal/开发小记": "✏"
 }
