@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-14.md",
-                "mode": "source",
+                "file": "Tools/Git.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-14.md",
+                "file": "Tools/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-14.md",
+                "file": "Tools/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-14.md"
+                "file": "Tools/Git.md"
               }
             }
           }
@@ -184,8 +184,8 @@
   },
   "active": "fa57e3142a9e29b6",
   "lastOpenFiles": [
-    "Daily/2024-05-15.md",
     "Daily/2024-05-14.md",
+    "Daily/2024-05-15.md",
     "template/DailyPlanTemplate.md",
     "template",
     "Memo",
