@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Git.md",
-                "mode": "preview",
+                "file": "Daily/2024-05-15.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Git.md",
+                "file": "Daily/2024-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Git.md",
+                "file": "Daily/2024-05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Git.md"
+                "file": "Daily/2024-05-15.md"
               }
             }
           }
@@ -184,6 +184,7 @@
   },
   "active": "fa57e3142a9e29b6",
   "lastOpenFiles": [
+    "Tools/Git.md",
     "Daily/2024-05-14.md",
     "Daily/2024-05-15.md",
     "template/DailyPlanTemplate.md",
@@ -212,7 +213,6 @@
     "Deploy/Linux/遇到的问题记录.md",
     "Deploy/Linux/Vim教程.md",
     "Deploy/Linux/常用命令.md",
-    "Tools/Git.md",
     "CS Base/数据结构与算法/动态规划/354.俄罗斯套娃信封问题.md",
     "CS Base/汇编语言/8086/实验篇.md",
     "Personal/杂七杂八/Windows开放局域网端口.md",
