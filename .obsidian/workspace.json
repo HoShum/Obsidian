@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "c9549f8b1f0e8298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deploy/Linux/Vim教程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3b7c23515bee1652",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/远程开发.md",
+                "file": "Daily/2024-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/远程开发.md",
+                "file": "Daily/2024-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/远程开发.md"
+                "file": "Daily/2024-05-16.md"
               }
             }
           }
@@ -190,11 +203,13 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "7d4cdcbde387aa50",
+  "active": "3b7c23515bee1652",
   "lastOpenFiles": [
+    "Deploy/Linux/Vim教程.md",
+    "Personal/开发小记/一些小技巧.md",
     "Daily/2024-05-16.md",
-    "Java/一些核心源码/ThreadLocal.md",
     "Tools/远程开发.md",
+    "Java/一些核心源码/ThreadLocal.md",
     "git push.md",
     "Tools/Windows下的端口转发.md",
     "TODO/📆TODO.md",
@@ -205,7 +220,6 @@
     "template/DailyPlanTemplate.md",
     "template",
     "Memo",
-    "Personal/开发小记/一些小技巧.md",
     "新建文件夹",
     "Daily",
     "D",
@@ -223,7 +237,6 @@
     "Deploy/Docker/Docker基础.md",
     "Deploy/Linux/文件与目录.md",
     "Deploy/Linux/系统服务.md",
-    "Deploy/Linux/遇到的问题记录.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
