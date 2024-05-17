@@ -199,8 +199,7 @@
       "local-backup:Run local backup": false,
       "obsidian-memos:Thino": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "hidden-folder-obsidian:显示文件夹": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "3b7c23515bee1652",
