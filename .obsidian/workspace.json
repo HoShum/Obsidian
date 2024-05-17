@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-18.md",
-                "mode": "source",
+                "file": "Tools/Windows命令行.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-18.md",
+                "file": "Tools/Windows命令行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-18.md",
+                "file": "Tools/Windows命令行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-18.md"
+                "file": "Tools/Windows命令行.md"
               }
             }
           }
@@ -193,8 +193,8 @@
   },
   "active": "c9549f8b1f0e8298",
   "lastOpenFiles": [
-    "Daily/2024-05-17.md",
     "Daily/2024-05-18.md",
+    "Daily/2024-05-17.md",
     "Deploy/Linux/Vim教程.md",
     "Daily/2024-05-16.md",
     "Daily/2024-05-15.md",
