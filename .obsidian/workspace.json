@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-17.md",
+                "file": "Daily/2024-05-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-17.md",
+                "file": "Daily/2024-05-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-17.md",
+                "file": "Daily/2024-05-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-17.md"
+                "file": "Daily/2024-05-14.md"
               }
             }
           }
@@ -199,13 +199,14 @@
       "local-backup:Run local backup": false,
       "obsidian-memos:Thino": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "hidden-folder-obsidian:显示文件夹": false
     }
   },
   "active": "3b7c23515bee1652",
   "lastOpenFiles": [
-    "Daily/2024-05-16.md",
     "Daily/2024-05-17.md",
+    "Daily/2024-05-16.md",
     "Deploy/Linux/Vim教程.md",
     "Personal/开发小记/一些小技巧.md",
     "Tools/远程开发.md",
