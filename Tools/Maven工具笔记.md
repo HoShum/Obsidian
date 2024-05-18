@@ -1,6 +1,6 @@
 #Java #Maven
 
-# Maven相关
+# Maven工具笔记
 
 ## 基本命令
 
