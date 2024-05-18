@@ -114,4 +114,5 @@ allprojects {
 
 - [JavaGuide](https://javaguide.cn/tools/gradle/gradle-core-concepts.html#gradle-%E4%BB%8B%E7%BB%8D)
 - [CSDN-优雅地shiyongGradle和Idea](https://blog.csdn.net/Holmes_shuai/article/details/119665758)
+- [CSDN-解决SpringBoot编译报错](https://blog.csdn.net/weixin_43933728/article/details/125561921)
 

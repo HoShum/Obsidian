@@ -14,21 +14,8 @@
               "type": "thino_view",
               "state": {}
             }
-          },
-          {
-            "id": "c9549f8b1f0e8298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Git.md",
+                "file": "Tools/远程开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Git.md",
+                "file": "Tools/远程开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Git.md"
+                "file": "Tools/远程开发.md"
               }
             }
           }
@@ -191,8 +178,9 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "c9549f8b1f0e8298",
+  "active": "7d4cdcbde387aa50",
   "lastOpenFiles": [
+    "Tools/Git.md",
     "Daily/2024-05-18.md",
     "Daily/2024-05-17.md",
     "Deploy/Linux/Vim教程.md",
@@ -206,7 +194,6 @@
     "Tools/Windows下的端口转发.md",
     "TODO/📆TODO.md",
     "Excalidraw/Drawing 2024-05-16 08.59.37.excalidraw.md",
-    "Tools/Git.md",
     "template/DailyPlanTemplate.md",
     "template",
     "Memo",
