@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ee3084414cdbb195",
+        "id": "b1791a21fbe9c4d9",
         "type": "tabs",
         "children": [
           {
-            "id": "e507dd968d6ff0be",
+            "id": "5142b242352dedf0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-05-19.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-05-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-05-19.md"
+              }
             }
           }
         ],
@@ -174,8 +182,9 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "e507dd968d6ff0be",
+  "active": "5142b242352dedf0",
   "lastOpenFiles": [
+    "Daily/2024-05-19.md",
     "Tools/远程开发.md",
     "Tools/Git.md",
     "Daily/2024-05-18.md",
@@ -207,7 +216,6 @@
     "Java/开发相关/数据源切换失效分析.md",
     "C&Cpp/C程序设计语言-读书笔记.md",
     "CS Base/数据结构与算法/动态规划/300.最长递增子序列.md",
-    "Deploy/Docker/Docker基础.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
