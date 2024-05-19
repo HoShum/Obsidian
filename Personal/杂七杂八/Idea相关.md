@@ -5,4 +5,5 @@
 ## 2024.1版本
 - Git插件的LocalChanges不见了
     - 去到设置界面，VersionControl -> commit -> 把Use non-model commit interface勾选去掉
+- 想给SpringBoot程序设置启动参数，但是找不到输入框，原因是该版本默认隐藏了，需要在`Build and run`右侧，点击`Modify Options`，往下看，有一栏是Java，里面对`Program arguments`进行勾选，就会出现这个输入框，其它同理
 
