@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-20.md",
-                "mode": "source",
+                "file": "Tools/Gradle工具笔记.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-20.md",
+                "file": "Tools/Gradle工具笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-20.md",
+                "file": "Tools/Gradle工具笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-20.md"
+                "file": "Tools/Gradle工具笔记.md"
               }
             }
           }
@@ -184,8 +184,8 @@
   },
   "active": "5142b242352dedf0",
   "lastOpenFiles": [
-    "Personal/杂七杂八/Idea相关.md",
     "Daily/2024-05-20.md",
+    "Personal/杂七杂八/Idea相关.md",
     "Daily/2024-05-19.md",
     "Tools/远程开发.md",
     "Tools/Git.md",
