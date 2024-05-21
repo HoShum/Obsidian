@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4ffba207d8d88d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/开发小记/一些小技巧.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d8fee27abc002dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/面试经历/面经-电讯盈科.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-21.md",
+                "file": "Personal/面试经历/面经-电讯盈科.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-21.md",
+                "file": "Personal/面试经历/面经-电讯盈科.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-21.md"
+                "file": "Personal/面试经历/面经-电讯盈科.md"
               }
             }
           }
@@ -182,11 +207,14 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "2dcd9e7a5d38dbc2",
+  "active": "9d8fee27abc002dd",
   "lastOpenFiles": [
+    "Personal/开发小记/一些小技巧.md",
+    "Personal/面试经历/面经-电讯盈科.md",
+    "Daily/2024-05-21.md",
+    "Personal/面试经历",
     "Personal/杂七杂八/踩过的坑.md",
     "Tools/Git.md",
-    "Daily/2024-05-21.md",
     "Tools/Gradle工具笔记.md",
     "Daily/2024-05-20.md",
     "Personal/杂七杂八/Idea相关.md",
@@ -198,7 +226,6 @@
     "Daily/2024-05-16.md",
     "Daily/2024-05-15.md",
     "Daily/2024-05-14.md",
-    "Personal/开发小记/一些小技巧.md",
     "Java/一些核心源码/ThreadLocal.md",
     "git push.md",
     "Tools/Windows下的端口转发.md",
@@ -215,12 +242,10 @@
     "Personal/杂七杂八/Spring相关.md",
     "Personal/杂七杂八/记录一次配置静态路由.md",
     "Personal/杂七杂八/NVim相关.md",
-    "DataBase/MySQL/BufferPool.md",
     "Java/常用开发框架/MyBatis/生命周期流程图.canvas",
     "Java/常用开发框架/RPC",
     "Java/并发编程",
     "CS Base/操作系统",
-    "CS Base/算法与数据结构",
     "Excalidraw/attachments/Pasted Image 20240307153050_420.svg",
     "Excalidraw/attachments/Pasted Image 20240307152909_945.svg",
     "Excalidraw/attachments/Pasted Image 20240202094338_932.png",

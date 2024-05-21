@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "💰",
       "📝",
       "🌈",
       "📅",
@@ -14,8 +15,7 @@
       "🍿",
       "🎞",
       "🚥",
-      "👑",
-      "🧃"
+      "👑"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -64,5 +64,6 @@
   "Java/一些核心源码": "🍿",
   "Java/开发相关": "🚚",
   "Personal/开发小记": "✏",
-  "Daily": "📅"
+  "Daily": "📅",
+  "Personal/面试经历": "💰"
 }
