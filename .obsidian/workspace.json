@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/杂七杂八/踩过的坑.md",
+                "file": "Daily/2024-05-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/杂七杂八/踩过的坑.md",
+                "file": "Daily/2024-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/杂七杂八/踩过的坑.md",
+                "file": "Daily/2024-05-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/杂七杂八/踩过的坑.md"
+                "file": "Daily/2024-05-21.md"
               }
             }
           }
@@ -184,6 +184,7 @@
   },
   "active": "2dcd9e7a5d38dbc2",
   "lastOpenFiles": [
+    "Personal/杂七杂八/踩过的坑.md",
     "Tools/Git.md",
     "Daily/2024-05-21.md",
     "Tools/Gradle工具笔记.md",
@@ -212,7 +213,6 @@
     "Memo/2024-01-22.md",
     "Personal/开发小记",
     "Personal/杂七杂八/Spring相关.md",
-    "Personal/杂七杂八/踩过的坑.md",
     "Personal/杂七杂八/记录一次配置静态路由.md",
     "Personal/杂七杂八/NVim相关.md",
     "DataBase/MySQL/BufferPool.md",
