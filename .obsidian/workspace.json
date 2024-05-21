@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8af8d87097bff750",
+        "id": "d4eb5e88139e4de8",
         "type": "tabs",
         "children": [
           {
-            "id": "2dcd9e7a5d38dbc2",
+            "id": "72a907945936beb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-05-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4ffba207d8d88d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/开发小记/一些小技巧.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d8fee27abc002dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-05-22.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/开发小记/一些小技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/开发小记/一些小技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/开发小记/一些小技巧.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -207,12 +174,12 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "c4ffba207d8d88d9",
+  "active": "72a907945936beb5",
   "lastOpenFiles": [
+    "Daily/2024-05-21.md",
+    "Personal/开发小记/一些小技巧.md",
     "Daily/2024-05-22.md",
     "Personal/面试经历/面经-电讯盈科.md",
-    "Personal/开发小记/一些小技巧.md",
-    "Daily/2024-05-21.md",
     "Personal/面试经历",
     "Personal/杂七杂八/踩过的坑.md",
     "Tools/Git.md",
