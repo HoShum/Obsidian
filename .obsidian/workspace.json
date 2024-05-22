@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d4eb5e88139e4de8",
+        "id": "e22cdf7e2f2d3a85",
         "type": "tabs",
         "children": [
           {
-            "id": "72a907945936beb5",
+            "id": "40fbc2b9ee45b3f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-05-22.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-05-22.md"
+              }
             }
           }
         ],
@@ -174,7 +182,7 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "72a907945936beb5",
+  "active": "40fbc2b9ee45b3f6",
   "lastOpenFiles": [
     "Daily/2024-05-21.md",
     "Personal/开发小记/一些小技巧.md",
