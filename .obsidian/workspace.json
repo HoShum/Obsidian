@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07fe261a31722f1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deploy/Linux/常用命令.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66665bdedbd62ee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deploy/Linux/文本与阅读.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5507d55ea44693ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deploy/Linux/文件与目录.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-23.md",
+                "file": "Deploy/Linux/文本与阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-23.md",
+                "file": "Deploy/Linux/文本与阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-23.md"
+                "file": "Deploy/Linux/文本与阅读.md"
               }
             }
           }
@@ -182,16 +219,16 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "6ae2ce4453163e41",
+  "active": "66665bdedbd62ee6",
   "lastOpenFiles": [
+    "Deploy/Linux/文件与目录.md",
+    "Deploy/Linux/文本与阅读.md",
+    "Deploy/Linux/常用命令.md",
     "Daily/2024-05-23.md",
     "Deploy/Linux/常用软件及功能.md",
-    "Deploy/Linux/文本与阅读.md",
-    "Deploy/Linux/文件与目录.md",
     "Deploy/Linux/遇到的问题记录.md",
     "Deploy/Linux/Vim教程.md",
     "Daily/2024-05-22.md",
-    "Deploy/Linux/常用命令.md",
     "Daily/2024-05-21.md",
     "Personal/开发小记/一些小技巧.md",
     "Personal/面试经历/面经-电讯盈科.md",
