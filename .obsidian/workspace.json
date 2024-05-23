@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e5bcc924c488b338",
+        "id": "515be7cf7ac125f6",
         "type": "tabs",
         "children": [
           {
-            "id": "974b2f1e26fadfff",
+            "id": "6ae2ce4453163e41",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-05-23.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-05-23.md"
+              }
             }
           }
         ],
@@ -174,8 +182,9 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "974b2f1e26fadfff",
+  "active": "6ae2ce4453163e41",
   "lastOpenFiles": [
+    "Daily/2024-05-23.md",
     "Deploy/Linux/常用软件及功能.md",
     "Deploy/Linux/文本与阅读.md",
     "Deploy/Linux/文件与目录.md",
@@ -202,7 +211,6 @@
     "Java/一些核心源码/ThreadLocal.md",
     "git push.md",
     "Tools/Windows下的端口转发.md",
-    "TODO/📆TODO.md",
     "template",
     "Memo",
     "新建文件夹",
