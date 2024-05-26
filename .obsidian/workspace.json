@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deploy/Linux/文本与阅读.md",
-                "mode": "preview",
+                "file": "Tools/Git.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deploy/Linux/文本与阅读.md",
+                "file": "Tools/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deploy/Linux/文本与阅读.md",
+                "file": "Tools/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deploy/Linux/文本与阅读.md"
+                "file": "Tools/Git.md"
               }
             }
           }
@@ -221,8 +221,9 @@
   },
   "active": "66665bdedbd62ee6",
   "lastOpenFiles": [
-    "Deploy/Linux/文件与目录.md",
+    "Daily/2024-05-26.md",
     "Deploy/Linux/文本与阅读.md",
+    "Deploy/Linux/文件与目录.md",
     "Deploy/Linux/常用命令.md",
     "Daily/2024-05-23.md",
     "Deploy/Linux/常用软件及功能.md",
@@ -247,7 +248,6 @@
     "Daily/2024-05-14.md",
     "Java/一些核心源码/ThreadLocal.md",
     "git push.md",
-    "Tools/Windows下的端口转发.md",
     "template",
     "Memo",
     "新建文件夹",
