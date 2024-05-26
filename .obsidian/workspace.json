@@ -11,9 +11,11 @@
             "id": "14cdbce527b06ccf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-26 11.41.40.excalidraw.md"
+                "file": "Daily/2024-05-26.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -81,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "dec21afec6639e20",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-26 11.41.40.excalidraw.md",
+                "file": "Daily/2024-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-26 11.41.40.excalidraw.md",
+                "file": "Daily/2024-05-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-26 11.41.40.excalidraw.md"
+                "file": "Daily/2024-05-26.md"
               }
             }
           }
