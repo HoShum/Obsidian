@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d6d2391da4332392",
+        "id": "13a3eedb96c9b9b6",
         "type": "tabs",
         "children": [
           {
-            "id": "78bd97cf29482bd0",
+            "id": "4fd7751e994a76d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-05-27.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-05-27.md"
+              }
             }
           }
         ],
@@ -174,8 +182,9 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "78bd97cf29482bd0",
+  "active": "4fd7751e994a76d7",
   "lastOpenFiles": [
+    "Daily/2024-05-27.md",
     "Daily/2024-05-26.md",
     "Excalidraw/Drawing 2024-05-26 11.02.22.excalidraw.md",
     "Excalidraw/Drawing 2024-05-16 08.59.37.excalidraw.md",
@@ -202,7 +211,6 @@
     "Personal/杂七杂八/Idea相关.md",
     "Daily/2024-05-19.md",
     "Tools/远程开发.md",
-    "Daily/2024-05-18.md",
     "template",
     "Memo",
     "新建文件夹",
