@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "79be094ce017b9fc",
+        "id": "6487f3d83304b3de",
         "type": "tabs",
         "children": [
           {
-            "id": "9cf4dd0c38f7db02",
+            "id": "f29a82d0dbf32630",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Daily/2024-05-29.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-06-03 15.10.36.excalidraw.md"
               }
             }
           }
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-29.md",
+                "file": "Excalidraw/Drawing 2024-06-03 15.10.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-29.md",
+                "file": "Excalidraw/Drawing 2024-06-03 15.10.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-29.md"
+                "file": "Excalidraw/Drawing 2024-06-03 15.10.36.excalidraw.md"
               }
             }
           }
@@ -182,10 +180,12 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "9cf4dd0c38f7db02",
+  "active": "f29a82d0dbf32630",
   "lastOpenFiles": [
-    "Daily/2024-05-27.md",
+    "Excalidraw/Drawing 2024-06-03 15.10.36.excalidraw.md",
     "Daily/2024-05-29.md",
+    "Daily/2024-06-03.md",
+    "Daily/2024-05-27.md",
     "Daily/2024-05-28.md",
     "Memo/2024-01-22.md",
     "Daily/2024-05-26.md",
@@ -209,8 +209,6 @@
     "Personal/面试经历/面经-电讯盈科.md",
     "Personal/面试经历",
     "Personal/杂七杂八/踩过的坑.md",
-    "Tools/Gradle工具笔记.md",
-    "Daily/2024-05-20.md",
     "template",
     "Memo",
     "新建文件夹",
