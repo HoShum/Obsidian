@@ -11,9 +11,11 @@
             "id": "f29a82d0dbf32630",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 15.10.36.excalidraw.md"
+                "file": "Daily/2024-06-15.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 15.10.36.excalidraw.md",
+                "file": "Daily/2024-06-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 15.10.36.excalidraw.md",
+                "file": "Daily/2024-06-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-03 15.10.36.excalidraw.md"
+                "file": "Daily/2024-06-15.md"
               }
             }
           }
@@ -183,6 +185,7 @@
   "active": "f29a82d0dbf32630",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-06-03 15.10.36.excalidraw.md",
+    "Daily/2024-06-15.md",
     "Daily/2024-05-29.md",
     "Daily/2024-06-03.md",
     "Daily/2024-05-27.md",
@@ -208,7 +211,6 @@
     "Personal/开发小记/一些小技巧.md",
     "Personal/面试经历/面经-电讯盈科.md",
     "Personal/面试经历",
-    "Personal/杂七杂八/踩过的坑.md",
     "template",
     "Memo",
     "新建文件夹",
