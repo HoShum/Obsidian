@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/开发相关/数据源切换失效分析.md",
-                "mode": "preview",
+                "file": "Daily/2024-06-16.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/开发相关/数据源切换失效分析.md",
+                "file": "Daily/2024-06-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/开发相关/数据源切换失效分析.md",
+                "file": "Daily/2024-06-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/开发相关/数据源切换失效分析.md"
+                "file": "Daily/2024-06-16.md"
               }
             }
           }
@@ -184,6 +184,8 @@
   },
   "active": "eef1f7f8b74b9c91",
   "lastOpenFiles": [
+    "Java/开发相关/数据源切换失效分析.md",
+    "Daily/2024-06-16.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
     "C&Cpp/C程序设计语言-读书笔记.md",
     "Daily/2024-06-15.md",
@@ -208,8 +210,6 @@
     "Deploy/Linux/文件与目录.md",
     "Deploy/Linux/常用软件及功能.md",
     "Deploy/Linux/遇到的问题记录.md",
-    "Deploy/Linux/Vim教程.md",
-    "Daily/2024-05-22.md",
     "Personal/面试经历",
     "template",
     "Memo",
