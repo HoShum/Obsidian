@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6487f3d83304b3de",
+        "id": "e18407d803dd17d0",
         "type": "tabs",
         "children": [
           {
-            "id": "f29a82d0dbf32630",
+            "id": "eef1f7f8b74b9c91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-06-15.md",
-                "mode": "source",
+                "file": "Java/开发相关/数据源切换失效分析.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-06-15.md",
+                "file": "Java/开发相关/数据源切换失效分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-06-15.md",
+                "file": "Java/开发相关/数据源切换失效分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-06-15.md"
+                "file": "Java/开发相关/数据源切换失效分析.md"
               }
             }
           }
@@ -182,10 +182,13 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "f29a82d0dbf32630",
+  "active": "eef1f7f8b74b9c91",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-03 15.10.36.excalidraw.md",
+    "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
+    "C&Cpp/C程序设计语言-读书笔记.md",
     "Daily/2024-06-15.md",
+    "DataBase/MySQL/BufferPool.md",
+    "Excalidraw/Drawing 2024-06-03 15.10.36.excalidraw.md",
     "Daily/2024-05-29.md",
     "Daily/2024-06-03.md",
     "Daily/2024-05-27.md",
@@ -207,9 +210,6 @@
     "Deploy/Linux/遇到的问题记录.md",
     "Deploy/Linux/Vim教程.md",
     "Daily/2024-05-22.md",
-    "Daily/2024-05-21.md",
-    "Personal/开发小记/一些小技巧.md",
-    "Personal/面试经历/面经-电讯盈科.md",
     "Personal/面试经历",
     "template",
     "Memo",
