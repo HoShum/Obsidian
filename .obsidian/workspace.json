@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4b9fcab0865c7232",
+        "id": "4d86ced175b3300c",
         "type": "tabs",
         "children": [
           {
-            "id": "2e1b0ac2fa903a35",
+            "id": "f291c768a055bebc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-06-16.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-06-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-06-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-06-16.md"
+              }
             }
           }
         ],
@@ -174,7 +182,7 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "2e1b0ac2fa903a35",
+  "active": "f291c768a055bebc",
   "lastOpenFiles": [
     "Tools/MinIO使用教程.md",
     "Tools/Git.md",
