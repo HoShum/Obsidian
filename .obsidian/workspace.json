@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-06-16.md",
+                "file": "Tools/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-06-16.md",
+                "file": "Tools/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-06-16.md",
+                "file": "Tools/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-06-16.md"
+                "file": "Tools/Git.md"
               }
             }
           }
@@ -182,8 +182,10 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "56e69b5d6c93f43d",
+  "active": "f291c768a055bebc",
   "lastOpenFiles": [
+    "Daily/2024-06-18.md",
+    "Daily/2024-06-16.md",
     "DataBase/Redis/基本命令.md",
     "DataBase/Redis/新建 文本文档.txt",
     "DataBase/Redis",
@@ -201,7 +203,6 @@
     "Java/常用开发框架/MyBatis/工具集.md",
     "Java/常用开发框架/MyBatis/基础说明.md",
     "Deploy/Docker/Docker基础.md",
-    "Daily/2024-06-16.md",
     "Java/开发相关/数据源切换失效分析.md",
     "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
     "C&Cpp/C程序设计语言-读书笔记.md",
@@ -212,7 +213,6 @@
     "Daily/2024-06-03.md",
     "Daily/2024-05-27.md",
     "Daily/2024-05-28.md",
-    "Memo/2024-01-22.md",
     "Personal/面试经历",
     "template",
     "Memo",
