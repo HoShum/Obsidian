@@ -61,8 +61,7 @@
   "workspace:close-window": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "W"
     }
