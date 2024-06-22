@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8833d1e96afd892c",
+        "id": "5488e3b2134dd0d2",
         "type": "tabs",
         "children": [
           {
-            "id": "eb1156468d053478",
+            "id": "b200db55ae225f65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-06-22.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-06-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-06-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-06-22.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -182,37 +174,37 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "eb1156468d053478",
+  "active": "b200db55ae225f65",
   "lastOpenFiles": [
-    "Personal/杂七杂八/Maven相关.md",
-    "Memo/2024-01-22.md",
-    "Personal/杂七杂八/MySQL映射外网.md",
-    "Java/常用开发框架/MyBatis/日志整合.md",
-    "Daily/2024-06-22.md",
-    "Tools/Git.md",
+    "Personal/杂七杂八/开发小记/ChainFlow.md",
+    "Personal/开发小记/一些小技巧.md",
+    "Project/抹茶项目/用户模块.md",
+    "Project/抹茶项目/WebSocket模块.md",
     "Daily/2024-06-21.md",
     "Daily/2024-06-19.md",
     "Daily/2024-06-18.md",
     "Daily/2024-06-16.md",
-    "DataBase/Redis/基本命令.md",
+    "Daily/2024-06-15.md",
+    "Daily/2024-06-03.md",
+    "Personal/杂七杂八/Spring相关.md",
+    "Personal/杂七杂八/NVim相关.md",
+    "Personal/杂七杂八/Idea相关.md",
+    "Personal/杂七杂八/MySQL映射外网.md",
+    "Personal/杂七杂八/Maven相关.md",
+    "Tools/MinIO使用教程.md",
+    "Tools/Git.md",
+    "Tools/工具集.md",
+    "Daily/2024-06-22.md",
+    "Tools/Maven工具笔记.md",
+    "Tools/Markdown语法.md",
+    "Tools/Lua笔记.md",
+    "Tools/Idea工具笔记.md",
+    "Tools/Gradle工具笔记.md",
+    "Tools/Windows下的端口转发.md",
+    "Tools/PicGo配置教程.md",
     "DataBase/Redis/新建 文本文档.txt",
     "DataBase/Redis",
     "DataBase/新建文件夹",
-    "Tools/MinIO使用教程.md",
-    "Tools/PicGo配置教程.md",
-    "Tools/Windows下的端口转发.md",
-    "Tools/Idea工具笔记.md",
-    "Tools/Gradle工具笔记.md",
-    "Java/常用开发框架/MyBatis/核心组件-MappedStatement & SqlSource.md",
-    "Java/常用开发框架/MyBatis/核心组件-MapperBuilderAssistant.md",
-    "Java/常用开发框架/MyBatis/核心组件-Executor.md",
-    "Java/常用开发框架/MyBatis/插件.md",
-    "Java/常用开发框架/MyBatis/工具集.md",
-    "Java/常用开发框架/MyBatis/基础说明.md",
-    "Deploy/Docker/Docker基础.md",
-    "Java/开发相关/数据源切换失效分析.md",
-    "Java/常用开发框架/MyBatis/代码解析-解析配置文件.md",
-    "C&Cpp/C程序设计语言-读书笔记.md",
     "Personal/面试经历",
     "template",
     "Memo",

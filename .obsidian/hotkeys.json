@@ -30,6 +30,12 @@
         "Alt"
       ],
       "key": "W"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
     }
   ],
   "file-explorer:new-file": [
@@ -58,12 +64,5 @@
       "key": "R"
     }
   ],
-  "workspace:close-window": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "W"
-    }
-  ]
+  "workspace:close-window": []
 }
