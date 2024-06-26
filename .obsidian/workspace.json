@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5488e3b2134dd0d2",
+        "id": "74eb918aa3a8df40",
         "type": "tabs",
         "children": [
           {
-            "id": "b200db55ae225f65",
+            "id": "b62d877c7fc8dc33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-06-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-06-26.md"
+              }
             }
           }
         ],
@@ -174,8 +182,9 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "b200db55ae225f65",
+  "active": "b62d877c7fc8dc33",
   "lastOpenFiles": [
+    "Daily/2024-06-26.md",
     "Personal/杂七杂八/开发小记/ChainFlow.md",
     "Personal/开发小记/一些小技巧.md",
     "Project/抹茶项目/用户模块.md",
@@ -201,7 +210,6 @@
     "Tools/Idea工具笔记.md",
     "Tools/Gradle工具笔记.md",
     "Tools/Windows下的端口转发.md",
-    "Tools/PicGo配置教程.md",
     "DataBase/Redis/新建 文本文档.txt",
     "DataBase/Redis",
     "DataBase/新建文件夹",
